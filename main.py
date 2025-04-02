@@ -11,40 +11,51 @@ def distance(latBase, longBase, lat2, long2):   #calculates the distance on a ma
     c = 2 * atan2(sqrt(a), sqrt(1 - a))
     return R * c
 
-
 # Set the latitude and longitude of the target location (example: Warsaw)
-latitude, longitude = 53.3789332, 14.6252957
+latitude, longitude = 54.360016, 18.647321
+
+#radius of scouting for places
+radius = 1000
 
 # Overpass API URL (used to query OpenStreetMap data)
 overpass_url = "http://overpass-api.de/api/interpreter"
 
-# Overpass query to find bus stops within a 1000-meter (1 km) radius
-overpass_query = f"""
-[out:json];
-(
-  node["highway"="bus_stop"](around:500,{latitude},{longitude});
-);
-out body;
-"""
 
-# Send the request to Overpass API with the query
-response = requests.get(overpass_url, params={"data": overpass_query}).json()
+def find_nearest(query):
+    overpass_query = f"""
+    [out:json];
+    (
+      {query}(around:{radius},{latitude},{longitude});
+    );
+    out body;
+    """
+    # Send the request to Overpass API with the query
+    response = requests.get(overpass_url, params={"data": overpass_query}).json()
 
-# Extract bus stop elements from the API response
-bus_stops = response.get("elements", [])
+    # Extract point of interest elements from the API response
+    elements = response.get("elements", [])
 
-# Check if any bus stops were found
-if bus_stops:
-    # Get the latitude and longitude of the nearest bus stop
-    stop_lat, stop_lng = bus_stops[0]["lat"], bus_stops[0]["lon"]
-    dist = distance(latitude,longitude, stop_lat, stop_lng)
-    coordinates = [stop_lat, stop_lng]
-    for stop in bus_stops:  # `stop` is already a dictionary
-        stop_lat2, stop_lng2 = stop["lat"], stop["lon"]
-        if dist > distance(latitude, longitude, stop_lat2, stop_lng2):
-            dist = distance(latitude, longitude, stop_lat2, stop_lng2)
-            coordinates = [stop_lat2, stop_lng2]
-    print(f"Nearest bus stop at: {coordinates[0]}, {coordinates[1]} \ndistance to location: {dist}")
-else:
-    # If no bus stops are found, display a message
-    print("No bus stops found nearby.")
+    if elements: # Check if any results were found
+        # Find the closest element using the minimum distance function
+        nearest = min(elements, key=lambda e: distance(latitude,longitude, e["lat"], e["lon"]))
+        return nearest["lat"], nearest["lon"], distance(latitude,longitude, nearest["lat"], nearest["lon"])
+    return None # Return None if no elements are found
+
+categories = {
+    "Bus Stop": 'node["highway"="bus_stop"]',  # Bus stops
+    "Park": 'node["leisure"="park"]',  # Parks
+    "Shop": 'node["shop"]',  # Shops and retail areas
+    "Museum": 'node["tourism"="museum"]',  # Museums
+}
+
+results = {}
+for category, query in categories.items():
+    result = find_nearest(query)
+    if result:
+        results[category] = result
+
+for category, (lat, lon, dist) in results.items():
+    print(f"Nearest {category} at {lat}, {lon}, Distance: {dist} km")
+
+
+
