@@ -20,8 +20,9 @@ shopping_centers = shopping_centers.reset_index()  # Reset index to keep ID info
 shopping_centers_df = shopping_centers[columns_of_interest]
 
 # 5. Drop rows without geometry
+before_drop = len(shopping_centers_df)
 shopping_centers_df = shopping_centers_df.dropna(subset=['geometry'])
-
+after_drop = len(shopping_centers_df)
 # 6. Create a GeoDataFrame
 shopping_centers_gdf = gpd.GeoDataFrame(shopping_centers_df, geometry='geometry')
 
@@ -41,3 +42,18 @@ shopping_centers_locations_df = shopping_centers_gdf[['name', 'shop', 'amenity',
 
 # 9. Show the table with shopping center locations and their coordinates
 print(shopping_centers_locations_df.to_string(index=False))
+
+#shopping_centers_locations_df.to_csv("shopping_centers_locations.csv", index=False)
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# shopping_centers_locations_gdf = gpd.GeoDataFrame(
+#     shopping_centers_locations_df,
+#     geometry=gpd.points_from_xy(shopping_centers_locations_df.longitude, shopping_centers_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# shopping_centers_locations_gdf.to_file("shopping_centers_locations_gdf.geojson", driver='GeoJSON')
+print(f"Dropped {before_drop - after_drop} rows with missing geometry in shopping_centers_df.")

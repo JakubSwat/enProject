@@ -42,4 +42,16 @@ utilities_locations_df = utilities_gdf[['name', 'power', 'man_made', 'latitude',
 # 9. Show the table
 print(utilities_locations_df.to_string(index=False))
 
-utilities_locations_df.to_csv("utilities_locations.csv", index=False)
+#utilities_locations_df.to_csv("utilities_locations.csv", index=False)
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# utilities_locations_gdf = gpd.GeoDataFrame(
+#     utilities_locations_df,
+#     geometry=gpd.points_from_xy(utilities_locations_df.longitude, utilities_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# utilities_locations_gdf.to_file("utilities_locations_gdf.geojson", driver='GeoJSON')

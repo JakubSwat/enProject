@@ -56,3 +56,18 @@ primary_schools_locations_df = primary_schools_gdf[['name', 'amenity', 'latitude
 
 # 12. Wyświetlamy tabelę
 print(primary_schools_locations_df.to_string(index=False))
+
+#primary_schools_locations_df.to_csv("primary_schools_locations.csv", index=False)
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# primary_schools_locations_gdf = gpd.GeoDataFrame(
+#     primary_schools_locations_df,
+#     geometry=gpd.points_from_xy(primary_schools_locations_df.longitude, primary_schools_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# primary_schools_locations_gdf.to_file("primary_schools_locations_gdf.geojson", driver='GeoJSON')
+

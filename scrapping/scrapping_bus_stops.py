@@ -54,3 +54,15 @@ bus_stops_locations_df = bus_stops_gdf[['name', 'highway', 'latitude', 'longitud
 print(bus_stops_locations_df.to_string(index=False))
 
 #bus_stops_locations_df.to_csv("bus_stops_locations.csv", index=False)
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# bus_stops_locations_gdf = gpd.GeoDataFrame(
+#     bus_stops_locations_df,
+#     geometry=gpd.points_from_xy(bus_stops_locations_df.longitude, bus_stops_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# bus_stops_locations_gdf.to_file("bus_stops_locations_gdf.geojson", driver='GeoJSON')

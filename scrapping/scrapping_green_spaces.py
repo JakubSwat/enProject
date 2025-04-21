@@ -59,3 +59,16 @@ green_spaces_locations_df = green_spaces_gdf[['name', 'leisure', 'landuse', 'nat
 # 10. Print the table
 print(green_spaces_locations_df.to_string(index=False))
 
+#green_spaces_locations_df.to_csv("green_spaces_locations.csv", index=False)
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# green_spaces_locations_gdf = gpd.GeoDataFrame(
+#     green_spaces_locations_df,
+#     geometry=gpd.points_from_xy(green_spaces_locations_df.longitude, green_spaces_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# green_spaces_locations_gdf.to_file("green_spaces_locations_gdf.geojson", driver='GeoJSON')

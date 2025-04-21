@@ -43,3 +43,16 @@ entertainment_places_locations_df = entertainment_places_gdf[['name', 'amenity',
 print(entertainment_places_locations_df.to_string(index=False))
 
 #entertainment_places_locations_df.to_csv("entertainment_places_locations.csv", index=False)
+
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# entertainment_places_locations_gdf = gpd.GeoDataFrame(
+#     entertainment_places_locations_df,
+#     geometry=gpd.points_from_xy(entertainment_places_locations_df.longitude, entertainment_places_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# entertainment_places_locations_gdf.to_file("entertainment_places_locations_gdf.geojson", driver='GeoJSON')

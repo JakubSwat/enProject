@@ -25,6 +25,7 @@ historic_places_df = historic_places_df.dropna(subset=['geometry'])
 # 6. Create a GeoDataFrame
 historic_places_gdf = gpd.GeoDataFrame(historic_places_df, geometry='geometry')
 
+
 # 7. Extract latitude and longitude
 def get_coordinates(geometry):
     if geometry.geom_type == 'Point':
@@ -34,10 +35,26 @@ def get_coordinates(geometry):
     else:
         return None, None
 
-historic_places_gdf['longitude'], historic_places_gdf['latitude'] = zip(*historic_places_gdf['geometry'].apply(get_coordinates))
+
+historic_places_gdf['longitude'], historic_places_gdf['latitude'] = zip(
+    *historic_places_gdf['geometry'].apply(get_coordinates))
 
 # 8. Prepare the final table
 historic_places_locations_df = historic_places_gdf[['name', 'historic', 'tourism', 'latitude', 'longitude']]
 
 # 9. Show the table
 print(historic_places_locations_df.to_string(index=False))
+
+#historic_places_locations_df.to_csv("historic_places_locations.csv", index=False)
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# historic_places_locations_gdf = gpd.GeoDataFrame(
+#     historic_places_locations_df,
+#     geometry=gpd.points_from_xy(historic_places_locations_df.longitude, historic_places_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# historic_places_locations_gdf.to_file("historic_places_locations_gdf.geojson", driver='GeoJSON')

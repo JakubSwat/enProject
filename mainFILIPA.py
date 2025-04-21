@@ -45,6 +45,6 @@ if __name__ == "__main__":
 
     # Optional: save to CSV
     matrix.to_csv('distance_matrix.csv')
-
+#Przykład Jak odpalić
 #python mainFILIPA.py /Users/filiporlikowski/Documents/inżynierka/enProject/bus_stops_locations.csv /Users/filiporlikowski/Documents/inżynierka/enProject/entertainment_places_locations.csv
 

@@ -46,3 +46,18 @@ preschools_locations_df = preschools_gdf[['name', 'amenity', 'latitude', 'longit
 
 # 11. Print the table
 print(preschools_locations_df.to_string(index=False))
+
+#preschools_locations_df.to_csv("preschools_locations.csv", index=False)
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# preschools_locations_gdf = gpd.GeoDataFrame(
+#     preschools_locations_df,
+#     geometry=gpd.points_from_xy(preschools_locations_df.longitude, preschools_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# preschools_locations_gdf.to_file("preschools_locations_gdf.geojson", driver='GeoJSON')
+

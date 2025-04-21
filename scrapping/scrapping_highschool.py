@@ -44,3 +44,18 @@ highschools_locations_df = highschools_gdf[['name', 'amenity', 'latitude', 'long
 
 # 10. Show the table
 print(highschools_locations_df.to_string(index=False))
+
+
+#highschools_locations_df.to_csv("highschools_and_others_locations.csv", index=False)
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# highschools_locations_gdf = gpd.GeoDataFrame(
+#     highschools_locations_df,
+#     geometry=gpd.points_from_xy(highschools_locations_df.longitude, highschools_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# highschools_locations_gdf.to_file("highschools_locations_gdf.geojson", driver='GeoJSON')

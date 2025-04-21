@@ -40,3 +40,18 @@ train_stops_locations_df = train_stops_gdf[['name', 'railway', 'latitude', 'long
 
 # 9. Show the table with train stops and their coordinates
 print(train_stops_locations_df.to_string(index=False))
+
+#train_stops_locations_df.to_csv("train_stops_locations.csv", index=False)
+
+#geodataframe conversion
+
+# Create a GeoDataFrame
+# tram_stops_locations_gdf = gpd.GeoDataFrame(
+#     train_stops_locations_df,
+#     geometry=gpd.points_from_xy(train_stops_locations_df.longitude, train_stops_locations_df.latitude),
+#     crs="EPSG:4326"  # WGS84 coordinate reference system (standard for GPS)
+# )
+#
+# # Save to GeoJSON
+# train_stops_locations_gdf.to_file("train_stops_locations_gdf.geojson", driver='GeoJSON')
+
