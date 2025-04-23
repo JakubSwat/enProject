@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 
 ## 1. Load your incomplete dataset
-your_data = gpd.read_file("employment_hubs_locations_gdf.geojson")
+your_data = gpd.read_file("../employment_hubs_locations_gdf.geojson")
 
 folder_path = Path("pomorskie-latest-free")
 
