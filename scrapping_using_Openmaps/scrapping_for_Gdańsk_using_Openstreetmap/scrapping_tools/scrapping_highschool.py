@@ -26,7 +26,7 @@ schools_gdf = gpd.GeoDataFrame(schools_df, geometry='geometry')
 
 # 7. Keep only high schools and technical schools based on name
 # (filtr na "Liceum" i "Technikum")
-highschools_gdf = schools_gdf[schools_gdf['name'].str.contains('Liceum|Technikum', case=False, na=False)]
+highschools_gdf = schools_gdf[~schools_gdf['name'].str.contains('Przedszkolne|Technikum', case=False, na=False)]
 
 # 8. Extract latitude and longitude
 def get_coordinates(geometry):

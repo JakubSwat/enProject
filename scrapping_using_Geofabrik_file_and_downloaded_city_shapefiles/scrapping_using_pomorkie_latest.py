@@ -1,7 +1,7 @@
 import os
 import geopandas as gpd
 
-from scrapping.scrapping_for_Gdańsk_using_Openstreetmap.ultimate_scrapping_tool_divided.scrapping_shopping_locations import \
+from scrapping_using_Openmaps.scrapping_for_Gdańsk_using_Openstreetmap.scrapping_tools.scrapping_shopping_locations import \
     before_drop
 
 # Directory where all shapefiles are
