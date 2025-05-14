@@ -59,3 +59,9 @@ r2 = r2_score(y_test, y_pred)
 print(f"\n✅ Final Model Evaluation")
 print(f"Root Mean Squared Error (RMSE): {rmse}")
 print(f"R-squared (R²): {r2}")
+
+model.save("price_model.h5")
+
+# Save the scaler using joblib or pickle
+import joblib
+joblib.dump(scaler, "scaler.save")
