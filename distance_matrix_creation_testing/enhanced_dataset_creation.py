@@ -15,7 +15,7 @@ def haversine(lat1, lon1, lat2, lon2):
 
 # Directories
 property_dir = '/Users/filiporlikowski/Documents/inżynierka/enProject/KaggleDataset'
-poi_dir = '/Users/filiporlikowski/Documents/inżynierka/enProject/scrapping_using_Openmaps'
+poi_dir = '/Users/filiporlikowski/Documents/enProject/scrapping_using_Openmaps/scrapping_for_Gdańsk_using_Openstreetmap'
 output_dir = os.path.join(property_dir, 'output')
 os.makedirs(output_dir, exist_ok=True)
 

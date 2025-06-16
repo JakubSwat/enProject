@@ -11,7 +11,7 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras.optimizers import Adam
 
 # Directory where the CSV files are stored
-directory_path = '/Users/filiporlikowski/Documents/inżynierka/enProject/KaggleDataset/output/'
+directory_path = '/Users/filiporlikowski/Documents/enProject/KaggleDataset/output_org/'
 
 # Get all CSV files in the directory
 csv_files = glob.glob(os.path.join(directory_path, '*.csv'))
@@ -58,7 +58,7 @@ model = Sequential([
 model.compile(optimizer=Adam(learning_rate=0.001), loss='mean_squared_error')
 
 # Train the model
-history = model.fit(X_train_scaled, y_train, epochs=100, batch_size=32, validation_data=(X_test_scaled, y_test), verbose=1)
+history = model.fit(X_train_scaled, y_train, epochs=20, batch_size=32, validation_data=(X_test_scaled, y_test), verbose=1)
 
 # Evaluate the model on the test data
 y_pred = model.predict(X_test_scaled)
@@ -70,3 +70,58 @@ r2 = r2_score(y_test, y_pred)
 # Print the performance metrics
 print(f"Root Mean Squared Error (RMSE): {rmse}")
 print(f"R-squared (R2) score: {r2}")
+
+
+import matplotlib.pyplot as plt
+
+# -----------------------------
+# Plot 1: Predicted vs True
+# -----------------------------
+plt.figure(figsize=(8, 6))
+plt.scatter(y_test, y_pred, alpha=0.3, edgecolor='k')
+plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'r--')
+plt.xlabel('True Price')
+plt.ylabel('Predicted Price')
+plt.title('Predicted vs. True Prices')
+plt.grid(True)
+plt.tight_layout()
+plt.savefig('predicted_vs_true_20_epochs.png', dpi=300, bbox_inches='tight')
+# -----------------------------
+# Plot 2: Validation & Training Loss
+# -----------------------------
+plt.figure(figsize=(8, 6))
+plt.plot(history.history['loss'], label='Training Loss', linewidth=2)
+plt.plot(history.history['val_loss'], label='Validation Loss', linewidth=2)
+plt.xlabel('Epoch')
+plt.ylabel('Loss (MSE)')
+
+plt.savefig('validation_loss_20_epochs.png', dpi=300, bbox_inches='tight')
+
+#Permutation Feature Importance
+
+from sklearn.inspection import permutation_importance
+
+# Wrap your model in a Scikit-Learn-compatible KerasRegressor
+from scikeras.wrappers import KerasRegressor
+
+def build_model():
+    model = Sequential([
+        Dense(64, input_dim=X_train_scaled.shape[1], activation='relu'),
+        Dense(32, activation='relu'),
+        Dense(16, activation='relu'),
+        Dense(1)
+    ])
+    model.compile(optimizer=Adam(learning_rate=0.001), loss='mean_squared_error')
+    return model
+
+keras_reg = KerasRegressor(build_fn=build_model, epochs=20, batch_size=32, verbose=0)
+keras_reg.fit(X_train_scaled, y_train)
+
+# Compute permutation importance
+result = permutation_importance(keras_reg, X_test_scaled, y_test, n_repeats=10, random_state=42, scoring='neg_mean_squared_error')
+
+# Display the importances
+importances = pd.Series(result.importances_mean, index=X.columns)
+importances.sort_values(ascending=False).plot(kind='barh', figsize=(10, 8), title='Feature Importance (Permutation)')
+plt.tight_layout()
+plt.savefig("feature_importance_permutation.png", dpi=300, bbox_inches='tight')
