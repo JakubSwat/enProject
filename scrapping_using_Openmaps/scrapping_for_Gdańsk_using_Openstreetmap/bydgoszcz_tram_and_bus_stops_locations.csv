@@ -1,0 +1,905 @@
+name,highway,latitude,longitude
+Plac Kościeleckich [stanowisko 2],bus_stop,53.1205889,18.0042287
+Plac Poznański,bus_stop,53.1227476,17.9868648
+Rondo Grunwaldzkie,bus_stop,53.1266579,17.9859978
+Grunwaldzka / Kanałowa,bus_stop,53.1300988,17.977999
+Wiejska / Krajeńska,bus_stop,53.1418203,17.9552877
+Wiejska / Chojnicka,bus_stop,53.1465108,17.9567401
+Czyżkówko,bus_stop,53.1443932,17.9492946
+Deszczowa / Wichrowa,bus_stop,53.1485326,17.9506271
+Wiejska / Deszczowa,bus_stop,53.1497704,17.9575871
+Wiejska / Chojnicka,bus_stop,53.1476599,17.9568972
+Krajeńska / Wiejska,bus_stop,53.1414142,17.9555514
+Nad Torem / Orlicza,bus_stop,53.1401967,17.9627448
+Rondo Maczka P+R,bus_stop,53.1379105,17.9636945
+Grunwaldzka / Kraszewskiego,bus_stop,53.1329813,17.9699412
+Grunwaldzka / Kanałowa,bus_stop,53.1294447,17.9790142
+Plac Poznański,bus_stop,53.1215015,17.9882799
+Nowy Rynek,bus_stop,53.1200214,17.9978602
+Zbożowy Rynek,bus_stop,53.1196882,18.003456
+Rondo Jagiellonów,bus_stop,53.1224699,18.0072591
+Plac Kościeleckich [dla wysiadających],bus_stop,53.1205587,18.0051935
+Szubińska / Żwirki i Wigury,bus_stop,53.115778,17.9666193
+Szubińska / Gnieźnieńska,bus_stop,53.1178129,17.9738425
+Szubińska / Piękna,bus_stop,53.1194638,17.979672
+Rondo Jagiellonów,bus_stop,53.1240702,18.0087132
+Markwarta / 3 Maja,bus_stop,53.1267572,18.0105558
+Rondo Ossolińskich,bus_stop,53.1269962,18.0162694
+Plac Weyssenhoffa,bus_stop,53.1293813,18.0153769
+UKW,bus_stop,53.1320115,18.0212554
+Sułkowskiego / Czerkaska,bus_stop,53.1398723,18.0286931
+Leśne,bus_stop,53.1434395,18.0311984
+Myślęcinek,bus_stop,53.1615079,18.0393639
+Zamczysko / Gdańska,bus_stop,53.1648693,18.047207
+Armii Krajowej / Zamczysko,bus_stop,53.163179,18.0553331
+Jeździecka / Gdańska,bus_stop,53.1728067,18.0516597
+Jeździecka / Ogród Botaniczny,bus_stop,53.1757825,18.0452288
+Jeździecka / Hipiczna,bus_stop,53.1757538,18.0327653
+Jeździecka / Dżokejowa,bus_stop,53.1762732,18.0194056
+Jeździecka / Dżokejowa,bus_stop,53.176189,18.0197154
+Jeździecka / Hipiczna,bus_stop,53.1755921,18.0328494
+Jeździecka / Ogród Botaniczny,bus_stop,53.1759508,18.0446336
+Gdańska / Jeździecka,bus_stop,53.1718897,18.0512776
+Zamczysko / Armii Krajowej,bus_stop,53.1632427,18.0534299
+Zamczysko / Gdańska,bus_stop,53.1650179,18.0469815
+Modrzewiowa / Gdańska,bus_stop,53.1451886,18.0261084
+Modrzewiowa / Gdańska,bus_stop,53.1454714,18.0257252
+Sułkowskiego / Czerkaska,bus_stop,53.1400879,18.0285053
+Sułkowskiego / Kamienna,bus_stop,53.1354892,18.0233501
+UKW,bus_stop,53.130852,18.0212253
+Zbożowy Rynek,bus_stop,53.1200273,18.0027088
+Nowy Rynek P+R,bus_stop,53.1203806,17.9974994
+Plac Poznański,bus_stop,53.1223045,17.9898079
+Szubińska / Piękna,bus_stop,53.1192793,17.9776947
+Szubińska / Gnieźnieńska,bus_stop,53.1175964,17.9715403
+Grunwaldzka / Kraszewskiego,bus_stop,53.1335486,17.9691281
+Wyszyńskiego / Głowackiego,bus_stop,53.1318462,18.0366845
+Błonie,bus_stop,53.1148222,17.96117
+Błonie,bus_stop,53.1147068,17.9607859
+Wzgórze Wolności,bus_stop,53.1148861,18.0150776
+Wzgórze Wolności,bus_stop,53.1143682,18.0195165
+Woj.Polskiego / Ujejskiego,bus_stop,53.1139151,18.0231471
+Woj.Polskiego / Ujejskiego,bus_stop,53.1128121,18.0247954
+Stadion BKS Chemik,bus_stop,53.1016992,18.0313594
+Magnuszewska / Modrakowa,bus_stop,53.1068099,18.0326837
+Magnuszewska / Modrakowa,bus_stop,53.1067774,18.0317293
+Wojska Polskiego / Boya-Żeleńskiego,bus_stop,53.1095196,18.0310271
+Glinki,bus_stop,53.0974273,18.0400571
+Glinki,bus_stop,53.0975924,18.0397432
+Glinki / Zajęcza,bus_stop,53.0996593,18.0355672
+Glinki / Zajęcza,bus_stop,53.0999293,18.0346397
+Stadion BKS Chemik,bus_stop,53.1015343,18.0319675
+Glinki BFM [końcowy],bus_stop,53.0889553,18.0438753
+Glinki / Eltra,bus_stop,53.0919433,18.0443502
+Glinki / Polon,bus_stop,53.0944214,18.0449971
+Glinki / Polon,bus_stop,53.0951684,18.0444162
+Glinki BFM,bus_stop,53.0893891,18.0440715
+Garbary,bus_stop,53.1259561,17.9906439
+Focha / Opera,bus_stop,53.1254179,17.9966748
+Plac Teatralny,bus_stop,53.1242443,18.0010413
+Rondo Jagiellonów,bus_stop,53.1237519,18.0066557
+Rondo Jagiellonów,bus_stop,53.1231078,18.0102401
+Żeglarska / Ludwikowo,bus_stop,53.1377682,17.9777519
+Dworzec Główny,bus_stop,53.1347617,17.992563
+Warszawska / Fredry,bus_stop,53.1331102,17.9958502
+Garbary,bus_stop,53.1267572,17.9912306
+Saperów / Zakątek,bus_stop,53.1432408,17.9782568
+Saperów / Zakątek,bus_stop,53.1427982,17.9791975
+Saperów / Ludwikowo,bus_stop,53.1395881,17.98383
+Saperów / Ludwikowo,bus_stop,53.1398333,17.9831969
+Żeglarska / Ludwikowo,bus_stop,53.138167,17.977529
+Saperów / Kąpielisko,bus_stop,53.1547071,17.9688453
+Saperów / Komandosów,bus_stop,53.1476204,17.9730177
+Saperów / Komandosów,bus_stop,53.147626,17.9727177
+Saperów / Czołgistów,bus_stop,53.1445051,17.9767893
+Saperów / Czołgistów,bus_stop,53.1452554,17.9756363
+Piaski,bus_stop,53.1711316,17.9695099
+Smukalska / Błądzimska,bus_stop,53.1672758,17.9718661
+Saperów / Kąpielisko,bus_stop,53.1535112,17.9700066
+Dworzec Autobusowy,bus_stop,53.1233062,18.0181729
+Solskiego / Kossaka,bus_stop,53.1130178,17.9837916
+Piękna / Szubińska,bus_stop,53.1186452,17.9791869
+Rondo Ossolińskich,bus_stop,53.1261134,18.0176932
+Skorupki,bus_stop,53.1082618,17.9766896
+Skorupki,bus_stop,53.1083228,17.9775067
+Skorupki / Czackiego,bus_stop,53.1101109,17.9805936
+Skorupki / Czackiego,bus_stop,53.1109485,17.9817828
+Solskiego / Kossaka,bus_stop,53.1131296,17.9841629
+Głowackiego / Bałtycka,bus_stop,53.13125,18.0470975
+Głowackiego / Bałtycka,bus_stop,53.1310687,18.0471252
+Morska [końcowy],bus_stop,53.1297333,18.0531708
+Morska,bus_stop,53.1295941,18.05544
+Morska,bus_stop,53.12971,18.055279
+Powstańców Wielkopolskich / Lelewela,bus_stop,53.1293982,18.0279559
+Powstańców Wielkopolskich / Wyszyńskiego,bus_stop,53.1302439,18.0387101
+Powstańców Wielkopolskich / Wyszyńskiego,bus_stop,53.1301083,18.0400613
+Głowackiego / Gajowa,bus_stop,53.13176,18.0437568
+Głowackiego / Gajowa,bus_stop,53.1315671,18.0439762
+Ogińskiego / Moniuszki,bus_stop,53.12648,18.0208385
+Rondo Wielkopolskie,bus_stop,53.1290804,18.0230684
+Jagiellońska / Piotrowskiego,bus_stop,53.1234913,18.0142814
+Rondo Wielkopolskie,bus_stop,53.1284287,18.0212799
+Powstańców Wielkopolskich / Lelewela,bus_stop,53.1293315,18.0297546
+Rondo Ossolińskich,bus_stop,53.1257856,18.0178059
+Podkowa,bus_stop,53.1761803,18.0140917
+Nakielska / Lisia,bus_stop,53.1345763,17.9076713
+Nakielska / Lisia,bus_stop,53.1337438,17.9051573
+Nakielska / Iglasta,bus_stop,53.1332758,17.9207063
+Nakielska / Tarnowska,bus_stop,53.1338561,17.9172929
+Nakielska / Tarnowska,bus_stop,53.1338904,17.9158454
+Nakielska / Notecka,bus_stop,53.1346498,17.9111756
+Nakielska / Notecka,bus_stop,53.1346266,17.910471
+Nakielska / Pijarów,bus_stop,53.1321234,17.9404323
+Nakielska / Wiśniowa,bus_stop,53.1321703,17.9352118
+Nakielska / Wiśniowa,bus_stop,53.1323699,17.9342923
+Nakielska / Żywiecka,bus_stop,53.13299,17.9246094
+Nakielska / Żywiecka,bus_stop,53.1326981,17.9264431
+Nakielska / Wrzesińska,bus_stop,53.1270052,17.9706327
+Nakielska / Wrzesińska,bus_stop,53.1272259,17.9694966
+Nakielska / Widok,bus_stop,53.1308104,17.9485837
+Nakielska / Widok,bus_stop,53.1312226,17.9473767
+Nakielska / Pijarów,bus_stop,53.1319456,17.9413018
+Rondo Grunwaldzkie,bus_stop,53.1258763,17.9844448
+Rondo Jagiellonów,bus_stop,53.124378,18.0088363
+Skłodowskiej-Curie / Jurasza,bus_stop,53.1263015,18.0305538
+Skłodowskiej-Curie / Jurasza,bus_stop,53.1261442,18.0306236
+Skłodowskiej-Curie / Gajowa,bus_stop,53.1266681,18.0422291
+Skłodowskiej-Curie / Gajowa,bus_stop,53.1264809,18.042403
+Tor Regatowy,bus_stop,53.1280701,18.1282494
+Tor Regatowy,bus_stop,53.1279664,18.1292535
+Witebska / Wschodnia,bus_stop,53.1292763,18.1321704
+Witebska / Wschodnia,bus_stop,53.1297626,18.1329801
+Fordońska / Wiślana,bus_stop,53.1325015,18.1118454
+Łowicka / Szkoła,bus_stop,53.1310674,18.1250145
+Łowicka / Szkoła,bus_stop,53.1306508,18.1252373
+Fordońska / Kapliczna,bus_stop,53.1291527,18.0966245
+Fordońska / Sochaczewska,bus_stop,53.1303095,18.1017147
+Fordońska / Sochaczewska,bus_stop,53.1303777,18.1034395
+Fordońska / Wiślana,bus_stop,53.1322959,18.1123919
+Fordońska / Fabryczna,bus_stop,53.1226789,18.0673553
+Fordońska / Wyścigowa,bus_stop,53.1250225,18.0779668
+Fordońska / Wyścigowa,bus_stop,53.1246879,18.0757307
+Dworzec Wschód,bus_stop,53.1266478,18.0854251
+Skłodowskiej-Curie / Łęczycka,bus_stop,53.1256396,18.0527836
+Fordońska / Szajnochy,bus_stop,53.1212194,18.0603775
+Fordońska / Fabryczna,bus_stop,53.1220981,18.0662638
+Skłodowskiej-Curie / Bałtycka,bus_stop,53.1263808,18.0470044
+Skłodowskiej-Curie / Bałtycka,bus_stop,53.1259492,18.0489765
+Skłodowskiej-Curie / Łęczycka,bus_stop,53.1252571,18.0544151
+Opławiec / Elektrownia,bus_stop,53.1910499,17.9641443
+Opławiec / Internat,bus_stop,53.1948856,17.9668196
+Opławiec / Biwakowa,bus_stop,53.1956875,17.9690362
+Opławiec / Biwakowa,bus_stop,53.1954002,17.9691969
+Smukała,bus_stop,53.1918477,17.9705977
+Meysnera / Opławiec,bus_stop,53.1855316,17.9581294
+Sanatorium,bus_stop,53.1864783,17.9461937
+Opławiec / Przedszkole,bus_stop,53.186919,17.9605289
+Opławiec / Przedszkole,bus_stop,53.1864654,17.9598273
+Opławiec / Elektrownia,bus_stop,53.1907662,17.9642161
+Opławiec / Kolonijna,bus_stop,53.1735283,17.9558143
+Opławiec / Wypoczynkowa,bus_stop,53.1776109,17.957315
+Opławiec / Wypoczynkowa,bus_stop,53.1779909,17.9574632
+Opławiec / Meysnera,bus_stop,53.1850957,17.9585154
+Opławiec / Meysnera,bus_stop,53.1855326,17.9590819
+Koronowska / Wodociągi,bus_stop,53.1569681,17.9546182
+Koronowska / Wodociągi,bus_stop,53.1594046,17.953903
+Opławiec / Koronowska,bus_stop,53.1675639,17.9516658
+Opławiec / Koronowska,bus_stop,53.1684074,17.9526403
+Opławiec / Kolonijna,bus_stop,53.1731888,17.9554871
+Nad Torem / Orlicza,bus_stop,53.1420626,17.9630658
+Nad Torem / Karolewska,bus_stop,53.1458719,17.9622944
+Nad Torem / Karolewska,bus_stop,53.1470469,17.9625279
+Nad Torem / Chmurna,bus_stop,53.151109,17.9589918
+Przemysłowa / Osiedle Rzemieślnicze,bus_stop,53.1256937,18.1006286
+Przemysłowa / Osiedle Rzemieślnicze,bus_stop,53.1253196,18.1022536
+Przemysłowa / Portowa,bus_stop,53.1261787,18.0964323
+Przemysłowa / Portowa,bus_stop,53.1264938,18.0949637
+Przemysłowa / Tartak,bus_stop,53.1239913,18.1090204
+Przemysłowa / Tartak,bus_stop,53.1233384,18.1104167
+Przemysłowa,bus_stop,53.1199221,18.1141154
+Solskiego / Ugory,bus_stop,53.1139945,18.0004526
+Solskiego / Bielicka,bus_stop,53.112088,17.9924184
+Solskiego / Ugory,bus_stop,53.1134978,17.9976932
+Rondo Grunwaldzkie,bus_stop,53.1255966,17.9880838
+Rondo Jagiellonów,bus_stop,53.1226534,18.0073172
+Pileckiego / Rynkowska,bus_stop,53.1389101,17.9920277
+Pileckiego / Kmicica,bus_stop,53.1389025,17.9881299
+Pileckiego / Kmicica,bus_stop,53.1391792,17.9859252
+Pileckiego / Żeglarska,bus_stop,53.1387639,17.9783907
+Zaświat / Artyleryjska,bus_stop,53.1396168,18.0015447
+Zaświat / Artyleryjska,bus_stop,53.1396844,18.0011375
+Pileckiego / Cmentarz,bus_stop,53.1391052,17.9982076
+Pileckiego / Rynkowska,bus_stop,53.1386473,17.993253
+Błonie,bus_stop,53.1149128,17.9610714
+Błonie,bus_stop,53.11481,17.9606714
+Błonie,bus_stop,53.1146938,17.9610854
+Plac Kościeleckich [stanowisko 3],bus_stop,53.1208061,18.0047962
+Kapuściska,bus_stop,53.1027252,18.0590381
+Chemiczna / Ogrodnictwo II (NŻ),bus_stop,53.1098259,18.0736435
+Chemiczna / Ogrodnictwo (NŻ),bus_stop,53.1098608,18.0738046
+Mokra,bus_stop,53.1103717,18.0710591
+Wojska Polskiego / Prezydenta Lecha Kaczyńskiego,bus_stop,53.1057302,18.0505403
+Wojska Polskiego / Baczyńskiego,bus_stop,53.1039879,18.0559148
+Wojska Polskiego / Baczyńskiego,bus_stop,53.1030268,18.0572839
+Wyżyny,bus_stop,53.107855,18.0384216
+Wyżyny,bus_stop,53.1081741,18.0372977
+Szarych Szeregów,bus_stop,53.1070107,18.0473089
+Szubińska / Żwirki i Wigury,bus_stop,53.1161713,17.966409
+Władysława IV / Stawowa,bus_stop,53.1204858,17.9634709
+Barwna [końcowy],bus_stop,53.1246996,17.9629611
+Barwna,bus_stop,53.1247459,17.9637738
+Inowrocławska / Zajezdnia,bus_stop,53.1074784,17.9845351
+Inowrocławska / Skorupki,bus_stop,53.1078985,17.9772561
+Inowrocławska / Skorupki,bus_stop,53.10771,17.9792313
+Żwirki i Wigury / Jaskółcza,bus_stop,53.1117806,17.970625
+Żwirki i Wigury / Jaskółcza,bus_stop,53.1112661,17.9708652
+Brzozowa / Jesionowa,bus_stop,53.1089827,18.004871
+Brzozowa / Bielicka,bus_stop,53.1093626,17.9921524
+Brzozowa / Bielicka,bus_stop,53.1085667,17.9912178
+Inowrocławska / Zajezdnia,bus_stop,53.1076404,17.9831033
+Bałtycka / Głowackiego,bus_stop,53.1299705,18.0492287
+Bałtycka / Skłodowskiej-Curie,bus_stop,53.1273635,18.0485009
+Rondo Inowrocławskie,bus_stop,53.1090107,18.0087908
+Bałtycka / Głowackiego,bus_stop,53.1300985,18.0494674
+Wyzwolenia / Komisariat,bus_stop,53.1717057,18.1638445
+Wyzwolenia / Derdowskiego,bus_stop,53.1665931,18.1639927
+Wyzwolenia / Derdowskiego,bus_stop,53.1660078,18.1644755
+Wyzwolenia / Komisariat,bus_stop,53.1717314,18.1639895
+Rondo Fordońskie,bus_stop,53.1217263,18.0356339
+Rondo Skrzetuskie,bus_stop,53.1262983,18.0366404
+Rondo Skrzetuskie,bus_stop,53.1277553,18.0382091
+Powstańców Wielkopolskich / Wyszyńskiego,bus_stop,53.1301008,18.0365109
+Leśne,bus_stop,53.1420808,18.0306144
+Fordońska / Traktorzystów,bus_stop,53.1365942,18.127162
+Fordońska / Łowicka,bus_stop,53.1348862,18.1220026
+Fordońska / Bałtycka,bus_stop,53.1206167,18.0472569
+Rondo Fordońskie,bus_stop,53.1207966,18.0371811
+Fordońska / Wyszogrodzka,bus_stop,53.1420467,18.1483634
+Fordońska / Wyszogrodzka,bus_stop,53.1422003,18.147894
+Dworzec Politechnika,bus_stop,53.1392778,18.1380895
+Fordońska / Traktorzystów,bus_stop,53.1362749,18.1272858
+Fordon Rynek,bus_stop,53.1493845,18.1733107
+Fordońska / Wiadukt,bus_stop,53.1469301,18.1660095
+Fordońska / Wiadukt,bus_stop,53.1468701,18.1648345
+Dworzec Fordon,bus_stop,53.1448366,18.1575212
+Dworzec Fordon,bus_stop,53.1439262,18.1553077
+Wyzwolenia / Swobodna,bus_stop,53.1562076,18.1677532
+Wyzwolenia / Styki,bus_stop,53.152586,18.1709755
+Wyzwolenia / Styki,bus_stop,53.1527141,18.1713259
+Fordon Rynek,bus_stop,53.149748,18.1732303
+Wyzwolenia / Swobodna,bus_stop,53.1572916,18.167426
+Glinki / Zelwerowicza,bus_stop,53.1073254,18.0231133
+Glinki / Zelwerowicza,bus_stop,53.1063977,18.023589
+Magnuszewska,bus_stop,53.1047295,18.0275016
+Magnuszewska,bus_stop,53.1048249,18.026155
+Plac Kościeleckich [stanowisko 4],bus_stop,53.1207931,18.0052422
+Glinki / Cmentarna,bus_stop,53.1092166,18.0186365
+Glinki / Cmentarna,bus_stop,53.109161,18.0192632
+Plac Piastowski,bus_stop,53.1319817,17.99683
+Śniadeckich / Gdańska,bus_stop,53.1285499,18.0054552
+Mickiewicza / Teatr Polski,bus_stop,53.1310426,18.0131585
+Hetmańska / Kaszubska,bus_stop,53.1334336,18.004008
+Rondo Fordońskie,bus_stop,53.1221335,18.0350174
+Rondo Toruńskie,bus_stop,53.1159261,18.0333692
+Rondo Toruńskie,bus_stop,53.1163666,18.0331169
+Pelplińska / Jarużyńska,bus_stop,53.166201,18.1614606
+Tatrzańskie,bus_stop,53.1697703,18.1629252
+Tatrzańskie,bus_stop,53.1695098,18.163231
+Tatrzańskie,bus_stop,53.1695034,18.1634402
+Tatrzańskie,bus_stop,53.1694969,18.1636065
+Twardzickiego / Przybory,bus_stop,53.1575034,18.1509865
+Twardzickiego / Przybory,bus_stop,53.1576671,18.1507592
+Pelplińska / Taterników,bus_stop,53.1602482,18.1597923
+Pelplińska / Taterników,bus_stop,53.1610224,18.1611089
+Pelplińska / Jarużyńska,bus_stop,53.1650308,18.1622022
+Twardzickiego / Kleina,bus_stop,53.1524399,18.1306381
+Twardzickiego / Thomée,bus_stop,53.1529487,18.1408808
+Twardzickiego / Thomée,bus_stop,53.1531535,18.1409073
+Twardzickiego / Witosa,bus_stop,53.1544809,18.1477759
+Twardzickiego / Witosa,bus_stop,53.1545465,18.1475238
+Korfantego / Prejsa,bus_stop,53.148474,18.1222248
+Korfantego / Prejsa,bus_stop,53.1492689,18.1221743
+Twardzickiego / Łochowskiego,bus_stop,53.1521347,18.1232487
+Twardzickiego / Łochowskiego,bus_stop,53.1526576,18.1247535
+Twardzickiego / Kleina,bus_stop,53.1527428,18.1287343
+Akademicka / Rejewskiego,bus_stop,53.1426002,18.1110072
+Centrum Onkologii,bus_stop,53.1475783,18.1131653
+Centrum Onkologii,bus_stop,53.1475529,18.1123585
+Błonie,bus_stop,53.1148902,17.9604116
+Rejewskiego / Auchan,bus_stop,53.1385027,18.1152871
+Rejewskiego / Auchan,bus_stop,53.1391884,18.1148352
+Rejewskiego / Akademicka,bus_stop,53.1416715,18.1103244
+Błonie [końcowy],bus_stop,53.1150399,17.9608953
+Bora-Komorowskiego / Kiedrowskiego,bus_stop,53.1636793,18.1750097
+Bora-Komorowskiego / Gieryna,bus_stop,53.1666067,18.1748756
+Bora-Komorowskiego / Gieryna,bus_stop,53.1666047,18.1751043
+Bora-Komorowskiego / Braci Bażańskich,bus_stop,53.1692083,18.1749403
+Bora-Komorowskiego / Braci Bażańskich,bus_stop,53.1700965,18.1750561
+Nad Wisłą [końcowy],bus_stop,53.1578289,18.1780886
+Piłsudskiego / Swobodna,bus_stop,53.1587423,18.1725152
+Piłsudskiego / Swobodna,bus_stop,53.1589217,18.17261
+Nad Wisłą,bus_stop,53.1578503,18.1788853
+Bora-Komorowskiego / Kiedrowskiego,bus_stop,53.1628045,18.1747522
+Bajka,bus_stop,53.1516825,18.1536399
+Andersa / Kasztelańska,bus_stop,53.1536334,18.160366
+Andersa / Kasztelańska,bus_stop,53.1545493,18.1614516
+Niepodległości,bus_stop,53.1602034,18.1662868
+Akademicka / Igrzyskowa,bus_stop,53.14896,18.1364013
+Akademicka / Igrzyskowa,bus_stop,53.1488038,18.1380011
+Andersa / Kleeberga,bus_stop,53.1509294,18.1460744
+Bajka,bus_stop,53.1516572,18.1527368
+Kaliskiego / Politechnika,bus_stop,53.1444483,18.1318404
+Kaliskiego / Politechnika,bus_stop,53.1426076,18.1338449
+Akademicka / Kaliskiego,bus_stop,53.1478833,18.1304328
+Akademicka / Kaliskiego,bus_stop,53.1475895,18.1284364
+Wyścigowa,bus_stop,53.1252854,18.0769689
+Wyścigowa [końcowy],bus_stop,53.1254164,18.0769556
+Srebrna / Stalowa,bus_stop,53.1425859,17.9066056
+Srebrna / Spiżowa,bus_stop,53.143609,17.9031276
+Srebrna / Spiżowa,bus_stop,53.1437147,17.9005582
+Spiżowa / Ołowiana,bus_stop,53.1472783,17.9053179
+Niklowa,bus_stop,53.1470363,17.8998693
+Kolbego / Kogucia,bus_stop,53.155128,17.9166372
+Kolbego / Kogucia,bus_stop,53.1558276,17.9164838
+Podmiejska / Kruszyńska,bus_stop,53.1442196,17.9145318
+Podmiejska / Kruszyńska,bus_stop,53.1440597,17.9142355
+Srebrna / Stalowa,bus_stop,53.1423064,17.9074351
+Grunwaldzka / Kolbego,bus_stop,53.1481043,17.9187793
+Kolbego / Grunwaldzka,bus_stop,53.1482776,17.9198851
+Rekinowa,bus_stop,53.1599444,17.908842
+Kolbego / Wielorybia,bus_stop,53.1585833,17.9123362
+Kolbego / Wielorybia,bus_stop,53.1578328,17.9133363
+Grunwaldzka / Przejście,bus_stop,53.1454407,17.9281575
+Grunwaldzka / Przejście,bus_stop,53.1448009,17.9292765
+Grunwaldzka / Kolbego,bus_stop,53.147461,17.9198703
+Rondo Maczka P+R,bus_stop,53.1367955,17.9622787
+Grunwaldzka / Flisacka,bus_stop,53.1373037,17.9576325
+Grunwaldzka / Flisacka,bus_stop,53.1367612,17.95866
+Grunwaldzka / Filtrowa,bus_stop,53.1399157,17.9480146
+Grunwaldzka / Filtrowa,bus_stop,53.1392275,17.949524
+Mickiewicza / Teatr Polski,bus_stop,53.130969,18.0126294
+Dworzec Główny,bus_stop,53.1347048,17.9927402
+Rondo Wielkopolskie,bus_stop,53.1294697,18.0209813
+Toruńska / Wypaleniska (NŻ),bus_stop,53.1046394,18.1221155
+Toruńska / Wypaleniska (NŻ),bus_stop,53.1047232,18.1218955
+Dworzec Łęgnowo,bus_stop,53.1117337,18.11416
+Dworzec Łęgnowo,bus_stop,53.1116935,18.1140433
+Stomil,bus_stop,53.1150041,18.1061997
+Plątnowska / Kościół,bus_stop,53.0913719,18.132442
+Toruńska / Wieża Ciśnień (NŻ),bus_stop,53.0953664,18.125479
+Toruńska / Wieża Ciśnień (NŻ),bus_stop,53.0954567,18.1255862
+Toruńska / Przyłubska (NŻ),bus_stop,53.1003784,18.1247333
+Toruńska / Przyłubska (NŻ),bus_stop,53.1006844,18.1246904
+Nowotoruńska / Przepompownia (NŻ),bus_stop,53.0875733,18.1161577
+Nowotoruńska / Przepompownia (NŻ),bus_stop,53.0882131,18.1160069
+Plątnowska / Przejazd (NŻ),bus_stop,53.0838199,18.1244651
+Plątnowska / Przejazd (NŻ),bus_stop,53.0845803,18.1248889
+Plątnowska / Kościół,bus_stop,53.091234,18.132156
+Łęgnowo,bus_stop,53.0998939,18.104653
+Spółdzielcza,bus_stop,53.0950548,18.1074907
+Świetlicowa,bus_stop,53.0958883,18.1086186
+Nowotoruńska / Żółwińska (NŻ),bus_stop,53.0928611,18.1130515
+Chemiczna / Eurogaz (NŻ),bus_stop,53.1058711,18.0757105
+Chemiczna / Eurogaz (NŻ),bus_stop,53.1058666,18.0735282
+Chemiczna / Energetyczna (NŻ),bus_stop,53.1067424,18.0898431
+Chemiczna / Energetyczna (NŻ),bus_stop,53.1068954,18.0895413
+Brzechwy / Szafirowa,bus_stop,53.1504759,18.154558
+Skarżyńskiego / Kwiatkowskiego,bus_stop,53.1547375,18.156034
+Skarżyńskiego / Twardzickiego,bus_stop,53.1567248,18.1549603
+Skarżyńskiego / Twardzickiego,bus_stop,53.1565175,18.1548228
+Dworzec Fordon,bus_stop,53.145366,18.1567087
+Brzechwy / Szelburg-Zarembiny,bus_stop,53.148266,18.1558913
+Brzechwy / Szelburg-Zarembiny,bus_stop,53.1483277,18.1562034
+Dworzec Fordon,bus_stop,53.1454584,18.1598562
+Objazdowa / Nowotoruńska,bus_stop,53.1098378,18.0907734
+Nowotoruńska / Objazdowa,bus_stop,53.1076267,18.0988958
+Nowotoruńska / Objazdowa,bus_stop,53.1080245,18.0979014
+Hutnicza / Nowotoruńska,bus_stop,53.1039763,18.1068366
+Nowotoruńska / Hutnicza,bus_stop,53.1048895,18.106249
+Smoleńska / Kielecka,bus_stop,53.113098,18.0832574
+Smoleńska / Budowlana,bus_stop,53.1125647,18.088827
+Smoleńska / Pińczowska,bus_stop,53.1119623,18.0915839
+Smoleńska / Pińczowska,bus_stop,53.111888,18.0921113
+Objazdowa / Nowotoruńska,bus_stop,53.1098251,18.0910849
+Toruńska / Łuczniczki,bus_stop,53.1149069,18.0479633
+Toruńska / Łuczniczki,bus_stop,53.1151648,18.0487597
+Nowotoruńska / Prezydenta Lecha Kaczyńskiego,bus_stop,53.1134909,18.0608135
+Nowotoruńska / Prezydenta Lecha Kaczyńskiego,bus_stop,53.1138914,18.0572743
+Smoleńska / Kielecka,bus_stop,53.1132051,18.0831854
+Rondo Toruńskie,bus_stop,53.1168617,18.0354441
+Mińska / Plonowa,bus_stop,53.1371758,17.9336832
+Kruszyńska / Krańcowa,bus_stop,53.1417141,17.9248344
+Kruszyńska / Krańcowa,bus_stop,53.1415631,17.9253998
+Kruszyńska / Sowia,bus_stop,53.1429242,17.9194049
+Kruszyńska / Sowia,bus_stop,53.1426692,17.9197221
+Dworzec Zachód,bus_stop,53.1360787,17.9465226
+Dworzec Zachód,bus_stop,53.1359934,17.9464652
+Mińska / Studzienna,bus_stop,53.1363633,17.9395148
+Mińska / Studzienna,bus_stop,53.1362837,17.9402852
+Mińska / Plonowa,bus_stop,53.1373596,17.9328962
+Flisacka / Grunwaldzka,bus_stop,53.1366266,17.9567065
+Dworzec Główny,bus_stop,53.1348933,17.9932822
+Solskiego / Bielicka,bus_stop,53.1122295,17.9902753
+Jana Pawła II / Ziemska,bus_stop,53.1042136,18.008365
+Jana Pawła II / Ziemska,bus_stop,53.1036115,18.0079721
+Jana Pawła II / Wąbrzeska,bus_stop,53.0972522,18.0085871
+Jana Pawła II / Wąbrzeska,bus_stop,53.0949701,18.0088091
+Czerkaska / Gdańska,bus_stop,53.1421841,18.0210507
+Czerkaska / Sułkowskiego,bus_stop,53.1401498,18.0265522
+Czerkaska / Sułkowskiego,bus_stop,53.1401373,18.0262043
+Dworzec Autobusowy,bus_stop,53.1236727,18.0196618
+Rondo Inowrocławskie,bus_stop,53.1072248,18.0078635
+Powstańców Warszawy / Skromna,bus_stop,53.1436925,18.0084255
+Powstańców Warszawy / Skromna,bus_stop,53.1437858,18.0090466
+Powstańców Warszawy / Szpital Wojskowy,bus_stop,53.1430168,18.0152413
+Powstańców Warszawy / Szpital Wojskowy,bus_stop,53.1430894,18.0157945
+Powstańców Warszawy / Gdańska,bus_stop,53.1426948,18.0191212
+Zaświat / Cmentarz,bus_stop,53.1421898,18.0039408
+Zaświat / Cmentarz,bus_stop,53.1426242,18.0045094
+Wyszyńskiego / Głowackiego,bus_stop,53.1313711,18.037317
+Błonie,bus_stop,53.1146352,17.9608531
+Kamienna / Sułkowskiego,bus_stop,53.135738,18.0249822
+Kamienna / Wyszyńskiego,bus_stop,53.1345696,18.0350883
+Kamienna / Gajowa,bus_stop,53.1330172,18.0440243
+Kamienna / Gajowa,bus_stop,53.133455,18.0423936
+Kamienna / Wyszyńskiego,bus_stop,53.1338474,18.037823
+Toruńska / Równa,bus_stop,53.1177854,18.0746877
+Toruńska / Kielecka,bus_stop,53.1181634,18.084731
+Toruńska / Kielecka,bus_stop,53.1180767,18.0823727
+Szpitalna / Łomżyńska,bus_stop,53.1022837,18.0448544
+Kazimierza Wielkiego,bus_stop,53.1154722,18.0594294
+Toruńska / Zajezdnia Tramwajowa,bus_stop,53.1159608,18.0637296
+Toruńska / Równa,bus_stop,53.1178627,18.0768148
+Gdańska / Artyleryjska,bus_stop,53.1385599,18.0164941
+Gdańska / Chodkiewicza,bus_stop,53.1341385,18.0119908
+Gdańska / Chodkiewicza,bus_stop,53.1340581,18.0119089
+Plac Kościeleckich [stanowisko 1],bus_stop,53.1205656,18.0046926
+Gdańska / Artyleryjska,bus_stop,53.1384899,18.0164239
+Rondo Fordońskie,bus_stop,53.1210055,18.0331587
+Brdyujście,bus_stop,53.1324048,18.1373653
+Cmentarna / Dobrzyńska (NŻ),bus_stop,53.0999393,18.0171589
+Cmentarna / Gniewkowska (NŻ),bus_stop,53.1043874,18.0170247
+Cmentarna / Gniewkowska (NŻ),bus_stop,53.1047914,18.0172039
+Cmentarna / Glinki (NŻ),bus_stop,53.1091231,18.0173815
+Cmentarna / Glinki (NŻ),bus_stop,53.1090241,18.0174816
+Wąbrzeska (NŻ),bus_stop,53.0951026,18.0181338
+Cmentarna / Dobrzyńska (NŻ),bus_stop,53.1005539,18.0172656
+Władysława IV / Czerwonego Krzyża,bus_stop,53.1236266,17.9608609
+Władysława IV / Czerwonego Krzyża,bus_stop,53.1235089,17.9607984
+Łoskoń,bus_stop,53.1728458,18.1746502
+Nowotoruńska / Plątnowska (NŻ),bus_stop,53.084532,18.1187144
+Nowotoruńska / Plątnowska (NŻ),bus_stop,53.0838372,18.1190784
+Chemiczna / Szczerby (NŻ),bus_stop,53.1058664,18.0950091
+Chemiczna / Szczerby (NŻ),bus_stop,53.1055541,18.0953524
+Łoskoń,bus_stop,53.1731352,18.174615
+Niklowa [końcowy],bus_stop,53.1471999,17.8999987
+Wyszogrodzka / Opalowa,bus_stop,53.1353662,18.1416056
+Wyszogrodzka / Opalowa,bus_stop,53.1351085,18.1412227
+Grunwaldzka / Czarna Droga,bus_stop,53.131083,17.9747699
+Grunwaldzka / Czarna Droga,bus_stop,53.1318671,17.9734334
+Bydgoszcz R. Grunwaldzkie (Graniczna),bus_stop,53.127163,17.9854293
+Chodkiewicza / Paderewskiego,bus_stop,53.1328303,18.0171131
+Jasiniecka / Pod Skarpą,bus_stop,53.1573983,18.0983921
+Ugory / Solskiego,bus_stop,53.1147251,17.9985293
+Ugory / Nowodworska,bus_stop,53.1172492,17.9946041
+Ugory / Nowodworska,bus_stop,53.117397,17.9941768
+Skorupki / Jordanowska,bus_stop,53.1160704,17.98947
+Skorupki / Jordanowska,bus_stop,53.1159392,17.9892312
+Stroma / Orla,bus_stop,53.1173921,17.9853541
+Stroma / Orla,bus_stop,53.1167046,17.9856907
+Baczyńskiego / Woj.Polskiego,bus_stop,53.1042957,18.0576404
+Baczyńskiego / Sandomierska,bus_stop,53.1065469,18.0593645
+Wojska Polskiego / Prezydenta Lecha Kaczyńskiego,bus_stop,53.1056771,18.0515203
+Rondo Maczka P+R,bus_stop,53.137701,17.9645606
+Brzozowa / Jesionowa,bus_stop,53.109069,18.002373
+Plac Poznański,bus_stop,53.121482,17.9856405
+Park Przemysłowy / Petersona,bus_stop,53.0840041,18.0729206
+Glinki / Eltra,bus_stop,53.0916226,18.0444727
+Nakielska / Stawowa,bus_stop,53.1263703,17.9758311
+Schulza / Stawowa,bus_stop,53.1169965,17.956465
+Schulza / Stawowa,bus_stop,53.1168758,17.9564733
+Stawowa / Władysława IV,bus_stop,53.1204399,17.9656955
+Stawowa / Władysława IV,bus_stop,53.1202687,17.9646205
+Stawowa / 16 Pułku Ułanów Wielkopolskich,bus_stop,53.1220542,17.9706074
+Wysoka / Koszarowa,bus_stop,53.122307,17.975102
+Połtyna / Szubińska,bus_stop,53.121608,17.976528
+Wzgórze Wolności,bus_stop,53.1153338,18.0169634
+Dworzec Autobusowy,bus_stop,53.1244384,18.0194331
+Most Kazimierza Wielkiego,bus_stop,53.1200405,18.0568165
+Kazimierza Wielkiego,bus_stop,53.1161141,18.0579007
+Prezydenta Lecha Kaczyńskiego / Sandomierska,bus_stop,53.1110858,18.0558262
+Prezydenta Lecha Kaczyńskiego / Sandomierska,bus_stop,53.1116362,18.0569251
+Sułkowskiego / Kamienna,bus_stop,53.1367073,18.0249374
+Pod Skarpą / Stamma,bus_stop,53.1574254,18.1028862
+Jagiellońska / Piotrowskiego,bus_stop,53.1235219,18.0145552
+Fordońska / Gajowa,bus_stop,53.1209404,18.0401881
+Garbary,bus_stop,53.1255277,17.9937934
+Garbary [końcowy],bus_stop,53.1264628,17.9903154
+Stroma / Kossaka,bus_stop,53.1148242,17.9870875
+Dworzec Autobusowy,bus_stop,53.1228331,18.0201711
+Dworzec Główny,bus_stop,53.134852,17.9941299
+Rycerska,bus_stop,53.1374704,17.9996634
+Rycerska [końcowy],bus_stop,53.1373182,17.9994213
+Rycerska,bus_stop,53.1373669,17.9993625
+Rycerska,bus_stop,53.1374846,17.9995048
+Rycerska,bus_stop,53.1372476,17.9990295
+Rycerska,bus_stop,53.1373867,17.9992047
+Rycerska,bus_stop,53.1375086,17.9993509
+Zbożowy Rynek,bus_stop,53.1198032,18.0055878
+Zbożowy Rynek,bus_stop,53.1197526,18.0029703
+Toruńska / Zajezdnia Tramwajowa,bus_stop,53.1160601,18.0642492
+Szubińska / Żwirki i Wigury,bus_stop,53.1162703,17.9667729
+Paderewskiego,bus_stop,53.1302102,18.0131172
+Paderewskiego,bus_stop,53.1302324,18.0131426
+Leśne,bus_stop,53.1420863,18.030972
+Podkowa [końcowy],bus_stop,53.176254,18.0149666
+Park Przemysłowy / Paciorkiewicza,bus_stop,53.0907035,18.0547058
+Park Przemysłowy / Paciorkiewicza,bus_stop,53.0916022,18.0558344
+Park Przemysłowy / Paciorkiewicza,bus_stop,53.090025,18.0560141
+Park Przemysłowy / Raczkowskiego,bus_stop,53.095403,18.0572904
+Park Przemysłowy / Raczkowskiego,bus_stop,53.0952658,18.0577498
+Park Przemysłowy / Biurowiec,bus_stop,53.0946492,18.064842
+Smukalska / Błądzimska,bus_stop,53.1678375,17.9714412
+Piaski,bus_stop,53.1717574,17.9701996
+Smukalska / Sanktuarium (NŻ),bus_stop,53.1783199,17.9681037
+Smukalska / Sanktuarium (NŻ),bus_stop,53.1777543,17.9684094
+Smukalska / Agrestowa,bus_stop,53.1839294,17.9675663
+Smukalska / Agrestowa,bus_stop,53.1845088,17.9675369
+Smukalska / Baranowskiego (NŻ),bus_stop,53.1875985,17.9686216
+Smukalska / Baranowskiego (NŻ),bus_stop,53.1871226,17.968489
+Wyszyńskiego / Powstańców Wielkopolskich,bus_stop,53.1292837,18.0373028
+Opławiec / Soboczyńskiego,bus_stop,53.1823201,17.9574651
+Opławiec / Soboczyńskiego,bus_stop,53.1818646,17.9572956
+Skorupki / Orla,bus_stop,53.1173542,17.9908505
+Skorupki / Orla,bus_stop,53.1173558,17.9910551
+Łukasiewicza,bus_stop,53.1063053,18.0553948
+Wyzwolenia / Styki,bus_stop,53.1526594,18.1711703
+Toruńska / Sporna,bus_stop,53.1181569,18.0876446
+Sporna / Toruńska,bus_stop,53.1194095,18.0873817
+Fordońska / Kapliczna,bus_stop,53.1291789,18.0979188
+Geodetów / Pienińska,bus_stop,53.1737758,18.1684843
+Przemysłowa [końcowy],bus_stop,53.1204013,18.1140173
+Park Przemysłowy / Falkowskiego,bus_stop,53.0872277,18.0617155
+Park Przemysłowy / Falkowskiego,bus_stop,53.0864326,18.0626114
+Park Przemysłowy / Petersona,bus_stop,53.0843252,18.0716224
+Park Przemysłowy / Gamma,bus_stop,53.0789659,18.0752553
+Park Przemysłowy / Gamma,bus_stop,53.0798956,18.07573
+Park Przemysłowy / Exploseum,bus_stop,53.0729207,18.0819178
+Prądocińska,bus_stop,53.0645608,18.1332393
+Grunwaldzka / Chojnicka,bus_stop,53.1390771,17.9511696
+Kolbego / Dzięciołowa,bus_stop,53.1514546,17.9183264
+Kolbego / Dzięciołowa,bus_stop,53.1524017,17.9181607
+Nowotoruńska / Żółwińska (NŻ),bus_stop,53.0921966,18.1132749
+Plątnowska / Otorowska (NŻ),bus_stop,53.0888921,18.1302113
+Plątnowska / Otorowska (NŻ),bus_stop,53.0892432,18.130568
+Pod Skarpą / Żemojtela,bus_stop,53.1553618,18.1139125
+Pod Skarpą / Żemojtela,bus_stop,53.1550096,18.1149787
+Pod Skarpą / Stamma,bus_stop,53.1574905,18.103437
+Skandynawska / IKEA,bus_stop,53.1313478,18.1189166
+Więcka / Łowicka,bus_stop,53.131714,18.1233354
+Brdyujście,bus_stop,53.1323874,18.1371319
+Smoleńska / Budowlana,bus_stop,53.1122875,18.0885988
+Mokra [końcowy],bus_stop,53.1121636,18.0709198
+Inwalidów / Harcerska,bus_stop,53.1288673,18.0821863
+Inwalidów / Harcerska,bus_stop,53.1287611,18.082181
+Inwalidów / R.O.D. Wyczółkowskiego,bus_stop,53.1290709,18.0779364
+Inwalidów / R.O.D. Wyczółkowskiego,bus_stop,53.129338,18.0767133
+Dworzec Bielawy [końcowy],bus_stop,53.1324472,18.0548211
+Dworzec Bielawy,bus_stop,53.1323679,18.0546943
+Inwalidów / R.O.D. Makrum,bus_stop,53.1303873,18.0691495
+Inwalidów / R.O.D. Makrum,bus_stop,53.1301521,18.0701474
+Kamienna / Fabryczna,bus_stop,53.1299275,18.0646902
+Kamienna / Fabryczna,bus_stop,53.1294056,18.0666926
+Dworzec Wschód,bus_stop,53.1273994,18.0806871
+Dworzec Bielawy,bus_stop,53.1316403,18.0529105
+Dworzec Bielawy,bus_stop,53.1309843,18.0558894
+Osielsko / Myślęcinek,bus_stop,53.1746463,18.0549391
+Skandynawska / IKEA,bus_stop,53.1321842,18.1186805
+Stroma / Kossaka,bus_stop,53.1156403,17.9866777
+Las Gdański P+R,bus_stop,53.1502553,18.028553
+Powstańców Warszawy / Gdańska,bus_stop,53.142764,18.0190855
+Gdańska / Powst. Warszawy,bus_stop,53.1416286,18.0196245
+Gdańska / Powst. Warszawy,bus_stop,53.141642,18.0195481
+Gdańska / Artyleryjska,bus_stop,53.1385437,18.016569
+Garbary,bus_stop,53.1254671,17.9936975
+Rondo Jagiellonów,bus_stop,53.1224741,18.0071377
+Dworzec Autobusowy,bus_stop,53.1227785,18.0201901
+Rondo Fordońskie,bus_stop,53.1210846,18.0331664
+Rondo Toruńskie,bus_stop,53.1168147,18.0353578
+Perłowa,bus_stop,53.1156876,18.0451508
+Szarych Szeregów,bus_stop,53.1069541,18.0472207
+Jana Pawła II / Wąbrzeska,bus_stop,53.0978885,18.0091272
+Gdańska / Czerkaska,bus_stop,53.1429082,18.0210491
+Stadion Zawisza,bus_stop,53.146453,18.024501
+Stadion Zawisza,bus_stop,53.1451379,18.0231771
+Gdańska / Czerkaska,bus_stop,53.142945,18.0209493
+Plac Teatralny,bus_stop,53.1239672,18.0016355
+3 Maja / Markwarta,bus_stop,53.1262188,18.0093822
+Chemiczna / Dachtery (NŹ),bus_stop,53.1063653,18.0797701
+Chemiczna / Dachtery (NŹ),bus_stop,53.1062925,18.0812251
+Nowotoruńska / Kielecka,bus_stop,53.1118497,18.0813787
+Nowotoruńska / Kielecka,bus_stop,53.1112741,18.0829794
+Fordońska / Łowicka,bus_stop,53.1353482,18.1226642
+Więcka / Łowicka,bus_stop,53.1316587,18.1223633
+Kaliskiego / Akademicka,bus_stop,53.1471354,18.1298477
+Rondo Maczka P+R,bus_stop,53.1362709,17.96461
+Wojska Polskiego / Hechlińskiego,bus_stop,53.1010708,18.0642849
+Wojska Polskiego / Hechlińskiego,bus_stop,53.1012216,18.0643238
+Wojska Polskiego / Dziatkiewicza,bus_stop,53.0990707,18.0690091
+Wojska Polskiego / Dziatkiewicza,bus_stop,53.0990868,18.069268
+Wojska Polskiego / Petersona,bus_stop,53.0953624,18.0787643
+Wojska Polskiego / Petersona,bus_stop,53.0950886,18.0792096
+Hutnicza / Eberhardta (NŻ),bus_stop,53.0935676,18.1024308
+Hutnicza / Eberhardta (NŻ),bus_stop,53.0932307,18.1024917
+Wulffa / Eberhardta,bus_stop,53.0922159,18.0869196
+Wulffa / Eberhardta,bus_stop,53.0920299,18.087515
+Kamienna / Gdańska,bus_stop,53.1372299,18.016249
+Kamienna / Gdańska,bus_stop,53.1372747,18.0162722
+Kamienna / Gdańska,bus_stop,53.137016,18.0165833
+Wilczak,bus_stop,53.1295285,17.9564159
+Wilczak,bus_stop,53.1293762,17.9572156
+Toruńska / Żupy,bus_stop,53.1183852,18.0226496
+Rondo Toruńskie,bus_stop,53.1172431,18.0318039
+Jagiellońska - Łużycka,bus_stop,53.1221606,18.0267867
+Jagiellońska / Łużycka,bus_stop,53.1218049,18.0278643
+Jagiellońska - Łużycka,bus_stop,53.121777,18.0277687
+Dworzec Wschód,bus_stop,53.127192,18.0834719
+Akademicka / Rejewskiego,bus_stop,53.1422971,18.1089804
+Akademicka / Romanowskiej,bus_stop,53.1444011,18.1167076
+Romanowskiej / Akademicka,bus_stop,53.1454382,18.1169415
+Akademicka / Romanowskiej,bus_stop,53.14466,18.1185082
+Przylesie P+R,bus_stop,53.1459225,18.1223579
+Przylesie P+R,bus_stop,53.1468511,18.1230548
+Przylesie P+R,bus_stop,53.1470379,18.1235039
+Przylesie P+R,bus_stop,53.1469422,18.1243319
+Przylesie P+R,bus_stop,53.1462341,18.1245421
+Andersa / Kleeberga,bus_stop,53.1503181,18.1446584
+Kleeberga / Andersa,bus_stop,53.150958,18.1448839
+Bajka,bus_stop,53.1513139,18.1544231
+Andersa / Wolna,bus_stop,53.158086,18.1637165
+Andersa / Wolna,bus_stop,53.1577475,18.1633661
+Andersa / Gieryna,bus_stop,53.1654155,18.1710229
+Andersa / Gieryna,bus_stop,53.1665855,18.1713039
+Łoskoń,bus_stop,53.1727444,18.1731536
+Łoskoń,bus_stop,53.1729852,18.1732479
+Łoskoń / Zajezdnia,bus_stop,53.1760754,18.1721494
+Kazimierza Wielkiego,bus_stop,53.1154164,18.0572841
+Kielecka / Toruńska,bus_stop,53.1178231,18.0843083
+Toruńska / Stomil (brama),bus_stop,53.116992,18.0937512
+Toruńska / Stomil (brama),bus_stop,53.116832,18.0945048
+UKW,bus_stop,53.1316925,18.0203979
+UKW,bus_stop,53.1314857,18.021975
+Kamienna / Sułkowskiego,bus_stop,53.1359367,18.0250919
+Rondo Maczka P+R,bus_stop,53.1369091,17.9659685
+Schulza / Szubińska,bus_stop,53.1150864,17.9588436
+Dworzec Błonie,bus_stop,53.1190031,17.9532586
+Bielicka / Solskiego,bus_stop,53.1128852,17.991532
+Pileckiego / Żeglarska,bus_stop,53.1383444,17.9763592
+Artyleryjska / Zaświat,bus_stop,53.1393422,18.0021622
+Artyleryjska / Zaświat,bus_stop,53.1392414,18.004063
+Plac Piastowski,bus_stop,53.1320367,17.9993523
+Śniadeckich / Sienkiewicza,bus_stop,53.130568,18.0000498
+Leśne,bus_stop,53.1422273,18.0326269
+Dachtery / Chemiczna (NŻ),bus_stop,53.1067651,18.0806692
+Kielecka / Smoleńska (NŻ),bus_stop,53.1135026,18.082903
+Kielecka / Smoleńska (NŻ),bus_stop,53.1141112,18.0829807
+Wyzwolenia / Geodetów,bus_stop,53.1738496,18.16407
+Geodetów / Wyzwolenia,bus_stop,53.1740168,18.1650652
+Geodetów / Pienińska,bus_stop,53.1737975,18.1696053
+Jagiellońska / Łużycka,bus_stop,53.1221136,18.0267622
+Łukasiewicza [końcowy],bus_stop,53.1064438,18.0555397
+Chodkiewicza / Paderewskiego,bus_stop,53.1330086,18.016803
+Tor Regatowy [końcowy],bus_stop,53.1276832,18.1279073
+Rondo Toruńskie,bus_stop,53.1173096,18.0317976
+Stadion Zawisza,bus_stop,53.1464165,18.0243567
+Stadion Zawisza,bus_stop,53.1451045,18.0232793
+Zbożowy Rynek,bus_stop,53.1198136,18.0054312
+Babia Wieś,bus_stop,53.119339,18.0151511
+Babia Wieś,bus_stop,53.1192414,18.0153817
+Toruńska / Żupy,bus_stop,53.1184224,18.0227334
+Toruńska / Żupy,bus_stop,53.1182252,18.0229286
+Fordońska / Gajowa,bus_stop,53.1210004,18.0402069
+Wyścigowa,bus_stop,53.1252925,18.077044
+Dworzec Wschód,bus_stop,53.1272725,18.0834569
+Akademicka - Rejewskiego,bus_stop,53.1423442,18.1088963
+Akademicka - Rejewskiego,bus_stop,53.1425463,18.1110836
+Romanowskiej / Akademicka,bus_stop,53.1454195,18.1170588
+Przylesie P+R,bus_stop,53.1470083,18.1234704
+Akademicka / Kaliskiego,bus_stop,53.1478023,18.1305012
+Akademicka / Igrzyskowa,bus_stop,53.1490234,18.136446
+Andersa - Kleeberga,bus_stop,53.150881,18.1461352
+Bajka,bus_stop,53.1517334,18.1526264
+Andersa / Kasztelańska,bus_stop,53.153796,18.1604302
+Kasztelańska / Andersa,bus_stop,53.1537423,18.1617916
+Andersa / Kasztelańska,bus_stop,53.1544921,18.1615432
+Andersa - Gieryna,bus_stop,53.1654196,18.1709564
+Andersa / Gieryna,bus_stop,53.1665719,18.1714193
+Andersa - Wolna,bus_stop,53.1576857,18.1634229
+Andersa - Wolna,bus_stop,53.1581139,18.1635715
+Niepodległości,bus_stop,53.1594524,18.1649981
+Niepodległości,bus_stop,53.1602024,18.1664053
+Łoskoń,bus_stop,53.1727831,18.1730531
+Łoskoń,bus_stop,53.172964,18.1733649
+Łoskoń,bus_stop,53.1731322,18.1746694
+Łoskoń,bus_stop,53.1728483,18.1745968
+Szpitalna / Łomżyńska,bus_stop,53.1022734,18.0448006
+Rycerska,bus_stop,53.137274,17.9994576
+Kazimierza Wielkiego,bus_stop,53.1154549,18.0571728
+Kazimierza Wielkiego,bus_stop,53.1161106,18.057775
+Kazimierza Wielkiego,bus_stop,53.1163081,18.0583198
+Kazimierza Wielkiego,bus_stop,53.1154151,18.0594114
+Toruńska / Zajezdnia Tramwajowa,bus_stop,53.1159933,18.0637051
+Toruńska / Zajezdnia Tramwajowa,bus_stop,53.1160355,18.0642717
+Toruńska / Równa,bus_stop,53.1178125,18.0746875
+Toruńska / Równa,bus_stop,53.1178323,18.0768434
+Toruńska / Kielecka,bus_stop,53.1180455,18.0823747
+Toruńska / Kielecka,bus_stop,53.1181975,18.084727
+Kielecka / Toruńska,bus_stop,53.1178238,18.0843605
+Sporna / Toruńska,bus_stop,53.1194095,18.087327
+Toruńska / Sporna,bus_stop,53.1181884,18.0876575
+Toruńska / Stomil (brama),bus_stop,53.1170197,18.0937676
+Toruńska / Stomil (brama),bus_stop,53.1168041,18.094495
+Baczyńskiego / Wojska Polskiego,bus_stop,53.1042816,18.0576681
+Wojska Polskiego / Prezydenta Lecha Kaczyńskiego,bus_stop,53.105699,18.0515919
+Wojska Polskiego / Prezydenta Lecha Kaczyńskiego,bus_stop,53.105707,18.0504277
+Glinki [końcowy],bus_stop,53.0984068,18.0393109
+Glinki [końcowy],bus_stop,53.0983997,18.0393389
+Glinki,bus_stop,53.0983545,18.038876
+Glinki,bus_stop,53.0983207,18.0388494
+Wyzwolenia / Geodetów,bus_stop,53.1744003,18.1643187
+Wyzwolenia / Brzegowa (NŻ),bus_stop,53.1815863,18.1706303
+Łoskoń,bus_stop,53.1735366,18.1719849
+Witebska / Gazbud (NŻ),bus_stop,53.1211865,18.1201383
+Witebska / Gazbud (NŻ),bus_stop,53.1213878,18.1204709
+Przemysłowa / Przejazd (NŻ),bus_stop,53.1208388,18.1160466
+Przemysłowa / Przejazd (NŻ),bus_stop,53.1209636,18.115309
+Kasztelańska / Andersa,bus_stop,53.1538126,18.1618486
+Matki Teresy z Kalkuty / Rydygiera,bus_stop,53.1515422,18.109536
+Matki Teresy z Kalkuty / Rydygiera,bus_stop,53.1525738,18.1102443
+Trybowskiego / Majtkowskiego,bus_stop,53.1546708,18.1029422
+Trybowskiego / Jasiniecka,bus_stop,53.1552565,18.0981991
+Matki Teresy z Kalkuty / Romanowskiej,bus_stop,53.1471612,18.1091737
+Matki Teresy z Kalkuty / Romanowskiej,bus_stop,53.1460898,18.108964
+Jasiniecka / Pod Skarpą,bus_stop,53.1576947,18.0983092
+Trybowskiego / Majtkowskiego,bus_stop,53.1546055,18.1042728
+Trybowskiego / Matki Teresy z Kalkuty,bus_stop,53.1540085,18.1079056
+Wzgórze Wolności,bus_stop,53.1140559,18.0161618
+Trasa Uniwersytecka / Ujejskiego,bus_stop,53.1122259,18.0165686
+Pod Skarpą / Przemysła II,bus_stop,53.1603773,18.0919688
+Pod Skarpą / Przemysła II,bus_stop,53.1601205,18.0922516
+Jasiniecka / Trybowskiego,bus_stop,53.1556697,18.0978706
+Trybowskiego / Matki Teresy z Kalkuty,bus_stop,53.1540619,18.1082044
+Zamczysko / Pętla,bus_stop,53.1601724,18.0794885
+Stanowisko 4,bus_stop,53.1224949,18.0169876
+Stanowisko 2,bus_stop,53.1221957,18.0169549
+Stanowisko 1,bus_stop,53.1220304,18.0169479
+Stanowisko 5,bus_stop,53.1220396,18.0167458
+Stanowisko 6,bus_stop,53.1222056,18.0167597
+Stanowisko 7,bus_stop,53.1223614,18.0167828
+Stanowisko 8,bus_stop,53.1225019,18.0167959
+Stanowisko 11,bus_stop,53.1225024,18.0166216
+Stanowisko 10,bus_stop,53.1222874,18.0165997
+Stanowisko 9,bus_stop,53.12204,18.0165668
+Stanowisko 16,bus_stop,53.1218054,18.0170865
+Stanowisko 17,bus_stop,53.1217971,18.0172629
+Stanowisko 18,bus_stop,53.1217874,18.0174701
+Stanowisko 19,bus_stop,53.1217791,18.0176634
+Toruńska / Żupy,bus_stop,53.1182509,18.0230531
+Magnuszewska,bus_stop,53.103879,18.0274754
+Trasa Uniwersytecka / Ujejskiego,bus_stop,53.1111555,18.0160738
+Bronikowskiego / Śluzowa,bus_stop,53.1344341,17.9601539
+Bronikowskiego / Śluzowa,bus_stop,53.1340995,17.9565138
+Szarych Szeregów,bus_stop,53.108062,18.0435603
+Las Gdański P+R,bus_stop,53.1492658,18.0271972
+Grunwaldzka / Schronisko,bus_stop,53.1522586,17.9041946
+Grunwaldzka / Schronisko,bus_stop,53.1515799,17.9056004
+Królowej Jadwigi / Astoria,bus_stop,53.1306867,17.9936945
+Plac Poznański,bus_stop,53.1206798,17.9862131
+Rondo Grunwaldzkie,bus_stop,53.1246273,17.985822
+Gdańska / Las (NŻ),bus_stop,53.1549419,18.0328815
+Grudziądzka / Urząd Miasta P+R,bus_stop,53.1210948,17.9926916
+Park Przemysłowy / Trzecia,bus_stop,53.0888969,18.0781316
+Park Przemysłowy / Michałowskiego,bus_stop,53.0856415,18.07715
+Park Przemysłowy / Frankego,bus_stop,53.0900417,18.0668204
+Park Przemysłowy / Falkowskiego,bus_stop,53.0869998,18.0659886
+Zbożowy Rynek,bus_stop,53.1198532,18.0060291
+Stanowisko 3,bus_stop,53.1223542,18.0169787
+Myślęcinek,bus_stop,53.161469,18.0396022
+Chmurna / Nad Torem,bus_stop,53.1508063,17.9607614
+Siedlecka / Chmielna,bus_stop,53.1533619,17.9604736
+Siedlecka / Łubinowa,bus_stop,53.157395,17.9581802
+Siedlecka / Wodociągi (NŻ),bus_stop,53.1606072,17.9565886
+Pelplińska / Targowisko,bus_stop,53.1591962,18.1566065
+Pelplińska / Targowisko,bus_stop,53.1589147,18.1563256
+Most Kazimierza Wielkiego,bus_stop,53.1213492,18.0568441
+Fordońska / Bałtycka,bus_stop,53.1207488,18.0478405
+Glinki / Polon,bus_stop,53.0944362,18.0456255
+Armii Krajowej / Jeździecka,bus_stop,53.1719554,18.0527832
+Gdańska / Jeździecka,bus_stop,53.1716316,18.0516363
+Gdańska / Cieszkowskiego,bus_stop,53.1300416,18.0079833
+Park Przemysłowy / Frankego,bus_stop,53.0894819,18.0665515
+Park Przemysłowy / Falkowskiego,bus_stop,53.0868525,18.0657347
+Park Przemysłowy / Michałowskiego,bus_stop,53.0857191,18.0769906
+Park Przemysłowy / Trzecia,bus_stop,53.0889233,18.0779696
+Szczerby / Chemiczna,bus_stop,53.1063036,18.0958486
+Mazowiecka / Pomorska,bus_stop,53.1327064,18.0045459
+Filtrowa / Grunwaldzka,bus_stop,53.139932,17.9493893
+Wyzwolenia / Brzegowa (NŻ),bus_stop,53.1819112,18.1709206
+Myślęcinek,bus_stop,53.1614521,18.0399375
+Rondo Kujawskie P+R,bus_stop,53.1135787,18.0073603
+Rondo Kujawskie P+R,bus_stop,53.1144519,18.0092917
+Rondo Kujawskie P+R,bus_stop,53.112231,18.0085222
+Nakielska / Stawowa,bus_stop,53.1263008,17.9761677
+Rondo Kujawskie P+R,bus_stop,53.1153138,18.007872
+Orlicza / Nad Torem,bus_stop,53.1409538,17.9611759
+Rondo Grunwaldzkie,bus_stop,53.1266987,17.9861272
+Schulza / Szubińska,bus_stop,53.114866,17.9592289
+Rondo Kujawskie P+R,bus_stop,53.1146411,18.0062978
+Szarych Szeregów,bus_stop,53.1074388,18.0476607
+Władysława IV / Stawowa,bus_stop,53.1207141,17.9629301
+Dworzec Politechnika,bus_stop,53.139019,18.1360797
+Akademicka / Kaliskiego,bus_stop,53.1476776,18.1284085
+Niepodległości,bus_stop,53.159124,18.1663798
+Orląt Lwowskich,bus_stop,53.1637969,18.1629883
+Orląt Lwowskich,bus_stop,53.1635868,18.1630692
+Hutnicza / Świetlicowa (NŻ),bus_stop,53.0978569,18.1044175
+Kapuściska,bus_stop,53.1016631,18.0627761
+Hutnicza / Świetlicowa (NŻ),bus_stop,53.0977915,18.1042266
+Park Przemysłowy / Biurowiec,bus_stop,53.0941761,18.0676808
+Nad Torem / Chmurna,bus_stop,53.1501734,17.9597727
+Dworzec Leśne,bus_stop,53.142677,18.0327991
+Dworzec Leśne,bus_stop,53.1426869,18.0328984
+Dworzec Leśne,bus_stop,53.143225,18.0321187
+Fredry / Warszawska,bus_stop,53.1328279,17.9966934
+Garbary,bus_stop,53.1265245,17.9914924
+Eskulapa,bus_stop,53.1560028,18.1108024
+Dworzec Wschód,bus_stop,53.1264633,18.0867587
+Garbary,bus_stop,53.1267727,17.9913709
+Smoleńska / Pińczowska,bus_stop,53.1121776,18.0924296
+Siedlecka / Wodociągi (NŻ),bus_stop,53.1602382,17.9570183
+Siedlecka / Chmielna,bus_stop,53.1529543,17.9606013
+Siedlecka / Łubinowa,bus_stop,53.1579756,17.9584128
+Most Kazimierza Wielkiego,bus_stop,53.1213014,18.0569938
+Hala Łuczniczka,bus_stop,53.1190458,18.0257982
+Fordońska / Bałtycka,bus_stop,53.1208245,18.0479117
+Łęgnowo,bus_stop,53.0998835,18.1047878
+Łęgnowo,bus_stop,53.0993373,18.1046999
+Łęgnowo,bus_stop,53.0989039,18.104793
+Most Kazimierza Wielkiego,bus_stop,53.1207871,18.0581187
+,bus_stop,53.1000229,18.1060882
+Czyżkówko [końcowy],bus_stop,53.1458702,17.9490498
+Czyżkówko,bus_stop,53.145896,17.9491839
+Saperów / Okrężna,bus_stop,53.1559515,17.9698938
+Zbożowy Rynek,bus_stop,53.1191196,18.0069002
+Toruńska / Sporna,bus_stop,53.1180815,18.0879098
+Kazimierza Wielkiego,bus_stop,53.1163335,18.058203
+Most Kazimierza Wielkiego,bus_stop,53.1199487,18.0567349
+Osówiec / Netto,bus_stop,53.1481775,17.9202864
+Armii Krajowej / Zamczysko,bus_stop,53.1623807,18.0546067
+Toruńska / Hala,bus_stop,53.1178225,18.0273963
+Toruńska / Hala,bus_stop,53.1176965,18.0274614
+dla wysiadających,bus_stop,53.1222825,18.0181414
+Toruńska / Plątnowska,bus_stop,53.0913446,18.1329198
+Toruńska / Plątnowska,bus_stop,53.0922772,18.1318255
+Rondo Toruńskie,bus_stop,53.1164718,18.040454
+Błonie,bus_stop,53.1162444,17.9682828
+Szpitalna / Łomżyńska,bus_stop,53.1028246,18.0450813
+Chodkiewicza / Paderewskiego,bus_stop,53.1328126,18.017102
+Matki Teresy z Kalkuty / Akademicka,bus_stop,53.1430922,18.1098638
+Smukała,bus_stop,53.1921329,17.9711149
+Gdańska / Las (NŻ),bus_stop,53.1552369,18.0336097
+Las Gdański P+R,bus_stop,53.1502583,18.0281507
+Gdańska / Artyleryjska,bus_stop,53.1385105,18.0163403
+Czerkaska / Gdańska,bus_stop,53.1420944,18.021061
+Wyżyny,bus_stop,53.1077891,18.0384122
+Wąbrzeska (NŻ),bus_stop,53.0953899,18.0182151
+Rondo Wielkopolskie,bus_stop,53.1281335,18.0211253
+Akademicka / Igrzyskowa,bus_stop,53.1487506,18.1379905
+,bus_stop,53.1330305,18.114054
+Wyzwolenia / Swobodna,bus_stop,53.1592558,18.166554
+Niepodległości (pętla),bus_stop,53.1608595,18.1696636
+Niepodległości,bus_stop,53.1594139,18.1651008
+Nowy Rynek P+R,bus_stop,53.1204387,17.997131
+Krasińskiego / Gdańska,bus_stop,53.1282426,18.0063941
+Krasińskiego / Gdańska,bus_stop,53.128229,18.0063799
+Matki Teresy z Kalkuty / Akademicka,bus_stop,,

@@ -1,0 +1,658 @@
+name,highway,latitude,longitude
+Ochojec Wapienna,bus_stop,50.2210272,18.9896572
+Ochojec Sadowa,bus_stop,50.2161415,18.9899278
+Piotrowice Skrzyżowanie,bus_stop,50.2092421,18.9742146
+Giszowiec Karolinki,bus_stop,50.2267089,19.0566072
+Zawodzie Waleriana,bus_stop,50.2596028,19.0473396
+Osiedle Kukuczki Podhalańska,bus_stop,50.2718764,19.0489339
+Muchowiec Park,bus_stop,50.234755,19.0261783
+Dąbrówka Mała Centrum Handlowe,bus_stop,50.268453,19.0582446
+Giszowiec Kościół,bus_stop,50.2241659,19.063466
+Zawodzie Ośrodek Sportowy,bus_stop,50.2593059,19.0559892
+Zawodzie Centrum Przesiadkowe,bus_stop,50.2596847,19.0643205
+Giszowiec Mysłowicka,bus_stop,50.2265589,19.0686261
+Giszowiec Mysłowicka,bus_stop,50.2260424,19.0698846
+Giszowiec Szyb Roździeński,bus_stop,50.2221156,19.0757153
+Giszowiec Przyjemna,bus_stop,50.2195449,19.0715464
+Giszowiec Radosna,bus_stop,50.223335,19.0669867
+Nikiszowiec Szyb Wilson,bus_stop,50.2499648,19.08192
+Kolonia Wysockiego Kulika,bus_stop,50.2361655,19.0734412
+Kolonia Wysockiego Woźniaków,bus_stop,50.2341666,19.0699907
+Giszowiec Przyjazna,bus_stop,50.2220111,19.0702916
+Giszowiec Przyjazna,bus_stop,50.2215808,19.0703915
+Janów Zamkowa,bus_stop,50.2422193,19.0889435
+Nikiszowiec Kościół,bus_stop,50.2435778,19.0818416
+Giszowiec Kopalnia Staszic,bus_stop,50.2245318,19.0489915
+Janów Lwowska Szkoła,bus_stop,50.2477785,19.0894981
+Zawodzie Waleriana,bus_stop,50.2597664,19.0474842
+Murcki Rynek,bus_stop,50.1979536,19.0433534
+Zawodzie Bohaterów Monte Cassino,bus_stop,50.259902,19.0532187
+Murcki Bielska,bus_stop,50.1982919,19.045275
+Murcki Bielska,bus_stop,50.1977364,19.045499
+Murcki Osiedle,bus_stop,50.203767,19.0430405
+Murcki Dolina Murckowska,bus_stop,50.1999856,19.0522003
+Murcki Szyb Stanisław,bus_stop,50.2064917,19.0419426
+Janów Zamkowa Skwer,bus_stop,50.2439367,19.0852477
+Ochojec Szpital,bus_stop,50.2120241,18.9993349
+Ligota Poleska,bus_stop,50.2230235,18.9696542
+Ligota Szpital,bus_stop,50.2247483,18.9577859
+Ligota Akademiki,bus_stop,50.218075,18.9585562
+Janów Lwowska Szkoła,bus_stop,50.247866,19.0898392
+Ligota Bronisławy,bus_stop,50.2210293,18.9596432
+Katowice Mariacka,bus_stop,50.257109,19.0281369
+Giszowiec Przyjemna,bus_stop,50.2193781,19.0727939
+Dąbrówka Mała Pawilon Agata,bus_stop,50.2679222,19.0553162
+Nikiszowiec Kościół,bus_stop,50.2436924,19.0821138
+Nikiszowiec Szpital,bus_stop,50.2460087,19.0800144
+Wilhelmina Skrzyżowanie,bus_stop,50.2543407,19.0926413
+Wilhelmina Skrzyżowanie,bus_stop,50.2542858,19.0929451
+Wilhelmina Krakowska [nż],bus_stop,50.2566918,19.0807444
+Załęże Pośpiecha,bus_stop,50.2637514,19.0036039
+Katowice AWF,bus_stop,50.2511129,19.0043562
+Wilhelmina Skrzyżowanie,bus_stop,50.2531185,19.0909804
+Ligota Medyków,bus_stop,50.227224,18.960293
+Katowice Wita Stwosza,bus_stop,50.2489601,19.017401
+Dąbrówka Mała Centrum Handlowe,bus_stop,50.2698676,19.0597531
+Katowice Strefa Kultury NOSPR,bus_stop,50.2635448,19.0277676
+Katowice Aleja Korfantego,bus_stop,50.2613433,19.0223668
+Dąbrówka Mała Skrzyżowanie,bus_stop,50.2736133,19.0700005
+Katowice Strefa Kultury NOSPR,bus_stop,50.2632605,19.0282383
+Brynów W. Pola,bus_stop,50.2442261,18.9967274
+Katowice Strefa Kultury,bus_stop,50.2623991,19.036997
+Katowice Strefa Kultury,bus_stop,50.2619556,19.0369951
+Bogucice Skrzyżowanie,bus_stop,50.2632553,19.0451403
+Dąbrówka Mała Zespół Szkół,bus_stop,50.2733427,19.062272
+Dąbrówka Mała Zespół Szkół,bus_stop,50.2734069,19.0624223
+Katowice Osiedle Kopalni Wujek,bus_stop,50.2518222,18.9896269
+Kokociniec Ogrodowa,bus_stop,50.2343868,18.9550897
+Brynów W. Pola,bus_stop,50.2449995,18.996524
+Katowice AWF,bus_stop,50.2513217,19.0046473
+Brynów Kościuszki,bus_stop,50.2273323,18.9931782
+Kokociniec Ogrodowa,bus_stop,50.2348676,18.9556531
+Ligota Medyków,bus_stop,50.2279105,18.9599423
+Brynów Kościuszki,bus_stop,50.226684,18.9918265
+Ligota Kolejowa,bus_stop,50.2272192,18.9785212
+Bogucice Cmentarz,bus_stop,50.272407,19.0475764
+Dąbrówka Mała Le Ronda,bus_stop,50.2742905,19.0566222
+Dąbrówka Mała Nowosam [nż],bus_stop,50.2789592,19.0817325
+Dąbrówka Mała Oczyszczalnia,bus_stop,50.2826053,19.0711782
+Dąbrówka Mała Pod Młynem,bus_stop,50.2780583,19.0697881
+Brynów Rzepakowa,bus_stop,50.2229293,18.9939742
+Brynów Dworska,bus_stop,50.2326753,18.9956494
+Katowice Plac Wolności,bus_stop,50.2600185,19.0140267
+Katowice Plac Wolności,bus_stop,50.2603142,19.0128498
+Piotrowice Skrzyżowanie,bus_stop,50.2085064,18.9754397
+Kolonia Stawiska,bus_stop,50.2507368,19.110253
+Wilhelmina Skrzyżowanie,bus_stop,50.2545758,19.09408
+Wilhelmina Zespół Szkół,bus_stop,50.2549567,19.0856973
+Wilhelmina Zespół Szkół,bus_stop,50.2552029,19.0857459
+Koszutka GIG,bus_stop,50.2711162,19.024764
+Wełnowiec Gnieźnieńska,bus_stop,50.282667,19.0195815
+Wełnowiec Gnieźnieńska,bus_stop,50.2834376,19.0191646
+Zawodzie Ośrodek Sportowy,bus_stop,50.2594261,19.0560221
+Koszutka Słoneczna,bus_stop,50.2739729,19.0239678
+Dąbrówka Mała Pod Młynem,bus_stop,50.2793248,19.0685676
+Dąbrówka Mała Spółdzielnia,bus_stop,50.281418,19.0653709
+Dąbrówka Mała Żwirowa,bus_stop,50.2855828,19.0602432
+Ligota Wileńska,bus_stop,50.225221,18.9650171
+Stara Ligota Stroma,bus_stop,50.2400192,18.9806457
+Stara Ligota Stroma,bus_stop,50.2406475,18.9810176
+Katowice Andrzeja Dworzec,bus_stop,50.2565661,19.014831
+Katowice Andrzeja Dworzec,bus_stop,50.2562051,19.0159973
+Katowice Szkolna,bus_stop,50.2586841,19.0269697
+Ligota Bronisławy,bus_stop,50.2203292,18.9599891
+Ligota Wileńska,bus_stop,50.2233442,18.9643873
+Osiedle Tysiąclecia Piastów,bus_stop,50.2727182,18.9824049
+Park Śląski Ogród Zoologiczny,bus_stop,50.2761979,18.9853785
+Katowice Aleja Korfantego,bus_stop,50.2622711,19.02297
+Giszowiec Górniczego Stanu,bus_stop,50.218143,19.060337
+Murcki Kołodzieja,bus_stop,50.1934514,19.0379967
+Giszowiec Górniczego Stanu,bus_stop,50.2170351,19.0598974
+Osiedle Tysiąclecia Ośrodek Rehabilitacji,bus_stop,50.2839411,18.9714502
+Osiedle Tysiąclecia Chrobrego,bus_stop,50.2786897,18.9712334
+Osiedle Tysiąclecia Pawilon,bus_stop,50.279758,18.9730157
+Szopienice Wiadukt,bus_stop,50.2614686,19.1050558
+Katowice Sądowa,bus_stop,50.2587237,19.0106125
+Katowice Sądowa,bus_stop,50.2588673,19.0114825
+Załęże Pośpiecha,bus_stop,50.2631571,19.0048911
+Dąbrówka Mała Kościół,bus_stop,50.2764068,19.0694204
+Burowiec Szkoła,bus_stop,50.2732592,19.072628
+Burowiec Szkoła,bus_stop,50.2730596,19.0728888
+Burowiec,bus_stop,50.2690661,19.0803377
+Dąbrówka Mała Grzegorzka,bus_stop,50.2799195,19.066381
+Dąbrówka Mała Skrzyżowanie,bus_stop,50.2756823,19.0729702
+Dąbrówka Mała Pitery,bus_stop,50.2772977,19.0655647
+Dąb Kościół,bus_stop,50.2714881,18.9940275
+Brynów Dworska,bus_stop,50.2342372,18.9958839
+Osiedle Tysiąclecia ZOO,bus_stop,50.2763066,18.9836242
+Park Śląski Ogród Zoologiczny,bus_stop,50.2770284,18.9836455
+Wełnowiec Poczta,bus_stop,50.2775843,19.0221829
+Dąb Widok,bus_stop,50.2703163,19.0153634
+Dąb Widok,bus_stop,50.2710626,19.0158974
+Nikiszowiec Szyb Pułaski,bus_stop,50.2407471,19.0783621
+Nikiszowiec Szyb Pułaski,bus_stop,50.2406588,19.078335
+Panewniki Owsiana,bus_stop,50.222047,18.9255954
+Panewniki Skrzyżowanie,bus_stop,50.2276221,18.9234598
+Panewniki Szkoła,bus_stop,50.2306037,18.9499605
+Panewniki Wietnamska [nż],bus_stop,50.2297445,18.9433731
+Panewniki Krucza [nż],bus_stop,50.2310488,18.9524244
+Panewniki Szkoła,bus_stop,50.2303619,18.949168
+Panewniki Wietnamska [nż],bus_stop,50.229749,18.9443015
+Kokociniec Wybickiego,bus_stop,50.2371091,18.9608348
+Kokociniec Wybickiego,bus_stop,50.2375515,18.9609992
+Brynów Kopalnia Wujek,bus_stop,50.2413338,18.9880486
+Brynów Kopalnia Wujek,bus_stop,50.2413731,18.987282
+Ligota Szpital,bus_stop,50.2244495,18.9577782
+Ligota Medyków,bus_stop,50.226541,18.9585721
+Stara Ligota Wiadukt,bus_stop,50.2385435,18.9865564
+Brynów Dziewięciu z Wujka,bus_stop,50.2398986,18.9892935
+Brynów Dziewięciu z Wujka,bus_stop,50.240129,18.9897541
+Stara Ligota Wiadukt,bus_stop,50.238164,18.9859508
+Panewniki Stare Cmentarz [nż],bus_stop,50.2288877,18.9167328
+Panewniki Stare Cmentarz [nż],bus_stop,50.2289843,18.9166887
+Panewniki Stare,bus_stop,50.2281904,18.9186834
+Panewniki Stare,bus_stop,50.2283278,18.9197188
+Panewniki Bałtycka,bus_stop,50.2278747,18.928302
+Panewniki Bema,bus_stop,50.229566,18.9368113
+Panewniki Bema,bus_stop,50.2295931,18.9369917
+Panewniki Wymysłów,bus_stop,50.2288504,18.9327691
+Kokociniec Kijowska,bus_stop,50.2363269,18.9649521
+Kokociniec Kijowska,bus_stop,50.2364379,18.9650655
+Kokociniec Płochy,bus_stop,50.2336099,18.9634861
+Kokociniec Płochy,bus_stop,50.2337312,18.9635323
+Panewniki Skrzyżowanie,bus_stop,50.2272211,18.9236416
+Ligota Poleska,bus_stop,50.2243495,18.9697835
+Ligota Zadole,bus_stop,50.2196521,18.9743931
+Piotrowice Skrzyżowanie,bus_stop,50.2073812,18.9742187
+Piotrowice Skrzyżowanie,bus_stop,50.2084134,18.9734935
+Dąbrówka Mała Le Ronda,bus_stop,50.2746191,19.0578276
+Ligota Poleska,bus_stop,50.2232169,18.9692296
+Bogucice Wróblewskiego,bus_stop,50.26675,19.0424967
+Szopienice Osiedlowa,bus_stop,50.2646074,19.1042453
+Szopienice Szpital Geriatryczny,bus_stop,50.265472,19.0946252
+Szopienice Szpital Geriatryczny,bus_stop,50.2657543,19.0924593
+Katowice Dworzec,bus_stop,50.2582769,19.0181163
+Katowice Dworzec,bus_stop,50.2583028,19.0177929
+Katowice Dworzec,bus_stop,50.2583286,19.0174696
+Katowice Dworzec,bus_stop,50.2583545,19.0171462
+Katowice Dworzec,bus_stop,50.2583804,19.0168229
+Katowice Dworzec,bus_stop,50.2584517,19.0181597
+Katowice Dworzec,bus_stop,50.2584784,19.0178378
+Katowice Dworzec,bus_stop,50.258505,19.0175158
+Katowice Dworzec,bus_stop,50.2585316,19.0171939
+Katowice Dworzec,bus_stop,50.2585583,19.016872
+Brynów Gawronów I,bus_stop,50.2368453,19.0088184
+Brynów Gawronów I,bus_stop,50.2368887,19.0071713
+Brynów Gawronów II,bus_stop,50.2373826,19.0043728
+Brynów Gawronów II,bus_stop,50.2374579,19.0041653
+Brynów Różyckiego,bus_stop,50.2392855,18.9945304
+Burowiec,bus_stop,50.2683063,19.0792345
+Burowiec,bus_stop,50.2683628,19.0798989
+Katowice Andrzeja Dworzec,bus_stop,50.2563725,19.0157169
+Bogucice Cmentarz,bus_stop,50.2723039,19.0469392
+Ochojec Lechicka,bus_stop,50.218706,18.9838781
+Ochojec Lechicka,bus_stop,50.2187487,18.9836317
+Murcki Leśników [nż],bus_stop,50.1865533,19.0371645
+Murcki Leśników [nż],bus_stop,50.1875042,19.0382921
+Murcki Wzgórze Wandy,bus_stop,50.192459,19.0425168
+Murcki Wzgórze Wandy,bus_stop,50.1950678,19.0454354
+Bogucice Kościół,bus_stop,50.2693536,19.0360557
+Osiedle Kukuczki Podhalańska,bus_stop,50.2705667,19.0496019
+Dąbrówka Mała Dytrycha,bus_stop,50.2795075,19.0786733
+Dąbrówka Mała Dytrycha,bus_stop,50.2795582,19.0788452
+Dąbrówka Mała Nowosam,bus_stop,50.2800813,19.0819216
+Dąbrówka Mała Żyzna [nż],bus_stop,50.2790899,19.0747765
+Dąbrówka Mała Żyzna [nż],bus_stop,50.2789804,19.074477
+Panewniki Wymysłów,bus_stop,50.2288174,18.932633
+Ligota Panewnicka,bus_stop,50.2256193,18.9700813
+Murcki Osiedle,bus_stop,50.203884,19.0429943
+Murcki Szebesty [nż],bus_stop,50.2040525,19.0478684
+Giszowiec Radosna,bus_stop,50.2232813,19.0665123
+Katowice Cmentarz Komunalny,bus_stop,50.2466884,19.0506724
+Katowice Porcelanowa,bus_stop,50.2497951,19.0490331
+Katowice Green Park,bus_stop,50.2546582,19.0475165
+Katowice Krasińskiego,bus_stop,50.2537388,19.0345835
+Osiedle Paderewskiego Biblioteka Śląska,bus_stop,50.2508521,19.033206
+Osiedle Paderewskiego Biblioteka Śląska,bus_stop,50.2513248,19.0320699
+Katowice Francuska,bus_stop,50.2531078,19.0269413
+Osiedle Paderewskiego Graniczna,bus_stop,50.2472795,19.0363134
+Osiedle Paderewskiego Graniczna,bus_stop,50.2485079,19.034226
+Osiedle Paderewskiego Pomnik,bus_stop,50.2452927,19.0402829
+Osiedle Paderewskiego Pomnik,bus_stop,50.2460807,19.0391335
+Stara Ligota Załęska,bus_stop,50.2346667,18.977327
+Ochojec Sadowa,bus_stop,50.2158772,18.9899473
+Zarzecze Azalii,bus_stop,50.1862062,18.9585939
+Załęska Hałda Kolońska [nż],bus_stop,50.2552511,18.9776677
+Katowice Osiedle Kopalni Wujek,bus_stop,50.2522731,18.9896247
+Załęże Bocheńskiego,bus_stop,50.2617713,18.9866134
+Kolonia Agnieszki Bytomska,bus_stop,50.2870196,19.0066698
+Szopienice Roździeńska [nż],bus_stop,50.2624691,19.0718377
+Katowice Ceglana Szpital Kliniczny,bus_stop,50.2433627,19.0151283
+Muchowiec Park,bus_stop,50.2349899,19.0262394
+Muchowiec Droga do Lotniska,bus_stop,50.2408598,19.024982
+Muchowiec Droga do Lotniska,bus_stop,50.2410295,19.0250285
+Zawodzie Bohaterów Monte Cassino,bus_stop,50.2599725,19.0533669
+Dąbrówka Mała Pod Młynem,bus_stop,50.2798494,19.0678123
+Dąbrówka Mała Spółdzielnia,bus_stop,50.2817387,19.0649112
+Dąbrówka Mała Żwirowa,bus_stop,50.2858542,19.0598354
+Dąbrówka Mała Oczyszczalnia,bus_stop,50.2829218,19.0713768
+Dąbrówka Mała Milowicka,bus_stop,50.2854924,19.0715427
+Kolonia Amandy [nż],bus_stop,50.2457749,19.060597
+Kolonia Wysockiego Woźniaków,bus_stop,50.2337087,19.0685561
+Kolonia Wysockiego Kulika,bus_stop,50.2366788,19.0740254
+Nikiszowiec Szpital,bus_stop,50.2461366,19.0800566
+Nikiszowiec Szyb Wilson,bus_stop,50.2500207,19.0819735
+Janów Spółdzielnia Inwalidów,bus_stop,50.2461756,19.0862546
+Janów Spółdzielnia Inwalidów,bus_stop,50.2462633,19.0863849
+Janów Zamkowa Skwer,bus_stop,50.2436999,19.0865021
+Janów Oswobodzenia Cmentarna,bus_stop,50.2447897,19.0938788
+Janów Zamkowa,bus_stop,50.2419461,19.0893924
+Szopienice Roździeńska [nż],bus_stop,50.2623021,19.0718108
+Wełnowiec Plac Alfreda,bus_stop,50.2925531,19.0139493
+Kolonia Stawiska,bus_stop,50.2507732,19.1100986
+Murcki Cegielnia [nż],bus_stop,50.2043667,19.0184054
+Murcki Tartaczna [nż],bus_stop,50.1941331,19.0336075
+Osiedle Kukuczki DL Center Point,bus_stop,50.2666341,19.0466639
+Osiedle Kukuczki Sandomierska,bus_stop,50.2695582,19.0435993
+Szopienice Bednorza,bus_stop,50.2638875,19.0876347
+Szopienice Bednorza,bus_stop,50.2639098,19.0873088
+Zawodzie Łączna,bus_stop,50.2596338,19.0609267
+Zawodzie Zajezdnia,bus_stop,50.2598238,19.0683407
+Carrefour,bus_stop,50.268831,19.0624088
+Muchowiec Korty Pętla,bus_stop,50.2301928,19.0262982
+Katowice Dąbrówki,bus_stop,50.2618758,19.008789
+Ligota Śląska Pętla,bus_stop,50.211825,18.9576183
+Katowice Sobieskiego,bus_stop,50.2603255,19.01186
+Załęże Janasa,bus_stop,50.265229,18.9974862
+Załęże Janasa,bus_stop,50.2655103,18.9970851
+Ligota Panewnicka,bus_stop,50.225391,18.9677543
+Szopienice Dwór,bus_stop,50.2619484,19.1016332
+Wilhelmina Skrzyżowanie,bus_stop,50.2538774,19.091289
+Szopienice Dwór,bus_stop,50.2618946,19.101996
+Murcki Dworzec PKP,bus_stop,50.2022164,19.0240121
+Panewniki Bałtycka,bus_stop,50.2279826,18.9289077
+Katowice Hutnicza,bus_stop,50.2521854,19.056357
+Katowice Porcelanowa Zakłady,bus_stop,50.2520504,19.0518733
+Katowice Cmentarz Komunalny,bus_stop,50.2466283,19.0509731
+Szopienice Kocura [nż],bus_stop,50.2661577,19.0888701
+Osiedle Kukuczki Lubuska,bus_stop,50.2683206,19.0509294
+Dąbrówka Mała Wiertnicza [nż],bus_stop,50.2724435,19.054899
+Wełnowiec Gnieźnieńska,bus_stop,50.2830069,19.0187435
+Dąbrówka Mała Milowicka,bus_stop,50.286027,19.0714368
+Brynów Różyckiego,bus_stop,50.2383847,18.9945066
+Janów Osiedle,bus_stop,50.2395813,19.093083
+Janów Osiedle,bus_stop,50.2401099,19.093207
+Janów Ośrodek Bolina,bus_stop,50.2319153,19.0863195
+Janów Oswobodzenia Cmentarna,bus_stop,50.2447212,19.0936923
+Katowice Fabryka Porcelany,bus_stop,50.2541228,19.0615366
+Dąb Silesia Business Park,bus_stop,50.2697637,18.999594
+Murcki Wiadukt n/ż,bus_stop,50.1991359,19.0545266
+Dąbrówka Mała Cmentarz [nż],bus_stop,50.2763938,19.0643858
+Załęże Bocheńskiego,bus_stop,50.2627687,18.9869442
+Ligota Kolejowa LIBERO,bus_stop,50.2231327,18.9854875
+Ligota Kolejowa LIBERO,bus_stop,50.223198,18.9852143
+Katowice Powstańców Przychodnie,bus_stop,50.2521498,19.0239204
+Zawodzie Łączna,bus_stop,50.2595226,19.0618495
+Panewniki Bazylika,bus_stop,50.2257915,18.9630217
+Katowice Porcelanowa Zakłady,bus_stop,50.2520932,19.0531421
+Załęska Hałda Bocheńskiego Autostrada,bus_stop,50.2555472,18.9840619
+Ligota Kiepury,bus_stop,50.2267991,18.98969
+Katowice Porcelanowa,bus_stop,50.2523009,19.0484817
+Katowice Sokolska,bus_stop,50.2639758,19.018063
+Burowiec,bus_stop,50.2690103,19.080446
+Podlesie Oczyszczalnia,bus_stop,50.1676425,18.9766002
+Podlesie Mleczna [nż],bus_stop,50.1708808,18.9723922
+Załęże PKP,bus_stop,50.2637333,18.9896272
+Załęże Żeliwna Park Technologiczny,bus_stop,50.2596921,18.9958754
+Załęże Kąpielisko Bugla,bus_stop,50.2542126,18.9921482
+Ligota LIBERO,bus_stop,50.2241717,18.9899666
+Ochojec Wapienna,bus_stop,50.221586,18.989315
+Brynów Rzepakowa,bus_stop,50.2229746,18.9940106
+Janów Zamkowa Skwer,bus_stop,50.2444852,19.0851915
+Katowice Plac Wolności,bus_stop,50.2607426,19.0143363
+Wełnowiec Plac Alfreda,bus_stop,50.2927851,19.0155502
+Murcki Cmentarz [nż],bus_stop,50.2060971,19.0420976
+Katowice Sądowa,bus_stop,50.2586215,19.0110189
+,bus_stop,50.2593335,19.0103854
+,bus_stop,50.2591859,19.0098724
+,bus_stop,50.259299,19.009679
+Katowice Sądowa,bus_stop,50.2594116,19.0094861
+Osiedle Tysiąclecia Piastów Przedszkole,bus_stop,50.2726533,18.9862513
+Załęże PKP,bus_stop,50.2651582,18.9840846
+,bus_stop,50.2595074,19.0095289
+,bus_stop,50.2594295,19.0096585
+,bus_stop,50.2593722,19.0097565
+,bus_stop,50.2592867,19.0099086
+,bus_stop,50.2594015,19.010068
+,bus_stop,50.259318,19.0101991
+,bus_stop,50.2592631,19.010305
+,bus_stop,50.259213,19.0100302
+,bus_stop,50.2591546,19.0101315
+,bus_stop,50.2590855,19.0102554
+Zawodzie Centrum Przesiadkowe Parking,bus_stop,50.2588883,19.0662487
+Zawodzie Centrum Przesiadkowe,bus_stop,50.2603442,19.0631941
+Brynów Centrum Przesiadkowe,bus_stop,50.2270355,18.9944238
+Brynów Centrum Przesiadkowe,bus_stop,50.2271561,18.9954476
+Borki Pętla,bus_stop,50.2787491,19.095051
+Katowice Sądowa,bus_stop,50.2589744,19.0113046
+,bus_stop,50.259427,19.0102246
+,bus_stop,50.2595408,19.0100252
+,bus_stop,50.259091,19.0100349
+Załęże Kościół,bus_stop,50.2642503,19.0003615
+Załęże Kościół,bus_stop,50.264304,19.0006649
+Szopienice Pętla,bus_stop,50.2605772,19.1096515
+Szopienice Chemiczna,bus_stop,50.259368,19.1119654
+Szopienice Chemiczna,bus_stop,50.2597086,19.1113771
+Giszowiec Kolista Stacja Paliw,bus_stop,50.2263085,19.0600135
+Kolonia Amandy [nż],bus_stop,50.2462267,19.0623411
+Nowy Nikiszowiec,bus_stop,50.2475107,19.0731742
+Nowy Nikiszowiec,bus_stop,50.247695,19.074484
+Podlesie Niezapominajek [nż],bus_stop,50.1735594,18.9713189
+Podlesie Niezapominajek [nż],bus_stop,50.1735774,18.9711788
+Podlesie Mleczna [nż],bus_stop,50.1708196,18.9723196
+Kolonia Agnieszki Promienna,bus_stop,50.2873657,19.0076167
+Kolonia Agnieszki Promienna,bus_stop,50.2874776,19.0075077
+Dąbrówka Mała Wiertnicza [nż],bus_stop,50.2734588,19.0525999
+Osiedle Kukuczki DL Center Point,bus_stop,50.2666561,19.0465856
+Dąb Krzyżowa,bus_stop,50.2795474,19.0056332
+Dąb Krzyżowa,bus_stop,50.2793896,19.0052668
+Józefowiec Szczecińska,bus_stop,50.2791735,19.0157367
+Józefowiec Szczecińska,bus_stop,50.2790605,19.0159955
+Józefowiec Ściegiennego,bus_stop,50.2780523,19.0089632
+Józefowiec Ściegiennego,bus_stop,50.2774466,19.0086103
+Józefowiec Ściegiennego,bus_stop,50.2776307,19.0084628
+Józefowiec Osiedle,bus_stop,50.2811288,19.0098457
+Józefowiec Osiedle,bus_stop,50.2812755,19.0100427
+Józefowiec Jabłoniowa,bus_stop,50.2746911,19.0097214
+Józefowiec Jabłoniowa,bus_stop,50.2749125,19.0089986
+Załęże Dom Kultury,bus_stop,50.2705674,18.9748083
+Załęże Dom Kultury,bus_stop,50.2704637,18.9744788
+Osiedle Tysiąclecia Mieszka I,bus_stop,50.2741422,18.974517
+Osiedle Tysiąclecia Mieszka I,bus_stop,50.2743389,18.9744944
+Osiedle Tysiąclecia Zawiszy Czarnego,bus_stop,50.2768298,18.9763153
+Osiedle Tysiąclecia Zawiszy Czarnego,bus_stop,50.2766238,18.9750629
+Dąb Huta Baildon,bus_stop,50.2677813,19.0103132
+Dąb Huta Baildon,bus_stop,50.2673818,19.0092589
+Ligota Dom Kultury,bus_stop,50.2278728,18.9743726
+Stara Ligota Filarowa,bus_stop,50.2316325,18.978654
+Stara Ligota Filarowa,bus_stop,50.2316995,18.9788432
+Ligota Dworzec PKP,bus_stop,50.2262081,18.9764775
+Ligota Dworzec PKP,bus_stop,50.2261089,18.9766755
+Ligota Kłodnicka,bus_stop,50.2277662,18.9796554
+Załęże Wiśniowa,bus_stop,50.2682613,18.9790238
+Załęże Wiśniowa,bus_stop,50.2682263,18.9792662
+Osiedle Witosa Pętla,bus_stop,50.2603208,18.9657616
+Osiedle Witosa Centrum,bus_stop,50.2614648,18.9703588
+Osiedle Witosa Centrum,bus_stop,50.2606759,18.9702368
+Osiedle Witosa Kossutha NFZ,bus_stop,50.2646604,18.9765902
+Osiedle Witosa II,bus_stop,50.2660705,18.9732394
+Osiedle Witosa II,bus_stop,50.2659959,18.9735005
+Józefowiec Cmentarz,bus_stop,50.2764204,19.0154791
+Józefowiec Cmentarz,bus_stop,50.2762301,19.0162854
+Koszutka Iłłakowiczówny,bus_stop,50.2748185,19.022034
+Koszutka Iłłakowiczówny,bus_stop,50.2747442,19.0222481
+Koszutka Kościół,bus_stop,50.2717195,19.0189797
+Koszutka Kościół,bus_stop,50.2718262,19.0179033
+Koszutka Kino Kosmos,bus_stop,50.268419,19.0196526
+Katowice Chorzowska,bus_stop,50.2668285,19.0198306
+Katowice Chorzowska,bus_stop,50.2661093,19.0190536
+Katowice Chorzowska,bus_stop,50.26534,19.0178852
+Katowice Sokolska,bus_stop,50.2635885,19.0171623
+Ligota Rzeszótki,bus_stop,50.2274139,18.9820297
+Dąb Szkoła,bus_stop,50.2752163,19.0005925
+Dąb Szkoła,bus_stop,50.274284,18.9996322
+Koszutka Kościół,bus_stop,50.2713725,19.0203499
+Dąbrówka Mała Ośrodek Zdrowia,bus_stop,50.276976,19.0672719
+Katowice Uniwersytet Śląski,bus_stop,50.2614607,19.025643
+Stara Ligota Rolna,bus_stop,50.2315287,18.9828377
+Stara Ligota Rolna,bus_stop,50.2314171,18.9834328
+Katowice Meteorologów,bus_stop,50.2413241,19.0171267
+Katowice Meteorologów,bus_stop,50.2420772,19.0183345
+Katowice Francuska WORD,bus_stop,50.2439092,19.0246025
+Katowice Francuska WORD,bus_stop,50.2443453,19.0245136
+Katowice Komenda Policji,bus_stop,50.2467014,19.0255311
+Katowice Komenda Policji,bus_stop,50.2471201,19.0258988
+Katowice Francuska Sąd,bus_stop,50.2508683,19.0263767
+Katowice Jagiellońska,bus_stop,50.2540284,19.0238877
+Wełnowiec Plac Alfreda,bus_stop,50.293377,19.0129063
+Telewizja Katowice,bus_stop,50.2951688,19.0053497
+Józefowiec Szpital,bus_stop,50.2841639,19.0137107
+Józefowiec Szpital,bus_stop,50.2849384,19.012966
+Katowice Porcelanowa,bus_stop,50.2509154,19.0474773
+Janów Leśnego Potoku,bus_stop,50.242154,19.0928483
+Janów Leśnego Potoku,bus_stop,50.242259,19.0929502
+Kolonia Zuzanna [nż],bus_stop,50.2352855,19.0547576
+Kolonia Zuzanna [nż],bus_stop,50.2351905,19.0541468
+Giszowiec Osiedle,bus_stop,50.2233809,19.0581837
+Giszowiec Osiedle,bus_stop,50.224032,19.0586517
+Piotrowice Osiedle Żurawia,bus_stop,50.2082307,18.9665547
+Brynów Orkana,bus_stop,50.2314577,18.9886454
+Brynów Orkana,bus_stop,50.2312779,18.989294
+Wesoła Kopalnia,bus_stop,50.18168,19.0954349
+Wesoła Kopalnia,bus_stop,50.1815918,19.0956812
+Giszowiec Kosmiczna,bus_stop,50.2261206,19.0742301
+Giszowiec Kosmiczna,bus_stop,50.2261362,19.074377
+Dąb Kościół,bus_stop,50.2706728,18.9955593
+Giszowiec Kolista Stacja Paliw,bus_stop,50.2252809,19.0614603
+Giszowiec Karolinki,bus_stop,50.226992,19.0556406
+Giszowiec Karolinki,bus_stop,50.227181,19.055563
+Giszowiec Karolinki,bus_stop,50.2276384,19.0560131
+Obroki Dulęby,bus_stop,50.2671649,18.9677497
+Obroki Dulęby,bus_stop,50.2670638,18.9676208
+Osiedle Witosa Plac Świętego Herberta,bus_stop,50.2596961,18.9695542
+Janów Strumienna,bus_stop,50.2354351,19.0912178
+Janów Strumienna,bus_stop,50.2353108,19.0912236
+Załęże Dwór,bus_stop,50.2668078,18.9917181
+Załęże Dwór,bus_stop,50.2671016,18.9912499
+Podlesie Poczta,bus_stop,50.1760016,18.9701159
+Podlesie Poczta,bus_stop,50.1762506,18.9698052
+Podlesie Uniczowska,bus_stop,50.177452,18.9665125
+Podlesie Uniczowska,bus_stop,50.177241,18.9666823
+Podlesie Kaczeńców,bus_stop,50.1907497,18.9656878
+Podlesie Kaczeńców,bus_stop,50.1908125,18.9656002
+Podlesie Tarninowa [nż],bus_stop,50.1885715,18.9614186
+Podlesie Tarninowa [nż],bus_stop,50.1885322,18.9615506
+Podlesie Dworzec PKP,bus_stop,50.1839002,18.9597119
+Podlesie Dworzec PKP,bus_stop,50.1837136,18.9598365
+Zarzecze Azalii,bus_stop,50.1861018,18.9584001
+Osiedle Tysiąclecia ZOO,bus_stop,50.2760107,18.9824351
+Osiedle Tysiąclecia Oczyszczalnia,bus_stop,50.2803066,18.9666678
+Osiedle Tysiąclecia Pętla,bus_stop,50.2826449,18.963758
+Osiedle Tysiąclecia Pętla,bus_stop,50.2825476,18.9642097
+Katowice Mickiewicza,bus_stop,50.2610257,19.018961
+Katowice Mickiewicza,bus_stop,50.260877,19.0192819
+Katowice Sokolska,bus_stop,50.2641216,19.0182351
+Katowice Sokolska,bus_stop,50.2642712,19.0183869
+Koszutka Morcinka,bus_stop,50.2681834,19.0211409
+Koszutka Katowicka,bus_stop,50.2699942,19.0265086
+Koszutka Katowicka,bus_stop,50.2698086,19.0264627
+Dąb Kościół,bus_stop,50.2713863,18.9968773
+Osiedle Witosa Rataja,bus_stop,50.2611661,18.9764289
+Osiedle Witosa Rataja,bus_stop,50.2607155,18.9772313
+Osiedle Witosa Droga Kochłowicka,bus_stop,50.2559937,18.9704842
+Osiedle Witosa Droga Kochłowicka,bus_stop,50.256548,18.9717504
+Osiedle Witosa Droga Kochłowicka,bus_stop,50.2566209,18.9721544
+Stara Ligota Załęska,bus_stop,50.2345729,18.9775979
+Ligota Franciszkańska,bus_stop,50.227972,18.9705115
+Ligota Ośrodek Zdrowia,bus_stop,50.2298536,18.9709723
+Ligota Ośrodek Zdrowia,bus_stop,50.2300708,18.9715409
+Katowice Stęślickiego,bus_stop,50.2675558,19.0132419
+Osiedle Tysiąclecia Piastów,bus_stop,50.273566,18.981056
+Obroki Hale Targowe,bus_stop,50.2682142,18.9595497
+Obroki Hale Targowe,bus_stop,50.2681105,18.9586099
+Obroki Elkop,bus_stop,50.2670751,18.9552783
+Osiedle Tysiąclecia Ułańska,bus_stop,50.2855013,18.9669385
+Dąb Silesia City Center,bus_stop,50.2711865,19.0062579
+,bus_stop,50.2594821,19.0099229
+,bus_stop,50.259538,19.009848
+,bus_stop,50.2596069,19.0096912
+Bogucice Kościół,bus_stop,50.2695312,19.036465
+Bogucice Markiefki,bus_stop,50.2653323,19.0414683
+Zarzecze Owsiana,bus_stop,50.1964627,18.9326011
+Kolonia Agnieszki Bytomska,bus_stop,50.2870025,19.0065996
+Kolonia Agnieszki Bytomska,bus_stop,50.285732,19.0069095
+Giszowiec Gościnna,bus_stop,50.2243786,19.0680728
+Piotrowice Miłe Zacisze,bus_stop,50.1981438,18.9659484
+Piotrowice Miłe Zacisze,bus_stop,50.1982292,18.9658702
+Piotrowice Bukszpanowa Kaplica,bus_stop,50.1956266,18.9696153
+Piotrowice Bukszpanowa Kaplica,bus_stop,50.1955811,18.969749
+Kostuchna Skrzyżowanie,bus_stop,50.1938968,18.9813279
+Kostuchna Skrzyżowanie,bus_stop,50.1937152,18.9817888
+Podlesie Strzelnica,bus_stop,50.1829,18.9781357
+Podlesie Strzelnica,bus_stop,50.1828913,18.9784309
+Kostuchna Migdałowców,bus_stop,50.1887114,18.9819656
+Kostuchna Migdałowców,bus_stop,50.1888094,18.9821751
+Zarzecze Szarotek Boisko,bus_stop,50.1853094,18.9527503
+Zarzecze Szarotek Boisko,bus_stop,50.1853517,18.9526324
+Zarzecze Pstrągowa,bus_stop,50.1954394,18.9357436
+Zarzecze Pstrągowa,bus_stop,50.1949854,18.9358175
+Zarzecze Owsiana Pętla,bus_stop,50.195823,18.9318829
+Zarzecze Owsiana,bus_stop,50.1954508,18.9309945
+Zarzecze Owsiana,bus_stop,50.196637,18.9322894
+Zarzecze Kościół,bus_stop,50.1842641,18.9522059
+Zarzecze Kościół,bus_stop,50.1843345,18.951882
+Zarzecze Węgorzy,bus_stop,50.1824768,18.9445534
+Zarzecze Węgorzy,bus_stop,50.1826055,18.9450571
+Zarzecze Osiedle Grota [nż],bus_stop,50.1816558,18.9359341
+Zarzecze Osiedle Grota [nż],bus_stop,50.1817345,18.9358314
+Podlesie Karasiowa,bus_stop,50.1754499,18.9515865
+Podlesie Karasiowa,bus_stop,50.1753924,18.9519723
+Podlesie Piwonii,bus_stop,50.1763998,18.9578331
+Podlesie Piwonii,bus_stop,50.1763124,18.9579042
+Podlesie Pomorskiego,bus_stop,50.1765514,18.9619819
+Podlesie Pomorskiego,bus_stop,50.1766505,18.9636899
+Podlesie Kościół,bus_stop,50.1779638,18.9691411
+Podlesie Kościół,bus_stop,50.1778817,18.9690571
+Podlesie Cmentarz,bus_stop,50.1845884,18.9690447
+Podlesie Cmentarz,bus_stop,50.1846935,18.9682863
+Podlesie Kwiatów Polskich,bus_stop,50.1861257,18.9724925
+Podlesie Kwiatów Polskich,bus_stop,50.1861726,18.9741655
+Kostuchna Cmentarz,bus_stop,50.1882873,18.9888747
+Kostuchna Cmentarz,bus_stop,50.1882886,18.9901779
+Kostuchna Szarych Szeregów,bus_stop,50.1934225,18.9910177
+Kostuchna Szarych Szeregów,bus_stop,50.193626,18.9905329
+Kostuchna Szkoła,bus_stop,50.1875111,18.9950036
+Osiedle Tysiąclecia Pętla,bus_stop,50.2835475,18.9640864
+Obroki Elkop,bus_stop,50.2672257,18.9554767
+Obroki MPGK,bus_stop,50.2657222,18.9607006
+Obroki MPGK,bus_stop,50.2653272,18.9610043
+Obroki Droga do MPGK [nż],bus_stop,50.2677288,18.9613216
+Obroki Droga do MPGK [nż],bus_stop,50.2676657,18.9610666
+Józefowiec Ściegiennego,bus_stop,50.278032,19.0071676
+Szopienice PKP,bus_stop,50.2580778,19.0940924
+Szopienice PKP,bus_stop,50.2578618,19.0938384
+Ochojec Spółdzielczości,bus_stop,50.2089432,18.9893702
+Ochojec Spółdzielczości,bus_stop,50.2099047,18.9896009
+Ochojec Poprzeczna,bus_stop,50.2102904,18.9874178
+Ochojec Poprzeczna,bus_stop,50.2101974,18.9866305
+Ochojec Jaworowa,bus_stop,50.2111723,18.9920197
+Ochojec Jaworowa,bus_stop,50.2111888,18.9914052
+Podlesie Saska,bus_stop,50.1760359,18.9749339
+Kostuchna Stabika,bus_stop,50.1923762,18.9731188
+Kostuchna Stabika,bus_stop,50.1921617,18.9699352
+Burowiec Szpital,bus_stop,50.2710501,19.085905
+Burowiec Szpital,bus_stop,50.2719381,19.0864706
+Borki Korczaka,bus_stop,50.2778687,19.0896086
+Borki Korczaka,bus_stop,50.2782363,19.0895657
+Osiedle Paderewskiego Krasińskiego,bus_stop,50.2549365,19.0389624
+Osiedle Paderewskiego Sikorskiego,bus_stop,50.25267,19.0387978
+Katowice Skłodowskiej Dworzec,bus_stop,50.2559124,19.0154267
+Katowice Skłodowskiej Dworzec,bus_stop,50.2555752,19.0153641
+Katowice Skłodowskiej Dworzec,bus_stop,50.2557438,19.0153937
+Katowice Skłodowskiej Dworzec,bus_stop,50.2552447,19.0152251
+Katowice Kopernika Dworzec,bus_stop,50.2553767,19.0128077
+Katowice Plac Miarki,bus_stop,50.2546021,19.0168002
+Katowice Plac Miarki,bus_stop,50.2548501,19.0176514
+Katowice Plac Miarki,bus_stop,50.2550538,19.0178176
+Katowice Plac Miarki,bus_stop,50.2551783,19.0188952
+Katowice Plac Miarki,bus_stop,50.254521,19.0195228
+Giszowiec Kolista Pętla,bus_stop,50.228683,19.0598537
+Osiedle Paderewskiego Trzy Stawy,bus_stop,50.2434405,19.0362017
+Osiedle Paderewskiego Trzy Stawy,bus_stop,50.2418543,19.0350571
+Brynów W. Pola Tymczasowy,bus_stop,50.2423011,18.9844681
+Katowice Cmentarz komunalny,bus_stop,50.244432,19.0520797
+Bytkowska Centrum Targowe,bus_stop,50.2916994,19.0055658
+Katowice Piotra Skargi,bus_stop,50.2621618,19.0180139
+Katowice Piotra Skargi,bus_stop,50.2620276,19.0183234
+Katowice Piotra Skargi,bus_stop,50.2618892,19.0186515
+Szopienice Kościół,bus_stop,50.2622522,19.095116
+Szopienice Kościół,bus_stop,50.2621065,19.0948203
+Zawodzie BMC Wiadukt,bus_stop,50.2648012,19.052456
+Muchowiec 73 Pułku Piechoty n/ż,bus_stop,50.227,19.0276954
+Muchowiec 73 Pułku Piechoty n/ż,bus_stop,50.2270844,19.0276544
+Osiedle Paderewskiego Biblioteka Śląska,bus_stop,50.2508135,19.033352
+Osiedle Paderewskiego Biblioteka Śląska,bus_stop,50.2512301,19.0320337
+Katowice Krasińskiego,bus_stop,50.2535739,19.0346417
+Katowice Francuska,bus_stop,50.253111,19.0270305
+Katowice Mikołowska Sąd,bus_stop,50.2567846,19.0131996
+Katowice Kopernika Dworzec,bus_stop,50.255011,19.0144388
+Katowice AWF,bus_stop,50.2510829,19.0044165
+Katowice AWF,bus_stop,50.2513832,19.0046164
+Katowice Mikołowska,bus_stop,50.2528101,19.0089734
+Katowice Mikołowska,bus_stop,50.2545951,19.0103455
+Katowice Plac Synagogi,bus_stop,50.2613846,19.0193786
+Park Zadole,bus_stop,50.218437,18.9687581
+Park Zadole,bus_stop,50.2181093,18.9689506
+Piotrowice Dworzec PKP,bus_stop,50.2158486,18.9715895
+Piotrowice Dworzec PKP,bus_stop,50.2157696,18.9719274
+Piotrowice Fabryka Maszyn,bus_stop,50.212878,18.9732094
+Piotrowice Fabryka Maszyn,bus_stop,50.21283,18.9729476
+Piotrowice Fabryka Maszyn,bus_stop,50.2126769,18.9744938
+Piotrowice Fabryka Maszyn,bus_stop,50.2121569,18.9744726
+Piotrowice Fabryka Maszyn,bus_stop,50.2112874,18.9737663
+Piotrowice Osiedle,bus_stop,50.2105266,18.9825211
+Piotrowice Osiedle,bus_stop,50.2102796,18.9825606
+Piotrowice Tyska,bus_stop,50.2111292,18.984883
+Ochojec Ziołowa,bus_stop,50.2122192,18.9866318
+Ochojec Ziołowa,bus_stop,50.2132121,18.9885734
+Ochojec Ziołowa II,bus_stop,50.2128683,18.989131
+Osiedle Odrodzenia Szewska,bus_stop,50.2069906,18.983819
+Osiedle Odrodzenia Szewska,bus_stop,50.2073706,18.9840872
+Osiedle Odrodzenia Kościół,bus_stop,50.203094,18.9840821
+Osiedle Odrodzenia Kościół,bus_stop,50.202884,18.9841878
+Osiedle Odrodzenia Bażantów,bus_stop,50.2014141,18.9894796
+Osiedle Odrodzenia Łętowskiego,bus_stop,50.203103,18.9914023
+Osiedle Odrodzenia Łętowskiego,bus_stop,50.2032337,18.9915456
+Osiedle Odrodzenia Radockiego,bus_stop,50.2058953,18.9895898
+Osiedle Odrodzenia Radockiego,bus_stop,50.2060512,18.9897374
+Ligota Akademiki,bus_stop,50.2177166,18.9577513
+Piotrowice Pętla,bus_stop,50.2008266,18.9633571
+Piotrowice Barcelońska,bus_stop,50.2065521,18.9638279
+Piotrowice Barcelońska,bus_stop,50.2066351,18.9649911
+Zarzecze Jesiotra,bus_stop,50.1917743,18.9467995
+Zarzecze Wędkarska,bus_stop,50.193752,18.9387745
+Zarzecze Wędkarska,bus_stop,50.1935279,18.9406801
+Zarzecze Jesiotra,bus_stop,50.1922074,18.9463994
+Zarzecze Wędkarska,bus_stop,50.188785,18.9516576
+Zarzecze Szarotek,bus_stop,50.1888557,18.9513599
+Piotrowice Szkoła,bus_stop,50.2089889,18.9646412
+Piotrowice Szkoła,bus_stop,50.2092162,18.9644422
+Piotrowice Wojska Polskiego,bus_stop,50.2049954,18.9716436
+Piotrowice Wojska Polskiego,bus_stop,50.2050822,18.9715128
+Piotrowice Działowa,bus_stop,50.2012374,18.9717152
+Piotrowice Działowa,bus_stop,50.2008766,18.971565
+Piotrowice Cmentarz,bus_stop,50.2013246,18.9763103
+Piotrowice Cmentarz,bus_stop,50.2006997,18.976227
+Kostuchna Fińskie Domki,bus_stop,50.1966779,18.9790708
+Kostuchna Fińskie Domki,bus_stop,50.1963418,18.9790837
+Kostuchna Kościół,bus_stop,50.1883583,18.9918929
+Kostuchna Kościół,bus_stop,50.1884334,18.9921472
+Kostuchna Osiedle,bus_stop,50.1838802,18.9974566
+Kostuchna Osiedle,bus_stop,50.1830169,18.9991022
+Kostuchna Kopalnia Murcki,bus_stop,50.1801311,19.0044257
+Kostuchna Kopalnia Murcki,bus_stop,50.1799484,19.0044159
+Kostuchna Zakłady,bus_stop,50.1773423,19.0128851
+Kostuchna Zakłady,bus_stop,50.1777647,19.0120561
+Kostuchna Granica [nż],bus_stop,50.175455,19.0158269
+Kostuchna Granica [nż],bus_stop,50.17517,19.016298
+Murcki Szyb Stanisław,bus_stop,50.2064829,19.0418787
+Murcki Szyb Stanisław,bus_stop,50.2069267,19.0418232
+Giszowiec Karolinki,bus_stop,50.2266817,19.0562683
+Katowice Mickiewicza Biurowce,bus_stop,50.2636823,19.0124281
+Katowice Mickiewicza Biurowce,bus_stop,50.2636987,19.012706
+,bus_stop,50.2675576,19.0354009
+,bus_stop,50.2674228,19.0355906
+Giszowiec Szyb Roździeński,bus_stop,50.2221088,19.0756496
+Giszowiec Szyb Roździeński,bus_stop,50.2227072,19.0756379
+Katowice Stadion Śląski,bus_stop,50.2868728,18.9682826
+Katowice Arena Parking,bus_stop,50.254035,18.9728762
