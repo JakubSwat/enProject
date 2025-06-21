@@ -1,0 +1,2 @@
+training_of_price_predictive_model/merged_dataset.csv filter=lfs diff=lfs merge=lfs -text
+scrapping_using_Openmaps/scrapping_for_Gdańsk_using_Openstreetmap/cache/*.json filter=lfs diff=lfs merge=lfs -text
