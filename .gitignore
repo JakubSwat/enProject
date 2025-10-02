@@ -1,2 +1,3 @@
 .venv-tf/.venv-tf/
 .venv-tf/
+./scrapping_using_Openmaps/geoFabric_try/geofabrik_pbf_files/*.osm.pbf
