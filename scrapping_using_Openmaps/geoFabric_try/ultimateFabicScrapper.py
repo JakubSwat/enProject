@@ -1,19 +1,43 @@
 import subprocess
 import os
-import geopandas as gpd
+import json
+from shapely.geometry import shape
 import pandas as pd
-from shapely.geometry import Point, Polygon, MultiPolygon
 
-# Set your data directory (where the .osm.pbf files are stored)
+# === Konfiguracja katalogów ===
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # katalog geoFabric_try
 
-BASE_DIR = os.getcwd()
-PBF_FILE = os.path.join(BASE_DIR, "geofabrik_pbf_files", "poland.osm.pbf")
+# plik PBF z całej Polski
+PBF_POLAND = os.path.join(BASE_DIR, "geofabrik_pbf_files", "poland-latest.osm.pbf")
 
-DATA_DIR = "/mnt/c/Users/Jakub Swat/Desktop/_/Dokumenty Studia/Inżynierka/geoScraper/scrapping_using_Openmaps/geoFabric_try/geofabrik_pbf_files"
-TEMP_DIR = "/mnt/c/Users/Jakub Swat/Desktop/_/Dokumenty Studia/Inżynierka/geoScraper/scrapping_using_Openmaps/geoFabric_try/temp_osm_data"
-OUTPUT_DIR = "/mnt/c/Users/Jakub Swat/Desktop/_/Dokumenty Studia/Inżynierka/geoScraper/scrapping_using_Openmaps/geoFabric_try/processed_csvs"
+# folder z wyekstrahowanymi miastami (gdansk.osm.pbf)
+DATA_DIR = os.path.join(BASE_DIR, "extracted_cities")
+
+# folder na tymczasowe pliki GeoJSON
+TEMP_DIR = os.path.join(BASE_DIR, "temp_osm_data")
 os.makedirs(TEMP_DIR, exist_ok=True)
+
+# folder na finalne CSV
+OUTPUT_DIR = os.path.join(BASE_DIR, "processed_csvs")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+
+# === Bounding boxy dla miast (minlon, minlat, maxlon, maxlat) ===
+city_bboxes = {
+    "gdansk": (18.40, 54.28, 18.75, 54.45),
+}
+
+
+# === Funkcje pomocnicze ===
+def extract_city(pbf_poland, city_name, bbox, out_dir):
+    """Wycinanie miasta do osobnego pliku .osm.pbf"""
+    out_file = os.path.join(out_dir, f"{city_name}.osm.pbf")
+    subprocess.run([
+        "osmium", "extract", "-b", ",".join(map(str, bbox)),
+        pbf_poland, "-o", out_file, "--overwrite"
+    ], check=True)
+    return out_file
+
 
 def get_coordinates(geometry):
     if geometry.geom_type == 'Point':
@@ -23,13 +47,24 @@ def get_coordinates(geometry):
     else:
         return None, None
 
-def osmium_filter_to_geojson(pbf_path, tag_filters, output_path):
-    filter_args = []
-    for tag in tag_filters:
-        filter_args += ["--overwrite", "-f", "geojson", pbf_path, "tags-filter", "-o", output_path] + tag_filters
-    subprocess.run(["osmium", "tags-filter", "-o", output_path, pbf_path] + tag_filters, check=True)
 
-def process_category(city_name, tag_filters, columns_of_interest, output_filename, extra_filter=None):
+def osmium_filter_to_geojson(pbf_path, tag_filters, output_geojson):
+    """Filtr → PBF → GeoJSON"""
+    temp_filtered = output_geojson.replace(".geojson", ".osm.pbf")
+
+    # 1. Filtrowanie
+    subprocess.run([
+        "osmium", "tags-filter", pbf_path, "-o", temp_filtered, "--overwrite"
+    ] + tag_filters, check=True)
+
+    # 2. Eksport do GeoJSON
+    subprocess.run([
+        "osmium", "export", temp_filtered, "-o", output_geojson, "--overwrite"
+    ], check=True)
+
+
+def process_category_no_gpd(city_name, tag_filters, columns_of_interest, output_filename, extra_filter=None):
+    """Procesowanie kategorii i tworzenie CSV bez użycia GeoPandas"""
     pbf_path = os.path.join(DATA_DIR, f"{city_name}.osm.pbf")
     geojson_path = os.path.join(TEMP_DIR, f"{city_name}_{output_filename}.geojson")
     output_path = os.path.join(OUTPUT_DIR, output_filename)
@@ -37,48 +72,56 @@ def process_category(city_name, tag_filters, columns_of_interest, output_filenam
     # 1. Filter .osm.pbf using osmium
     osmium_filter_to_geojson(pbf_path, tag_filters, geojson_path)
 
-    # 2. Read into GeoDataFrame
+    # 2. Load GeoJSON manually
     if not os.path.exists(geojson_path) or os.stat(geojson_path).st_size == 0:
         print(f"[SKIP] {geojson_path} is empty.")
         return
-    gdf = gpd.read_file(geojson_path)
 
-    if gdf.empty:
+    with open(geojson_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    features = data.get('features', [])
+    if not features:
         print(f"[SKIP] {output_filename} – No features found.")
         return
 
-    # 3. Keep only relevant columns
-    gdf = gdf[['geometry'] + [col for col in columns_of_interest if col in gdf.columns]]
+    rows = []
+    for feat in features:
+        props = feat.get('properties', {})
+        geom = feat.get('geometry')
+        if geom is None:
+            continue
+        # centroid
+        point = shape(geom).centroid
+        props['longitude'] = point.x
+        props['latitude'] = point.y
+        rows.append({k: props.get(k, "") for k in columns_of_interest + ['longitude', 'latitude']})
 
-    # 4. Drop rows without geometry
-    gdf = gdf.dropna(subset=['geometry'])
-
-    # 5. Optional filtering
+    # 3. Optional filter
+    df = pd.DataFrame(rows)
     if extra_filter:
-        gdf = extra_filter(gdf)
+        df = extra_filter(df)
 
-    # 6. Get coordinates
-    gdf['longitude'], gdf['latitude'] = zip(*gdf['geometry'].apply(get_coordinates))
+    if df.empty:
+        print(f"[SKIP] {output_filename} – No data after extra_filter.")
+        return
 
-    # 7. Save CSV
-    final_cols = [col for col in columns_of_interest if col != 'geometry'] + ['latitude', 'longitude']
-    gdf[final_cols].to_csv(output_path, index=False)
+    # 4. Save CSV
+    df.to_csv(output_path, index=False)
     print(f"[DONE] Saved {output_filename}")
 
-# --- City loop ---
-cities = [
-    #"bialystok", "bydgoszcz", "czestochowa",
-    "gdansk"#,
-    #"gdynia",
-    #"katowice", "krakow", "lodz", "lublin", "poznan",
-    #"radom", "rzeszow", "szczecin", "warszawa", "wroclaw"
-]
+
+# === Główna pętla ===
+cities = ["gdansk"]
 
 for city in cities:
-    print(f"\n=== Processing {city.title()} ===")
+    print(f"\n=== Extracting {city.title()} ===")
+    extract_city(PBF_POLAND, city, city_bboxes[city], DATA_DIR)
+
+    print(f"=== Processing {city.title()} ===")
 
     # 1. Bus & tram stops
-    process_category(
+    process_category_no_gpd(
         city,
         ['nwr/highway=bus_stop'],
         ['name', 'highway'],
@@ -86,7 +129,7 @@ for city in cities:
     )
 
     # 2. Train stops
-    process_category(
+    process_category_no_gpd(
         city,
         ['nwr/railway=station', 'nwr/railway=halt'],
         ['name', 'railway'],
@@ -94,7 +137,7 @@ for city in cities:
     )
 
     # 3. Cultural & entertainment
-    process_category(
+    process_category_no_gpd(
         city,
         [
             'nwr/amenity=cinema', 'nwr/amenity=theatre', 'nwr/amenity=arts_centre',
@@ -110,7 +153,7 @@ for city in cities:
     )
 
     # 4. Shopping
-    process_category(
+    process_category_no_gpd(
         city,
         ['nwr/shop=mall', 'nwr/shop=supermarket', 'nwr/shop=convenience', 'nwr/shop=shopping_centre', 'nwr/amenity=marketplace'],
         ['name', 'shop', 'amenity'],
@@ -118,7 +161,7 @@ for city in cities:
     )
 
     # 5. Utilities
-    process_category(
+    process_category_no_gpd(
         city,
         ['nwr/power=substation', 'nwr/man_made=wastewater_plant', 'nwr/man_made=water_works', 'nwr/man_made=recycling'],
         ['name', 'power', 'man_made'],
@@ -126,34 +169,34 @@ for city in cities:
     )
 
     # 6. Primary schools
-    process_category(
+    process_category_no_gpd(
         city,
         ['nwr/amenity=school'],
         ['name', 'amenity'],
         f"{city}_primary_schools_locations.csv",
-        extra_filter=lambda gdf: gdf[gdf['name'].str.contains('Szkoła Podstawowa', case=False, na=False)]
+        extra_filter=lambda df: df[df['name'].str.contains('Szkoła Podstawowa', case=False, na=False)]
     )
 
     # 7. Preschools
-    process_category(
+    process_category_no_gpd(
         city,
         ['nwr/amenity=kindergarten', 'nwr/amenity=school'],
         ['name', 'amenity'],
         f"{city}_preschools_locations.csv",
-        extra_filter=lambda gdf: gdf[gdf['name'].str.contains('Przed', case=False, na=False)]
+        extra_filter=lambda df: df[df['name'].str.contains('Przed', case=False, na=False)]
     )
 
     # 8. High schools & technical schools
-    process_category(
+    process_category_no_gpd(
         city,
         ['nwr/amenity=school'],
         ['name', 'amenity'],
         f"{city}_highschools_and_others_locations.csv",
-        extra_filter=lambda gdf: ~gdf['name'].str.contains('Przed|Podstawo', case=False, na=False)
+        extra_filter=lambda df: df[~df['name'].str.contains('Przed|Podstawo', case=False, na=False)]
     )
 
     # 9. Green spaces
-    process_category(
+    process_category_no_gpd(
         city,
         ['nwr/leisure=park', 'nwr/leisure=garden', 'nwr/leisure=golf_course', 'nwr/leisure=nature_reserve',
          'nwr/landuse=grass', 'nwr/landuse=forest', 'nwr/landuse=meadow',
