@@ -1,3 +1,12 @@
-.venv-tf/.venv-tf/
+# środowisko wirtualne
 .venv-tf/
-./scrapping_using_Openmaps/geoFabric_try/geofabrik_pbf_files/*.osm.pbf
+.venv-tf/.venv-tf/
+
+# pliki .pbf z geofabrik
+scrapping_using_Openmaps/geoFabric_try/geofabrik_pbf_files/*.osm.pbf
+
+# wyekstrahowane miasta
+scrapping_using_Openmaps/geoFabric_try/extracted_cities/*.osm.pbf
+
+# tymczasowe dane GeoJSON itp.
+scrapping_using_Openmaps/geoFabric_try/temp_osm_data/*
