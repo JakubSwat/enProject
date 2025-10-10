@@ -12,7 +12,7 @@ dates = [
 ]
 
 # Katalog docelowy
-base_dir = "/home/jakubswat/PycharmProjects/enProject/scrapping_using_Openmaps/geoFabric_try/geofabrik_pbf_files"
+base_dir = "./geofabrik_pbf_files"
 os.makedirs(base_dir, exist_ok=True)
 
 # URL bazowy
