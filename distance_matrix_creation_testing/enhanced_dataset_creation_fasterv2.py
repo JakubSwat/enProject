@@ -20,8 +20,8 @@ def haversine_vectorized(lat1, lon1, lat2, lon2):
     return R * c
 
 # Directories
-property_dir = '/Users/filiporlikowski/Documents/enProject/KaggleDataset'
-poi_dir = '/Users/filiporlikowski/Documents/enProject/scrapping_using_Openmaps/scrapping_for_Gdańsk_using_Openstreetmap'
+property_dir = '/Users/filiporlikowski/Documents/EngeneeringProject/KaggleDataset'
+poi_dir = '/Users/filiporlikowski/Documents/EngeneeringProject/scrapping_using_Openmaps/geoFabric_try/processed_csvs_history/poland-2023-08.osm'
 output_dir = os.path.join(property_dir, 'output_org')
 os.makedirs(output_dir, exist_ok=True)
 
