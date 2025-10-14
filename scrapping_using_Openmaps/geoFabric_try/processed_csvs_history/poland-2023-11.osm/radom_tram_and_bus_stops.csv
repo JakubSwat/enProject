@@ -1,0 +1,631 @@
+name,highway,longitude,latitude
+Wolanowska / Spadzista,bus_stop,21.1094757,51.4029942
+Ustronie / Radomskiego,bus_stop,21.1715179,51.3766238
+Zbrowskiego / Gołębiowska (NŻ),bus_stop,21.178554,51.4185679
+Słowackiego / Paciaka,bus_stop,21.1937764,51.36921
+Słowackiego / Idalińska,bus_stop,21.1829671,51.3794629
+Dw. Główny PKP / Traugutta 02,bus_stop,21.1547234,51.3928282
+Beliny-Prażmowskiego / Dw. PKS 01,bus_stop,21.1583924,51.3931843
+Grzecznarowskiego / Świerkowa 05,bus_stop,21.1712049,51.379872
+Słowackiego / Gromadzka,bus_stop,21.179256,51.3829511
+Słowackiego / Gromadzka,bus_stop,21.1784877,51.383654
+Kusocińskiego / Chrobrego 04,bus_stop,21.1599351,51.4101504
+Chrobrego / Sowińskiego,bus_stop,21.1600422,51.4122142
+Grzecznarowskiego / Osiedlowa 03,bus_stop,21.1665643,51.3814154
+Grzecznarowskiego / Osiedlowa 06,bus_stop,21.1676987,51.3805692
+Grzecznarowskiego / Jana Pawła II (NŻ) 04,bus_stop,21.1630504,51.3833742
+Długojowska / Miedziana (NŻ),bus_stop,21.1798229,51.3869426
+Warszawska / Rondo 10,bus_stop,21.1494982,51.4293583
+Warszawska / Janiszewska (NŻ),bus_stop,21.1480077,51.4336323
+Os. Gołębiów I 11,bus_stop,21.1844855,51.4108662
+Idalin,bus_stop,21.1833922,51.3705108
+Przejazd / Idalińska,bus_stop,21.1813861,51.3748026
+Mazowiecka / Laskowa,bus_stop,21.1844665,51.3723069
+Janiszpol,bus_stop,21.1994969,51.3644707
+Jana Pawła II / Grzecznarowskiego,bus_stop,21.1594349,51.3835208
+Jana Pawła II / Sandomierska,bus_stop,21.1587226,51.3806927
+PCK / Grzecznarowskiego,bus_stop,21.1517912,51.3868267
+PCK / Grzecznarowskiego,bus_stop,21.1541853,51.3870132
+Kelles-Krauza / 25 Czerwca,bus_stop,21.1619133,51.4029991
+Malczewskiego / Wernera,bus_stop,21.1519455,51.4068942
+Wernera / Malczewskiego,bus_stop,21.1503072,51.4060357
+Trablice,bus_stop,21.128744,51.3528714
+Limanowskiego / Wałowa 02,bus_stop,21.1398723,51.4028974
+1905 Roku / Tytoniowa 04,bus_stop,21.1407454,51.3909207
+Grzecznarowskiego / Śląska 02,bus_stop,21.1576451,51.3862347
+Grzecznarowskiego / Śląska 01,bus_stop,21.1587654,51.3858072
+Limanowskiego / Maratońska 09,bus_stop,21.1297455,51.3907935
+Narutowicza / Kościuszki,bus_stop,21.1497084,51.397049
+Dw. Główny PKP / pl. Dworcowy 05,bus_stop,21.1547119,51.3914501
+Dw. Główny PKP / Poczta 02,bus_stop,21.1559216,51.3922644
+Beliny-Prażmowskiego / Dw. PKS 04,bus_stop,21.1586454,51.393132
+Limanowskiego / Maratońska,bus_stop,21.1283348,51.3896312
+Wernera / Mireckiego,bus_stop,21.1450629,51.4083133
+Szarych Szeregów / Warszawska (NŻ),bus_stop,21.1498351,51.4137633
+11 Listopada / Starowolska,bus_stop,21.159342,51.4140838
+Narutowicza / Kościuszki,bus_stop,21.1500574,51.3969312
+Żwirki i Wigury / Kusocińskiego 01,bus_stop,21.1655024,51.4092334
+Żwirki i Wigury / Struga 02,bus_stop,21.1660422,51.4079079
+Warsztatowa / Potokowa (NŻ),bus_stop,21.1209083,51.3636116
+Żeromskiego / Czachowskiego 03,bus_stop,21.1680193,51.3996197
+Mireckiego / Wernera,bus_stop,21.1422711,51.4083238
+Limanowskiego / Młodzianowska 04,bus_stop,21.1386857,51.3981799
+Limanowskiego / Młodzianowska 03,bus_stop,21.1388403,51.3981833
+Wojska Polskiego / Słowackiego 02,bus_stop,21.1816042,51.3825041
+Chrobrego / Rapackiego,bus_stop,21.1628413,51.4212098
+Chrobrego / Mierzejewskiego,bus_stop,21.1624501,51.4175373
+Chrobrego / Mierzejewskiego,bus_stop,21.1632053,51.4185963
+Aleksandrowicza / Warszawska (NŻ) 06,bus_stop,21.1478556,51.4391708
+Maratońska / Dębowa,bus_stop,21.1242168,51.3928243
+Maratońska / Limanowskiego,bus_stop,21.1275942,51.3909169
+Kielecka / Przytycka,bus_stop,21.1212734,51.4061423
+Kielecka / Wolanowska,bus_stop,21.1161899,51.4025479
+Malczewskiej / Langiewicza,bus_stop,21.1213784,51.4077602
+Malczewskiej / Langiewicza,bus_stop,21.1214146,51.4077541
+Okulickiego / Przeskok,bus_stop,21.1260148,51.4065379
+Czarnieckiego / Zielona,bus_stop,21.1271572,51.4103703
+Kozienicka / Żółkiewskiego,bus_stop,21.199312,51.4138131
+Os. Gołębiów I 16,bus_stop,21.184949,51.4109583
+Kozienicka / Gryczana (NŻ),bus_stop,21.1929752,51.4125509
+11 Listopada / Zbrowskiego (NŻ),bus_stop,21.1765823,51.4111888
+11 Listopada / Sportowa 06,bus_stop,21.171397,51.4120435
+Kilińskiego / Focha,bus_stop,21.1524426,51.4025383
+Słowackiego / Żeromskiego,bus_stop,21.1592412,51.3998601
+Lekarska / Szpital 01,bus_stop,21.1457914,51.4004851
+Żeromskiego / Traugutta 02,bus_stop,21.1473222,51.4020618
+Traugutta / Piłsudskiego,bus_stop,21.1508086,51.3980331
+Kaszubska / Lubelska (NŻ),bus_stop,21.1771946,51.3979626
+Kusocińskiego / Żwirki i Wigury 03,bus_stop,21.1641182,51.4096306
+Godów,bus_stop,21.1477565,51.360685
+Struga / Szklana 09,bus_stop,21.1768747,51.409409
+Struga / Szklana 14,bus_stop,21.1794407,51.4098705
+Szklana / Olsztyńska,bus_stop,21.1763787,51.4048756
+Zbrowskiego / Leśniczówka,bus_stop,21.1707707,51.4023663
+Wierzbicka / Czarnoleska,bus_stop,21.1270256,51.3742789
+,bus_stop,21.1408084,51.3510862
+Cymerysa-Kwiatkowskiego / Placowa,bus_stop,21.163183,51.3854105
+Cymerysa-Kwiatkowskiego / Błotnia,bus_stop,21.1654247,51.3885567
+Młodzianowska / Gazowa 02,bus_stop,21.1480806,51.3835365
+25 Czerwca / Struga 05,bus_stop,21.1657875,51.4065899
+Halinów,bus_stop,21.1101655,51.3900279
+Witkacego / Sołtykowska (NŻ),bus_stop,21.1668317,51.3631564
+Brata Alberta / Ostrowiecka,bus_stop,21.1584161,51.3740266
+Gajowa / Łączna,bus_stop,21.1402944,51.3774011
+Południowa / Wiejska,bus_stop,21.1473805,51.3774468
+Południowa / Wiejska,bus_stop,21.1503848,51.3787363
+Skaryszewska / Inspektowa (NŻ),bus_stop,21.1899265,51.3799934
+Skaryszewska / Inspektowa (NŻ),bus_stop,21.1897281,51.3800363
+Długojów Górny,bus_stop,21.2060618,51.38331
+Długojowska / Odrodzenia,bus_stop,21.1809254,51.3899422
+Malenicka I,bus_stop,21.2071315,51.3731038
+Trablice - Stara Wieś,bus_stop,21.1372147,51.3508918
+Jana Pawła II / Sandomierska,bus_stop,21.1589568,51.3818153
+1905 Roku / Kościuszki 01,bus_stop,21.1462111,51.3914853
+1905 Roku / Kościuszki 02,bus_stop,21.1461418,51.391572
+Brata Alberta / Ostrowiecka,bus_stop,21.1587556,51.373641
+Cymerysa-Kwiatkowskiego / Placowa,bus_stop,21.1633911,51.3857332
+Młodzianowska / Gazowa 01,bus_stop,21.1482776,51.383271
+Grzecznarowskiego / Galeria Feniks 07,bus_stop,21.1781754,51.3816186
+Skaryszewska / Słowackiego,bus_stop,21.1840746,51.3794038
+Słowackiego / Grzecznarowskiego (NŻ),bus_stop,21.1807831,51.3813233
+Słowackiego / Idalińska,bus_stop,21.1827746,51.3795205
+Witkacego / Godowska,bus_stop,21.1652802,51.3686031
+Żeromskiego / Słowackiego 02,bus_stop,21.1597336,51.4004123
+Czarnoleska / Urszuli,bus_stop,21.1325803,51.371564
+Kasztelańska / Warszawska,bus_stop,21.1426217,51.4473392
+Limanowskiego / Cmentarz 08,bus_stop,21.1328934,51.3939196
+Chrobrego / Sowińskiego,bus_stop,21.1600442,51.4120121
+Główna / Krucza,bus_stop,21.1232138,51.4034931
+Wólka Klwatecka,bus_stop,21.1206191,51.4419602
+11 Listopada / Żwirki i Wigury 04,bus_stop,21.1666626,51.4128256
+Główna / Klonowica (NŻ),bus_stop,21.1296743,51.4052041
+Wiejska / Południowa,bus_stop,21.1493504,51.3777298
+Czarnoleska / Urszuli,bus_stop,21.132055,51.3716611
+Rzeszowska / Idalińska,bus_stop,21.1800835,51.3766624
+Struga / pl. Jagielloński 04,bus_stop,21.1548851,51.4049196
+Pruszaków,bus_stop,21.0702947,51.3694958
+Wierzbicka / Gospodarcza (NŻ),bus_stop,21.1244382,51.3702766
+Wierzbicka / Czarnoleska,bus_stop,21.1259019,51.3724207
+Kosów,bus_stop,21.0647963,51.3487753
+Milejowice / Leśna,bus_stop,21.0699979,51.4210777
+Żeromskiego / Czachowskiego 04,bus_stop,21.1664597,51.3997678
+Wojska Polskiego / Lubelska 08,bus_stop,21.1973086,51.3962857
+Wojska Polskiego / Lubelska 05,bus_stop,21.1964458,51.3961256
+Dw. Główny PKP / pl. Dworcowy 01,bus_stop,21.1545181,51.3913865
+Dw. Główny PKP / pl. Dworcowy 03,bus_stop,21.1546141,51.391417
+Skaryszewska / Kmicica (NŻ),bus_stop,21.1963882,51.3819281
+Skaryszewska / Kmicica (NŻ),bus_stop,21.1969581,51.3819792
+Limanowskiego / Maratońska,bus_stop,21.1284554,51.3895457
+Mieszka I / Aleksandrowicza (NŻ),bus_stop,21.1656278,51.4387976
+Mieszka I / Królowej Jadwigi,bus_stop,21.1646469,51.429101
+Os. Prędocinek,bus_stop,21.16307,51.3728359
+Os. Gołębiów I 02,bus_stop,21.1844808,51.4111697
+1905 Roku / Obrońców 05,bus_stop,21.1350328,51.3900811
+1905 Roku / Obrońców 06,bus_stop,21.1348751,51.3901331
+Zbrowskiego / Orląt Lwowskich,bus_stop,21.1767604,51.4148746
+Zbrowskiego / Zientarskiego,bus_stop,21.1758914,51.4130821
+Żwirki i Wigury / Kusocińskiego 03,bus_stop,21.1653082,51.4103166
+Żwirki i Wigury / 11 Listopada 04,bus_stop,21.1653641,51.4124733
+Struga / pl. Jagielloński 02,bus_stop,21.1543893,51.4048219
+Warsztatowa / Rondo (NŻ),bus_stop,21.1184269,51.3592426
+Potkanowska / Żelazna (NŻ),bus_stop,21.1144953,51.3592878
+Brata Alberta / Michalczewskiego,bus_stop,21.1566611,51.3747976
+Lubelska / Lotnicza 08,bus_stop,21.1994571,51.3965408
+Os. Prędocinek,bus_stop,21.163129,51.3727741
+Wierzbicka / Toruńska,bus_stop,21.1284437,51.3786349
+Wierzbicka / Toruńska,bus_stop,21.1290316,51.379968
+Limanowskiego / Cmentarz 07,bus_stop,21.131912,51.3929898
+Limanowskiego / Chopina 10,bus_stop,21.1305006,51.391703
+Reja / Wolność,bus_stop,21.1448549,51.4036594
+Kielecka / Garbarska (NŻ),bus_stop,21.111824,51.3994518
+Potkanowska / Żelazna (NŻ),bus_stop,21.1146064,51.3592168
+Dw. Główny PKP / Poniatowskiego 02,bus_stop,21.1533849,51.3914748
+Dw. Główny PKP / Poniatowskiego 04,bus_stop,21.1528824,51.3913181
+Os. Michałów,bus_stop,21.1605182,51.4296223
+Os. Michałów,bus_stop,21.1605734,51.429735
+Os. Południe,bus_stop,21.1297166,51.3626566
+Os. Południe,bus_stop,21.1297619,51.3627891
+Chrobrego / Czysta,bus_stop,21.156795,51.4065491
+Struga / Niedziałkowskiego,bus_stop,21.1598678,51.4059635
+Struga / Niedziałkowskiego,bus_stop,21.1603452,51.406074
+Malczewskiego / Kelles-Krauza,bus_stop,21.1502327,51.4046562
+Malczewskiego / Kelles-Krauza,bus_stop,21.1506533,51.4052018
+Pileckiego / Kelles-Krauza,bus_stop,21.1568936,51.4046538
+Żeromskiego / Traugutta 04,bus_stop,21.1478249,51.4019814
+Warszawska / Barlickiego,bus_stop,21.1434556,51.4489111
+Okulickiego / Rondo,bus_stop,21.1377492,51.4042965
+Okulickiego / Przeskok,bus_stop,21.1266784,51.4064114
+Limanowskiego / Wałowa 01,bus_stop,21.139896,51.4019785
+Mireckiego / Reja,bus_stop,21.1410264,51.4057537
+Chrobrego / Rapackiego,bus_stop,21.1628016,51.4222181
+11 Listopada / Sportowa 03,bus_stop,21.1691264,51.4124166
+Chrobrego / Kusocińskiego 04,bus_stop,21.1586196,51.4097525
+11 Listopada / Starowolska,bus_stop,21.1585378,51.414126
+Chrobrego / Czysta,bus_stop,21.1569616,51.4066561
+Mickiewicza / Katedra,bus_stop,21.1556588,51.3972112
+Sienkiewicza / Katedra,bus_stop,21.1576425,51.3975538
+25 Czerwca / Waryńskiego,bus_stop,21.1604827,51.3958102
+25 Czerwca / Waryńskiego,bus_stop,21.1604575,51.3955691
+25 Czerwca / Kaufland,bus_stop,21.1619007,51.3985575
+25 Czerwca / Skłodowskiej-Curie,bus_stop,21.1630186,51.4008656
+25 Czerwca / Skłodowskiej-Curie,bus_stop,21.1635322,51.4021025
+Kelles-Krauza / 25 Czerwca,bus_stop,21.1626197,51.4028907
+25 Czerwca / Wysoka,bus_stop,21.1642054,51.403294
+Mieszka I / Żółkiewskiego,bus_stop,21.1632107,51.4257197
+Mieszka I / Królowej Jadwigi,bus_stop,21.1638035,51.4278447
+Wernera / Mireckiego,bus_stop,21.1408322,51.4094655
+Milejowice / Kasztanowa,bus_stop,21.0766769,51.4197984
+Uniwersytecka / Szpital,bus_stop,21.1118711,51.4121701
+Wierzbicka / Tartaczna,bus_stop,21.1305779,51.3848117
+Wierzbicka / Szkoła (NŻ),bus_stop,21.1279055,51.3769033
+Okulickiego / Polna,bus_stop,21.1313154,51.4055419
+Sycyńska / Helleńska,bus_stop,21.134067,51.3657834
+Sycyńska / Helleńska,bus_stop,21.1336989,51.3650544
+Milejowice / Kasztanowa,bus_stop,21.0772048,51.4194116
+Przytycka / Uniwersytecka,bus_stop,21.1086789,51.4086485
+Przytycka / Malczewskiej (NŻ),bus_stop,21.1152981,51.4073273
+Przytycka / Uniwersytecka,bus_stop,21.1067291,51.4090384
+Przytycka / Malczewskiej (NŻ),bus_stop,21.1146061,51.4074654
+Kosowska / Sucha,bus_stop,21.1205496,51.3867704
+Kosowska / Sucha,bus_stop,21.1208727,51.3863278
+Kosowska / Stasieckiego,bus_stop,21.1203016,51.391196
+Kosowska / Stasieckiego,bus_stop,21.1199148,51.390733
+Wierzbicka / Warsztatowa,bus_stop,21.1247368,51.3659789
+Wierzbicka / Warsztatowa,bus_stop,21.1234788,51.3668116
+Dębowa / Maratońska,bus_stop,21.1227619,51.3928808
+Wośniki / Szkoła,bus_stop,21.0903271,51.3788389
+Sucha / Wośnicka (NŻ),bus_stop,21.1119742,51.3854152
+Maratońska / Limanowskiego,bus_stop,21.1281888,51.3907596
+Bielicha II,bus_stop,21.0895239,51.4145618
+Bielicha I,bus_stop,21.0978032,51.4112961
+Bielicha I,bus_stop,21.0961453,51.4119546
+Bielicha II,bus_stop,21.0905919,51.4141442
+Limanowskiego / Sucha,bus_stop,21.1239281,51.385349
+Limanowskiego / Sucha,bus_stop,21.1249923,51.3864283
+Limanowskiego / MOPS,bus_stop,21.1224885,51.3839822
+Limanowskiego / MOPS,bus_stop,21.1222068,51.3837221
+Główna / Krucza,bus_stop,21.1211412,51.403221
+Kielecka / Przytycka,bus_stop,21.1192723,51.40469
+Kusocińskiego / Warszawska 01,bus_stop,21.1550202,51.4113314
+Kusocińskiego / Warszawska 02,bus_stop,21.155332,51.4112594
+Warszawska / Rondo 09,bus_stop,21.1492634,51.4296063
+Warszawska / Rybna (NŻ),bus_stop,21.1525323,51.4190246
+Warszawska / 11 Listopada,bus_stop,21.1543356,51.4136968
+Warszawska / Kusocińskiego,bus_stop,21.1543585,51.4121139
+Warszawska / Rybna (NŻ),bus_stop,21.1528885,51.4183655
+Sucha / Limanowskiego,bus_stop,21.1227391,51.3857226
+Czarnoleska / Wierzbicka,bus_stop,21.1288959,51.3727836
+Wolanowska / Stroma,bus_stop,21.1030149,51.4027405
+Os. Zamłynie 02,bus_stop,21.1185795,51.4008895
+Stańczyka / Malczewskiego (NŻ),bus_stop,21.1498681,51.4032529
+Szarych Szeregów / Warszawska (NŻ),bus_stop,21.1520879,51.4140148
+Rodziny Winczewskich / Warszawska,bus_stop,21.1521589,51.4091661
+Czarnieckiego / Zielona,bus_stop,21.1279358,51.4109021
+Sienkiewicza / Moniuszki,bus_stop,21.1536109,51.3982983
+Lubelska / Kaszubska,bus_stop,21.1784897,51.3986488
+Lubelska / Kaszubska,bus_stop,21.179919,51.3984462
+Lubelska / Szczecińska,bus_stop,21.1870038,51.3978209
+Lubelska / Chorzowska,bus_stop,21.1932061,51.3972163
+Lubelska / Chorzowska,bus_stop,21.1928642,51.3971862
+Lubelska / Szczecińska,bus_stop,21.1878614,51.3976724
+Szklana / Olsztyńska,bus_stop,21.1765723,51.4052856
+Warszawska / Ofiar Firleja,bus_stop,21.145797,51.440799
+Warszawska / Witosa,bus_stop,21.1427938,51.4505162
+Warszawska / Barlickiego,bus_stop,21.1441764,51.4460413
+Szklana / Kolberga (NŻ),bus_stop,21.1748271,51.4016561
+Szklana / Kolberga (NŻ),bus_stop,21.1746635,51.4012982
+Grzecznarowskiego / Świerkowa 08,bus_stop,21.1722874,51.3797558
+Żelazna / RADPEC,bus_stop,21.1088585,51.3575989
+Energetyków / Brzustowska (NŻ),bus_stop,21.1817434,51.4251382
+Zbrowskiego / Leśniczówka,bus_stop,21.1714901,51.4039502
+Zbrowskiego / Olsztyńska,bus_stop,21.1727477,51.4065247
+Zbrowskiego / Olsztyńska,bus_stop,21.1728562,51.4067541
+Struga / Zbrowskiego 07,bus_stop,21.1716037,51.4083265
+Struga / Zbrowskiego 10,bus_stop,21.1722084,51.4084476
+Szklana / Struga,bus_stop,21.1782312,51.4087059
+Reja / Wolność,bus_stop,21.145102,51.4035822
+Obozisko,bus_stop,21.1471918,51.4097554
+Obozisko,bus_stop,21.1465699,51.4098589
+Słowackiego / Makuszyńskiego,bus_stop,21.1876824,51.3748501
+Słowackiego / Ludowa,bus_stop,21.1908499,51.3718564
+Żółkiewskiego / Sobieskiego,bus_stop,21.1581427,51.4261399
+Żółkiewskiego / Sobieskiego,bus_stop,21.1593245,51.425737
+Kościuszki / Planty,bus_stop,21.1502767,51.3948109
+Kościuszki / Planty,bus_stop,21.1500749,51.3943883
+Narutowicza / Podwalna,bus_stop,21.1431908,51.3983577
+Narutowicza / Podwalna,bus_stop,21.1432221,51.3984348
+Traugutta / Piłsudskiego,bus_stop,21.1511788,51.3977818
+Warszawska / Kusocińskiego,bus_stop,21.1541133,51.4109954
+Warszawska / 11 Listopada,bus_stop,21.1537057,51.4152414
+Warszawska / Klejowa (NŻ),bus_stop,21.1516978,51.4222349
+Warszawska / Klejowa (NŻ),bus_stop,21.1512796,51.4230916
+Mieszka I / Piastowska,bus_stop,21.1652439,51.4312393
+Mieszka I / Piastowska,bus_stop,21.1659545,51.4323312
+Maratońska / Podhalańska (NŻ),bus_stop,21.118236,51.3959115
+Maratońska / Podhalańska (NŻ),bus_stop,21.117006,51.3958045
+Os. Gołębiów II / Paderewskiego,bus_stop,21.1753003,51.4161228
+Os. Gołębiów II / Paderewskiego,bus_stop,21.1753872,51.4158806
+Kaptur,bus_stop,21.1383247,51.4174613
+Traugutta / Moniuszki,bus_stop,21.153769,51.3960173
+Rapackiego / Chrobrego 02,bus_stop,21.1645956,51.4219486
+Żelazna / RADPEC,bus_stop,21.1077092,51.3574152
+Ślepowron,bus_stop,21.0522189,51.394343
+Ślepowron,bus_stop,21.0557869,51.3950119
+Wernera / Zielona,bus_stop,21.127499,51.4139478
+Wernera / Zielona,bus_stop,21.1267295,51.4143746
+Struga / pl. Jagielloński 01,bus_stop,21.1547886,51.404989
+Pileckiego / Kelles-Krauza,bus_stop,21.1570853,51.4044213
+Traugutta / Moniuszki,bus_stop,21.1536426,51.3961035
+Malczewskiego / Wernera,bus_stop,21.1525806,51.4082317
+Jana Pawła II / Michalczewskiego,bus_stop,21.1547234,51.3793195
+Michalczewskiego / Jana Pawła II,bus_stop,21.1540314,51.3789627
+Michalczewskiego / Brata Alberta,bus_stop,21.1557768,51.3752889
+Słowackiego / Paciaka,bus_stop,21.1946135,51.3683017
+Słowackiego / Ludowa,bus_stop,21.1902715,51.3725201
+1905 Roku / Tytoniowa 03,bus_stop,21.1396995,51.3907221
+Struga / 25 Czerwca,bus_stop,21.1671451,51.4074393
+Paderewskiego / Sempołowskiej,bus_stop,21.1708057,51.4174634
+Paderewskiego / Sempołowskiej,bus_stop,21.1699754,51.4176439
+Os. Gołębiów II / Sempołowskiej,bus_stop,21.1695251,51.4189548
+Os. Gołębiów II / Sempołowskiej,bus_stop,21.1702165,51.4204062
+Toruńska / Limanowskiego,bus_stop,21.1210617,51.3812987
+Toruńska / Wierzbicka,bus_stop,21.127384,51.3793533
+Struga / 25 Czerwca,bus_stop,21.1649773,51.407012
+Janiszpol,bus_stop,21.2002399,51.3635552
+Wapienna / Wolanowska,bus_stop,21.085144,51.4011548
+Okulickiego / Rondo,bus_stop,21.1364041,51.40457
+Bielicha III,bus_stop,21.0859268,51.4159808
+Bielicha III,bus_stop,21.0851353,51.4162939
+Słowackiego / Kwiatowa,bus_stop,21.1752025,51.3867795
+Słowackiego / Kalińska,bus_stop,21.1721075,51.3895341
+Słowackiego / Kwiatowa,bus_stop,21.175505,51.3864906
+Słowackiego / Kalińska,bus_stop,21.1729395,51.3888794
+Słowackiego / Średnia,bus_stop,21.1682826,51.3924974
+Słowackiego / Średnia,bus_stop,21.1685421,51.3923893
+Warsztatowa / Potokowa (NŻ),bus_stop,21.1211858,51.3641319
+Maratońska / Dębowa,bus_stop,21.1232239,51.3937578
+Wojska Polskiego / Odrodzenia (NŻ) 03,bus_stop,21.1910446,51.3875941
+Energetyków / Nowa Wola Gołębiowska,bus_stop,21.1930155,51.4492427
+Limanowskiego / Lustrzana 05,bus_stop,21.1344924,51.3954414
+Limanowskiego / Lustrzana 06,bus_stop,21.1347616,51.3957024
+Limanowskiego / Toruńska,bus_stop,21.1196578,51.3813592
+Limanowskiego / Toruńska,bus_stop,21.1203718,51.3820239
+Wyścigowa / Jana Pawła II,bus_stop,21.1591403,51.3776929
+Wyścigowa / Radomskiego,bus_stop,21.1707931,51.3755182
+Wyścigowa / Czackiego,bus_stop,21.1614281,51.3768305
+Wiejska / Południowa,bus_stop,21.149081,51.3786772
+Wiejska / Bukietowa,bus_stop,21.1505461,51.3747727
+Wyścigowa / Radomskiego,bus_stop,21.1702192,51.3755617
+Wiejska / Bukietowa,bus_stop,21.15052,51.3749179
+Kozienicka / Żółkiewskiego,bus_stop,21.2000605,51.4139762
+Kozienicka / Gryczana (NŻ),bus_stop,21.1936473,51.4126848
+Łukasika / Kijewskiej,bus_stop,21.1305363,51.3882551
+Wierzbicka / Tartaczna,bus_stop,21.1306109,51.3850064
+Mariacka / Sedlaka,bus_stop,21.1407814,51.3971712
+Łukasika / Kijewskiej,bus_stop,21.1306051,51.3876311
+Mariacka / Sedlaka,bus_stop,21.1409942,51.3969514
+Kilińskiego / Focha,bus_stop,21.1537123,51.4023255
+Dworzec autobusowy (12),bus_stop,21.1591923,51.392958
+Słowackiego / Nowogrodzka,bus_stop,21.1624422,51.3971244
+Słowackiego / Nowogrodzka,bus_stop,21.1628124,51.3968348
+Okulickiego / Polna,bus_stop,21.1325753,51.4052458
+Kielecka / Marglowa,bus_stop,21.0972516,51.3891057
+Kielecka / Marglowa,bus_stop,21.0979128,51.3894707
+Kielecka / Kierzkowska,bus_stop,21.1009336,51.3917232
+Kielecka / Halinowska,bus_stop,21.1059584,51.3952477
+Kielecka / Halinowska,bus_stop,21.1054383,51.3948757
+Rapackiego / Sempołowskiej 01,bus_stop,21.1700186,51.4215141
+Zbrowskiego / Gołębiowska (NŻ),bus_stop,21.1781001,51.4176249
+Mieszka I / Aleksandrowicza (NŻ),bus_stop,21.1654191,51.4387694
+Józefów / Szpital 04,bus_stop,21.1562477,51.4395229
+Mieszka I / Perzanowskiej (NŻ),bus_stop,21.1657497,51.4351536
+Aleksandrowicza / Józefowska (NŻ) 02,bus_stop,21.1628067,51.439673
+Józefów / Szpital 01,bus_stop,21.1577775,51.4394185
+Mieszka I / Perzanowskiej (NŻ),bus_stop,21.1659318,51.4364469
+Aleksandrowicza / Warszawska (NŻ) 03,bus_stop,21.1482395,51.4391644
+Ofiar Firleja / Gombrowicza,bus_stop,21.1489627,51.4446323
+Ofiar Firleja / Gombrowicza,bus_stop,21.1495004,51.4450081
+Warszawska / Janiszewska (NŻ),bus_stop,21.1477382,51.4350558
+Ofiar Firleja / Barlickiego (NŻ),bus_stop,21.1544443,51.4483778
+Ofiar Firleja / Warszawska,bus_stop,21.1464998,51.4429085
+Warszawska / Ofiar Firleja,bus_stop,21.1451322,51.4434938
+Ofiar Firleja / Barlickiego (NŻ),bus_stop,21.1535029,51.447723
+Sienkiewicza / Moniuszki,bus_stop,21.1545888,51.3981158
+Sycyńska / Urszuli (NŻ),bus_stop,21.1347878,51.3695678
+Sycyńska / Urszuli (NŻ),bus_stop,21.1347437,51.3697031
+Mazowiecka / Laskowa,bus_stop,21.1836108,51.3727944
+Przejazd / Idalińska,bus_stop,21.181492,51.3747425
+Główna / Klonowica (NŻ),bus_stop,21.127777,51.4046166
+Wiertnicza / Idalińska,bus_stop,21.1780978,51.3724768
+Idalińska / Wiertnicza,bus_stop,21.1781262,51.3730305
+Idalińska / Wiertnicza,bus_stop,21.178665,51.3734996
+Rzeszowska / Idalińska,bus_stop,21.1806647,51.3767364
+Wyścigowa / Jana Pawła II,bus_stop,21.1584774,51.3786427
+Os. Gołębiów II / Paderewskiego,bus_stop,21.1747283,51.4162475
+Firlej / Cmentarz,bus_stop,21.157153,51.4500664
+Cymerysa-Kwiatkowskiego / Błotnia,bus_stop,21.1652669,51.3883548
+Osiowa / Krańcowa,bus_stop,21.1179029,51.4139949
+Folwarczna / Iglasta,bus_stop,21.1390251,51.4139852
+Osiowa / Langiewicza,bus_stop,21.1216012,51.4129584
+Langiewicza / Osiowa,bus_stop,21.1222682,51.4124794
+Langiewicza / al. Róż (NŻ),bus_stop,21.1223148,51.4097041
+Listopadowa / al. Róż (NŻ),bus_stop,21.1209866,51.4098415
+Folwarczna / Mokra (NŻ),bus_stop,21.1376756,51.412051
+Osiowa / Krańcowa,bus_stop,21.1180803,51.4139462
+Folwarczna / Iglasta,bus_stop,21.1392185,51.4144833
+Folwarczna / Chłodna,bus_stop,21.1350637,51.4115951
+Wernera / Chłodna,bus_stop,21.1354139,51.4105413
+Wernera / Chłodna,bus_stop,21.1371904,51.4101606
+Wacyn / Osiowa,bus_stop,21.114344,51.4150003
+Cerekiew / Cmentarz,bus_stop,21.0688539,51.4051485
+Kierzków,bus_stop,21.0664991,51.3968805
+Wolanowska / Wapienna (NŻ),bus_stop,21.083789,51.4004116
+Cerekiew / Cmentarz,bus_stop,21.0670884,51.4053649
+Wolanowska I (NŻ),bus_stop,21.0728369,51.3983107
+Wolanowska / Wapienna (NŻ),bus_stop,21.0802842,51.3997454
+Cerekiew / Kościół,bus_stop,21.0553099,51.4066353
+Cerekiew / Kościół,bus_stop,21.0551459,51.4066683
+Milejowice / Cerekiewska,bus_stop,21.0604958,51.4246344
+Milejowice / Jaworowa,bus_stop,21.0643646,51.4233933
+Milejowice / Jaworowa,bus_stop,21.0654707,51.4229948
+Chrobrego / Kusocińskiego 03,bus_stop,21.158447,51.4094527
+Wiejska / Łanowa,bus_stop,21.1498937,51.3705944
+Wiejska / Łanowa,bus_stop,21.1497782,51.3702391
+Wiejska / Rolnicza,bus_stop,21.1483792,51.3659786
+Wiejska / Rolnicza,bus_stop,21.1480429,51.3649705
+Kosów,bus_stop,21.0501935,51.3556677
+Kosów,bus_stop,21.0506394,51.3559852
+Kończyce-Kolonia,bus_stop,21.0622372,51.3641991
+Kończyce-Kolonia,bus_stop,21.0640806,51.3655066
+Pruszaków,bus_stop,21.0711029,51.3704941
+Kielecka / Arbiter (NŻ),bus_stop,21.075354,51.3735139
+Kielecka / Arbiter (NŻ),bus_stop,21.0751303,51.3733547
+Kielecka / Mostowa (NŻ),bus_stop,21.0789968,51.3761041
+Kielecka / Mostowa (NŻ),bus_stop,21.0806486,51.377269
+Kielecka / Wośnicka,bus_stop,21.0840416,51.3796774
+Kielecka / Wośnicka,bus_stop,21.085452,51.3806762
+Kielecka / Skrajna (NŻ),bus_stop,21.0916493,51.3850779
+Kielecka / Skrajna (NŻ),bus_stop,21.0927249,51.3858339
+Kielecka / Garbarska (NŻ),bus_stop,21.110643,51.3985182
+Kielecka / Wolanowska,bus_stop,21.1155157,51.4019802
+Kielecka / Wolanowska,bus_stop,21.1173506,51.4033733
+Lubelska / Lotnicza 07,bus_stop,21.199812,51.3965718
+Wolanowska I (NŻ),bus_stop,21.070749,51.3979034
+Wolanowska / Areszt [NŻ],bus_stop,21.0892193,51.4014465
+Wolanowska / Areszt [NŻ],bus_stop,21.0895799,51.4015151
+Wolanowska / Milejowicka,bus_stop,21.0942399,51.4023986
+Wolanowska / Milejowicka,bus_stop,21.0982864,51.403071
+Wolanowska / Stroma,bus_stop,21.1039501,51.402792
+Wolanowska / Spadzista,bus_stop,21.1097783,51.4030029
+Bulwarowa / Długa,bus_stop,21.1118057,51.3924901
+Bulwarowa / Długa,bus_stop,21.111213,51.3916816
+Halinów,bus_stop,21.1092624,51.3892756
+Bulwarowa / Pośrednia (NŻ),bus_stop,21.1087184,51.38604
+Bulwarowa / Pośrednia (NŻ),bus_stop,21.1085577,51.3849047
+Os. Wośniki,bus_stop,21.1065121,51.3822012
+Os. Wośniki,bus_stop,21.1076165,51.3824168
+Os. Wośniki,bus_stop,21.1074471,51.3825241
+Uniwersytecka / Przytycka,bus_stop,21.1083828,51.4091365
+Żeromskiego / Sienna (NŻ) 07,bus_stop,21.1709178,51.3991325
+Fołtyn I (NŻ) 06,bus_stop,21.1985125,51.4209389
+Kasztelańska / Jagienki,bus_stop,21.1389274,51.4485747
+Kasztelańska / Jagienki,bus_stop,21.1390947,51.4484882
+Kasztelańska / Warszawska,bus_stop,21.1426279,51.4473691
+Samorządowa / Kielecka (NŻ),bus_stop,21.0874838,51.3832612
+Wośniki / Samorządowa,bus_stop,21.0829363,51.3829573
+Wośniki / Szkoła (NŻ),bus_stop,21.0915364,51.3784788
+Wośniki / Szkoła (NŻ),bus_stop,21.0910696,51.3785399
+Wośnicka / Londyńska (NŻ),bus_stop,21.0991033,51.3790426
+Wośnicka / Londyńska (NŻ),bus_stop,21.0994833,51.3792082
+Sucha / Wośnicka (NŻ),bus_stop,21.1113723,51.3853579
+Józefów / Szpital,bus_stop,21.1559963,51.4393282
+Janiszew I (NŻ),bus_stop,21.119791,51.4264702
+Janiszew I (NŻ),bus_stop,21.1196388,51.4269059
+Janiszew,bus_stop,21.116318,51.430278
+Zielona / Janiszew,bus_stop,21.1230195,51.4198763
+Zielona / Sarnia (NŻ),bus_stop,21.1252058,51.4158996
+Zielona / Janiszew,bus_stop,21.1226228,51.4207916
+Klwatecka / Warszawska,bus_stop,21.1434384,51.4419366
+Klwatecka / Sznajdra (NŻ),bus_stop,21.128612,51.4424969
+Klwatecka / Błędowska,bus_stop,21.1359539,51.442529
+Klwatecka / Sznajdra (NŻ),bus_stop,21.1277173,51.4424281
+Klwatecka / Błędowska,bus_stop,21.1354202,51.4425139
+Chorzowska I (NŻ),bus_stop,21.1967867,51.4027358
+Chorzowska I (NŻ),bus_stop,21.1966572,51.4024607
+Potkanów / Stalowa,bus_stop,21.0894919,51.35555
+Stalowa / Starokrakowska,bus_stop,21.0858175,51.3600146
+Stalowa / Starokrakowska,bus_stop,21.0859118,51.359967
+Starokrakowska / Kościół (NŻ),bus_stop,21.0887613,51.3621403
+Starokrakowska / Szydłowiecka,bus_stop,21.0913404,51.3636385
+Starokrakowska / Szydłowiecka,bus_stop,21.0923377,51.3642182
+Potkanowska / Starokrakowska (NŻ),bus_stop,21.0998162,51.3662017
+Potkanowska / Starokrakowska (NŻ),bus_stop,21.1007549,51.3657611
+Potkanowska / Kłosowa (NŻ),bus_stop,21.1050931,51.3637151
+Potkanowska / Kłosowa (NŻ),bus_stop,21.1068119,51.3629007
+Warsztatowa / Rondo (NŻ),bus_stop,21.119548,51.3609217
+Warsztatowa / Rondo (NŻ),bus_stop,21.119484,51.3609363
+Miedziana / Długojowska (NŻ),bus_stop,21.1789496,51.3860056
+Długojowska / Odrodzenia,bus_stop,21.1805842,51.3891711
+Pomorska / Szczecińska (NŻ),bus_stop,21.1816693,51.3927685
+Pomorska / Szczecińska (NŻ),bus_stop,21.1802901,51.3930207
+Zwoleńska / Kochanowskiego (NŻ),bus_stop,21.1802413,51.396392
+Kochanowskiego / Lubelska (NŻ),bus_stop,21.1813669,51.3972178
+Janiszpol,bus_stop,21.1987218,51.3648924
+Słowackiego / Makuszyńskiego,bus_stop,21.1865942,51.3759951
+Polna / Równa,bus_stop,21.1326944,51.4077788
+Polna / Równa,bus_stop,21.1332559,51.4093443
+Starokrakowska / Młyńska,bus_stop,21.1155707,51.3779784
+Starokrakowska / Młyńska,bus_stop,21.1150336,51.3775928
+Starokrakowska / Nadrzeczna (NŻ),bus_stop,21.1089477,51.3731816
+Starokrakowska / Nadrzeczna (NŻ),bus_stop,21.1082382,51.3726708
+Starokrakowska / Potkanowska,bus_stop,21.1006801,51.367295
+Starokrakowska / Potkanowska,bus_stop,21.0999878,51.3668048
+Energetyków / Gajl (NŻ),bus_stop,21.1913686,51.4450948
+Gajl / Elektrociepłownia,bus_stop,21.2000036,51.4458407
+Nowa Wola Gołębiowska II,bus_stop,21.2035604,51.4478788
+Nowa Wola Gołębiowska I,bus_stop,21.2141696,51.446217
+Nowa Wola Gołębiowska / Potkańskiego,bus_stop,21.2254869,51.4444244
+Stara Wola Gołębiowska II,bus_stop,21.2114382,51.4340428
+Stara Wola Gołębiowska I,bus_stop,21.1998135,51.435869
+Stara Wola Gołębiowska / Energetyków,bus_stop,21.188637,51.4376166
+Energetyków / Stara Wola Gołębiowska,bus_stop,21.1875352,51.4372109
+Energetyków / Brzustowska (NŻ),bus_stop,21.1824679,51.4266411
+Malenicka I,bus_stop,21.2074616,51.3729241
+Malenicka / Rzeckiego (NŻ),bus_stop,21.2037914,51.3742884
+Malenicka / Rzeckiego (NŻ),bus_stop,21.2024191,51.374523
+Malenicka / Poziomkowa (NŻ),bus_stop,21.1976922,51.375344
+Malenicka / Poziomkowa (NŻ),bus_stop,21.1979756,51.3752907
+Malenicka / Szkoła,bus_stop,21.1903383,51.3767309
+Malenicka / Szkoła,bus_stop,21.1908884,51.3766282
+Kilińskiego / Urząd Miejski,bus_stop,21.1562305,51.40191
+Kilińskiego / Urząd Miejski,bus_stop,21.1556867,51.4019994
+Malczew,bus_stop,21.1646822,51.3565175
+Witkacego / Sołtykowska (NŻ),bus_stop,21.1668571,51.361952
+Witkacego / Studzienna (NŻ),bus_stop,21.1664719,51.3654584
+Witkacego / Studzienna (NŻ),bus_stop,21.1662862,51.3660759
+Witkacego / Godowska,bus_stop,21.1651704,51.3688697
+Grzebieniowa / Źródłowa,bus_stop,21.1708333,51.3722866
+Grzebieniowa / Źródłowa,bus_stop,21.1721634,51.3720007
+Wojska Polskiego / Ogrodnicza (NŻ) 01,bus_stop,21.1851527,51.3840394
+Godowska / Godna (NŻ),bus_stop,21.1587476,51.3684847
+Godowska / Godna (NŻ),bus_stop,21.1584482,51.3684423
+Godowska I (NŻ),bus_stop,21.1523762,51.3683095
+Godowska I (NŻ),bus_stop,21.1535041,51.3681806
+Godowska / Wiejska (NŻ),bus_stop,21.1506058,51.3685544
+Kaszubska / Puławska,bus_stop,21.1757747,51.3949587
+Górna / Słowackiego (NŻ),bus_stop,21.1712196,51.3917946
+Średnia / Słowackiego,bus_stop,21.1705142,51.3922861
+Średnia / Puławska,bus_stop,21.1745227,51.3961928
+Żelazna / Działki (NŻ),bus_stop,21.1031257,51.3557367
+Żelazna / Działki (NŻ),bus_stop,21.103626,51.3558083
+Wacyn / Szpital,bus_stop,21.1132677,51.4128823
+Uniwersytecka / Szpital,bus_stop,21.1112469,51.4122007
+Szarych Szeregów / Wernera,bus_stop,21.1431481,51.4100271
+Szarych Szeregów / Wernera,bus_stop,21.1436162,51.4105313
+Dąbrówka Nagórna ul. Miła,bus_stop,21.0951134,51.4426657
+Dąbrówka Nagórna ul. Miła,bus_stop,21.0958076,51.4421205
+Klwatka Szlachecka - Przytułki,bus_stop,21.0999732,51.4388084
+Klwatka Szlachecka - Przytułki,bus_stop,21.1006746,51.4384891
+Dąbrówka Nagórna ul. Radosna/Cicha,bus_stop,21.0867442,51.4487757
+Dąbrówka Nagórna ul. Radosna/Cicha,bus_stop,21.0858485,51.4494693
+Mleczków I,bus_stop,21.0511753,51.4282538
+Mleczków I,bus_stop,21.0500955,51.4286464
+,bus_stop,21.0640596,51.3534637
+Mokra / Wernera,bus_stop,21.1418238,51.4108301
+Gajowa / Łączna,bus_stop,21.1419797,51.3771605
+Wjazdowa / Biegunowa (NŻ),bus_stop,21.1321037,51.3785831
+Wjazdowa / Biegunowa (NŻ),bus_stop,21.1300606,51.3789959
+Wośniki / Sadownicza,bus_stop,21.0791788,51.378651
+Dworzec autobusowy (1),bus_stop,21.1583507,51.3926077
+Dworzec autobusowy (2),bus_stop,21.1584149,51.3926269
+Dworzec autobusowy (3),bus_stop,21.1584829,51.392651
+Dworzec autobusowy (4),bus_stop,21.1585573,51.3926766
+Dworzec autobusowy (5),bus_stop,21.1586292,51.392699
+Dworzec autobusowy (6),bus_stop,21.15871,51.3927214
+Dworzec autobusowy (7),bus_stop,21.1588011,51.3927527
+Dworzec autobusowy (8),bus_stop,21.1588807,51.3927775
+Dworzec autobusowy (9),bus_stop,21.1589692,51.3928031
+Dworzec autobusowy (10),bus_stop,21.1590577,51.3928303
+Dworzec autobusowy (18),bus_stop,21.1584659,51.3928106
+Dworzec autobusowy (19),bus_stop,21.1583704,51.392781
+Dworzec autobusowy (20),bus_stop,21.158284,51.3927543
+Dworzec autobusowy (17),bus_stop,21.1585492,51.3928364
+Dworzec autobusowy (16),bus_stop,21.1586407,51.3928648
+Dworzec autobusowy (15),bus_stop,21.1587335,51.3928935
+Nieczatów,bus_stop,21.0524565,51.4380998
+Chłodna / Równa,bus_stop,21.1355058,51.4080183
+Starokrakowska / Nasypowa (NŻ),bus_stop,21.1057488,51.3708979
+Starokrakowska / Nasypowa (NŻ),bus_stop,21.1044437,51.3699705
+Wyścigowa / Czackiego,bus_stop,21.1627324,51.3767887
+Energetyków / Stara Wola Gołębiowska,bus_stop,21.1880708,51.4383061
+Dworzec autobusowy (11),bus_stop,21.1590747,51.3929119
+Milejowice / Kasztanowa,bus_stop,21.0759975,51.4198874
+Milejowice,bus_stop,21.0598164,51.4250758
+Trablice,bus_stop,21.1286658,51.352046
+Wolanowska II (NŻ),bus_stop,21.0614867,51.396115
+Wolanowska II (NŻ),bus_stop,21.0621921,51.3962467
+Chorzowska / Lubelska (NŻ),bus_stop,21.1943247,51.3976201
+Chorzowska / Lubelska (NŻ),bus_stop,21.1943912,51.3977589
+Wrocławska / Chorzowska (NŻ),bus_stop,21.1927534,51.4006247
+Wrocławska / Chorzowska (NŻ),bus_stop,21.194411,51.4003155
+Wrocławska / Małęczyńska (NŻ),bus_stop,21.1856498,51.401905
+Wrocławska / Małęczyńska (NŻ),bus_stop,21.1864518,51.4017554
+Małęczyńska / Lubelska (NŻ),bus_stop,21.1826327,51.4004519
+Małęczyńska / Lubelska (NŻ),bus_stop,21.1826797,51.4005536
+Wojska Polskiego / Odrodzenia (NŻ) 06,bus_stop,21.1925513,51.3886156
+Wojska Polskiego / Ogrodnicza (NŻ) 04,bus_stop,21.1862079,51.3844921
+,bus_stop,21.0584024,51.4255978
+Milejowice / Leśna,bus_stop,21.0728964,51.4205277
+Lotnisko Warszawa-Radom 01,bus_stop,21.1991981,51.3940002
+Szydłowiecka / Czajkowskiego (NŻ),bus_stop,21.080905,51.3681654
+Szydłowiecka / Czajkowskiego (NŻ),bus_stop,21.0798971,51.3683733
+Energetyków / Żółkiewskiego (NŻ),bus_stop,21.1805277,51.4226117
+Zbrowskiego / Zientarskiego,bus_stop,21.1754965,51.4122877
+Kosów,bus_stop,21.0653352,51.3494194
+,bus_stop,21.1276042,51.341862
+Wola Taczowska,bus_stop,21.0453571,51.4496248
+Wola Taczowska,bus_stop,21.044213,51.4498214
+Kozinki,bus_stop,21.0552967,51.4465114
+Kozinki,bus_stop,21.054479,51.4468336
+,bus_stop,21.0591652,51.4258348
+Nieczatów,bus_stop,21.0521685,51.4374676
+Fołtyn / Holsztańskiej (NŻ) 05,bus_stop,21.1935387,51.4227886
+Fołtyn / Holsztańskiej (NŻ) 08,bus_stop,21.1923711,51.423239
+,bus_stop,21.1038606,51.4290729
+,bus_stop,21.1048438,51.4291739
+Szydłowiecka / Starokrakowska (NŻ),bus_stop,21.091726,51.3658641
+Szydłowiecka / Starokrakowska (NŻ),bus_stop,21.0929382,51.3656078
+Szydłowiecka / Kielecka (NŻ),bus_stop,21.0730519,51.3698124
+Gołębiów / Holszańskiej,bus_stop,21.189764,51.4225107
+Gołębiów / Holszańskiej,bus_stop,21.1896445,51.4225306
+,bus_stop,21.0544124,51.4089517
+,bus_stop,21.1988652,51.394
+,bus_stop,21.1986879,51.3940133
+,bus_stop,21.1985352,51.3940215
+,bus_stop,21.1983647,51.394023
+Gołębiów / Holszańskiej,bus_stop,21.1894303,51.4224752
+Gołębiów / Holszańskiej,bus_stop,21.1899179,51.4228188
+Lotnisko Warszawa-Radom 01,bus_stop,21.1991552,51.3940019
+Sadownicza / Hodowlana (NŻ),bus_stop,21.0820717,51.3806447
+Sadownicza / Hodowlana (NŻ),bus_stop,21.0819885,51.3807853
+Struga / Szklana 12,bus_stop,21.1768053,51.4093348

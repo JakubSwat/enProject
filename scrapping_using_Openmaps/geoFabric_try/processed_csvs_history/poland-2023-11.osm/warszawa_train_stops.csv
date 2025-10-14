@@ -1,0 +1,96 @@
+name,railway,longitude,latitude
+Warszawa Wschodnia,station,21.0523678,52.2515889
+Ratusz Arsenał,station,21.0011584,52.2449972
+Ząbki,halt,21.1134764,52.2925063
+Marymont,station,20.9717196,52.2716615
+Stare Bielany,station,20.9493596,52.2818172
+Wawrzyszew,station,20.9395965,52.2863179
+Młociny,station,20.9298695,52.2907599
+Warszawa Włochy,station,20.9145689,52.206084
+Opacz,halt,20.9046686,52.1813883
+Reguły,halt,20.8589972,52.1703956
+Warszawa Gocławek,halt,21.1355605,52.2371137
+Warszawa Jeziorki,halt,20.9931266,52.1103103
+Warszawa Śródmieście WKD,station,20.9993834,52.2274779
+Słodowiec,station,20.9602351,52.2768253
+Warszawa Lotnisko Chopina,station,20.9752099,52.1696272
+Warszawa Ursus Niedźwiadek,halt,20.8700172,52.1914638
+Warszawa Śródmieście,halt,21.0075878,52.2293788
+Warszawa Dawidy,halt,20.9911229,52.1285606
+Warszawa Płudy,halt,20.9858824,52.3340372
+Warszawa Aleje Jerozolimskie,station,20.9411445,52.2057559
+Zielonka,station,21.1568511,52.3114582
+Dworzec Wileński,station,21.0355034,52.2540622
+Stadion Narodowy,station,21.0428754,52.2469807
+Centrum Nauki Kopernik,station,21.0317878,52.2399148
+Nowy Świat-Uniwersytet,station,21.016788,52.236833
+Rondo ONZ,station,20.9981863,52.2331283
+Rondo Daszyńskiego,station,20.982848,52.230052
+Kabaty,station,21.0650711,52.1320765
+Stokłosy,station,21.0347233,52.1560759
+Natolin,station,21.0564351,52.1411007
+Imielin,station,21.0461062,52.1493
+Ursynów,station,21.0276283,52.1620456
+Służew,station,21.0262866,52.1727624
+Racławicka,station,21.0121943,52.1989416
+Wierzbno,station,21.016599,52.1899435
+Wilanowska,station,21.0231369,52.1818
+Pole Mokotowskie,station,21.0077851,52.208529
+Politechnika,station,21.0153582,52.2184572
+Centrum,station,21.0100632,52.2311577
+Warszawa Stadion,halt,21.0439574,52.2447462
+Warszawa Zachodnia,station,20.9651719,52.2201572
+Warszawa Ursus,halt,20.8852512,52.1964007
+Warszawa Ochota,halt,20.9908403,52.2258253
+Warszawa Reduta Ordona,halt,20.9478636,52.2143854
+Warszawa Ursus Północny,halt,20.8898498,52.2056545
+Warszawa Gołąbki,station,20.8642041,52.2084204
+Warszawa Rembertów,station,21.158478,52.2571084
+Warszawa Olszynka Grochowska,halt,21.1064928,52.2498804
+Warszawa Anin,halt,21.1599414,52.212993
+Warszawa Międzylesie,halt,21.168978,52.2039216
+Warszawa Radość,halt,21.1871497,52.1857228
+Warszawa Rakowiec,halt,20.9661819,52.1967848
+Warszawa Żwirki i Wigury,halt,20.9803082,52.193416
+Warszawa Służewiec,halt,20.9870352,52.1807488
+Warszawa Okęcie,station,20.9873566,52.1657359
+Warszawa Gdańska,station,20.9923588,52.2590955
+Dworzec Gdański,station,20.9943315,52.2578685
+Warszawa Wola,halt,20.9578322,52.2297939
+Warszawa Młynów,halt,20.9584688,52.2391698
+Warszawa ZOO,halt,21.0178245,52.2635233
+Warszawa Praga,station,21.0223526,52.2775107
+Warszawa Toruńska,halt,21.0130377,52.2941826
+Warszawa Żerań,halt,20.9988691,52.3142173
+Warszawa Zacisze-Wilno,halt,21.0802097,52.2779433
+Warszawa Wawer,station,21.1495794,52.22337
+Warszawa Ochota WKD,halt,20.9895212,52.2254065
+Warszawa Zachodnia WKD,halt,20.9655716,52.2194559
+Warszawa Raków,halt,20.9358485,52.1944814
+Warszawa Salomea,halt,20.9243847,52.1864599
+Michałowice,halt,20.88126,52.175364
+Plac Wilsona,station,20.9843885,52.2692519
+Kobyłka Ossów,halt,21.1927373,52.3270568
+Warszawa Mokry Ług,halt,21.1704615,52.2772783
+Zielonka Bankowa,halt,21.1540209,52.2914516
+Warszawa Powiśle,halt,21.0281295,52.2337064
+Płocka,station,20.9663573,52.2325009
+Trocka,station,21.0554496,52.2753464
+Świętokrzyska,station,21.0078988,52.2350954
+Księcia Janusza,station,20.9443705,52.2391816
+Młynów,station,20.9601813,52.2376748
+Warszawa Koło,halt,20.9590105,52.2462109
+Szwedzka,station,21.0453302,52.2634539
+Targówek Mieszkaniowy,station,21.0514129,52.2695853
+Warszawa Powązki,halt,20.9723698,52.2560751
+Bemowo,station,20.9155062,52.239197
+Ulrychów,station,20.9298276,52.2403208
+Warszawa Główna,station,20.9850425,52.2250393
+Warszawa Aleje Jerozolimskie WKD,halt,20.9422822,52.2053112
+Warszawa Targówek,halt,21.0517396,52.2642483
+Warszawa Centralna,station,21.00316,52.2288207
+Bródno,station,21.0289407,52.2935846
+Kondratowicza,station,21.0486696,52.292074
+Zacisze,station,21.0621986,52.2837212
+Warszawa Zachodnia peron 9,halt,20.961427,52.2220348
+Warszawa Wileńska,station,21.0385505,52.2558006
