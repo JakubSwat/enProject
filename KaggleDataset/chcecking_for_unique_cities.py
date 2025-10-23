@@ -3,7 +3,7 @@ import glob
 import os
 
 # Path to your KaggleDataset folder
-folder_path = "/Users/filiporlikowski/Documents/inżynierka/enProject/KaggleDataset"
+folder_path = "/Users/filiporlikowski/Documents/EngeneeringProject/KaggleDataset"
 
 # Get all CSV files in the folder
 csv_files = glob.glob(os.path.join(folder_path, "*.csv"))
