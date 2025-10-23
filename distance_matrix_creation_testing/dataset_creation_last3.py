@@ -79,7 +79,7 @@ def load_poi_data(poi_folder):
 # PROCESS EACH APARTMENT FILE
 # -----------------------------
 for apt_file in apartment_files:
-    print(f"\n🟦 Processing {os.path.basename(apt_file)}")
+    print(f"\nProcessing {os.path.basename(apt_file)}")
 
     # Extract date
     match = re.search(r'(\d{4})_(\d{2})', os.path.basename(apt_file))
@@ -87,12 +87,12 @@ for apt_file in apartment_files:
         date_key = f"{match.group(1)}_{match.group(2)}"
         poi_folder = poi_by_date.get(date_key, None)
         if poi_folder:
-            print(f"✅ Using POI data from {os.path.basename(poi_folder)}")
+            print(f"Using POI data from {os.path.basename(poi_folder)}")
         else:
-            print(f"⚠️ No matching POI data for {date_key}, using fallback Gdańsk dataset.")
+            print(f"No matching POI data for {date_key}, using fallback Gdańsk dataset.")
             poi_folder = fallback_poi_dir
     else:
-        print(f"⚠️ No date found in filename, using fallback Gdańsk dataset.")
+        print(f"No date found in filename, using fallback Gdańsk dataset.")
         poi_folder = fallback_poi_dir
 
     # Load POI data (either dated or fallback)
@@ -149,7 +149,7 @@ for apt_file in apartment_files:
 
         output_file = os.path.basename(apt_file).replace('.csv', '_with_poi.csv')
         final_df.to_csv(os.path.join(output_dir, output_file), index=False)
-        print(f"💾 Saved: {output_file}")
+        print(f"Saved: {output_file}")
 
     except Exception as e:
-        print(f"❌ Failed to process {apt_file}: {e}")
+        print(f"Failed to process {apt_file}: {e}")

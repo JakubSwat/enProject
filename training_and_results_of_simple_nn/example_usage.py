@@ -92,4 +92,4 @@ new_data_scaled = scaler.transform([new_data_raw])
 
 # Predict
 predicted_price = model.predict(new_data_scaled)
-print(f"💰 Predicted price: ${predicted_price[0][0]:,.2f}")
+print(f"Predicted price: ${predicted_price[0][0]:,.2f}")
