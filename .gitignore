@@ -11,4 +11,4 @@ scrapping_using_Openmaps/geoFabric_try/extracted_cities/*.osm.pbf
 # tymczasowe dane GeoJSON itp.
 scrapping_using_Openmaps/geoFabric_try/temp_osm_data/*
 
-#osmium extract -b 14.12,49.0,24.15,54.84 --with-history history-230807.osm.pbf -o poland-230807.osm.pbf --overwrite
+#osmium extract -b 14.12,49.0,24.15,54.84 --with-history history-230807.osm.pbf -o poland-230807.osm.pbf --overwriteheatmap/merged_dataset_with_org_cat_values.csv
